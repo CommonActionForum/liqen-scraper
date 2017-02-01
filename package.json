@@ -1,0 +1,28 @@
+{
+  "name": "liqen-scrapper",
+  "version": "0.0.0",
+  "description": "tool to collect news about environmental issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crishernandezmaps/liqen-scrapper.git"
+  },
+  "keywords": [
+    "scraper",
+    "news",
+    "media"
+  ],
+  "contributors": [
+    "Carlos Saito <carlos@saito.style> (http://saito.style)",
+    "Cristian Hernandez <hi@crishernandez.co> (http://crishernandez.co)"
+
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crishernandezmaps/liqen-scrapper/issues"
+  },
+  "homepage": "https://github.com/crishernandezmaps/liqen-scrapper#readme"
+}
