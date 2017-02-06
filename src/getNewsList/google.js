@@ -1,17 +1,20 @@
+const flatten = require('lodash/fp/flatten')
+const uniqWith = require('lodash/fp/uniqWith')
+
 const google = require('googleapis')
 const customsearch = google.customsearch('v1')
 const CX = process.env.CX
 const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY
 
 /**
- * Returns a list of 10 news in "elpais" containing the "query"
+ * Gets a list of 10 news in "elpais" containing certains terms
  *
- * @param query   - The query to look for
- * @param options - Some extra options:
+ * @param {array}  terms    List of terms (strings) to look for
+ * @param {object} options  Some extra options:
  *
- * @param options.year   - Year of publishing
- * @param options.month  - Month of publishing
- * @param options.date   - Date of month of publishing
+ * @param options.year   Year of publishing
+ * @param options.month  Month of publishing
+ * @param options.date   Date of month of publishing
  *
  * Returns a Promise that will be fulfilled with a list of { title, link }
  * article objects where:
@@ -22,8 +25,23 @@ const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY
  * - `GOOGLE_API_KEY`, the API key obtained from google
  * - `CX`, the ID of the Search Engine
  */
-module.exports = function getList(query, options) {
-  //
+module.exports = function getListFromTerms(terms, options) {
+  const promises = terms.map(term => getList(term, options))
+  const isEqual = (o1, o2) => o1.link === o2.link
+
+  return Promise
+    .all(promises)
+    .then(flatten)
+    .then(uniqWith(isEqual))
+}
+
+
+/**
+ * @private
+ *
+ * Get a list of 10 news in "elpais" containing a term
+ */
+function getList(query, options) {
   if (!CX) {
     throw new Error('Environmental variable CX not set')
   }
