@@ -26,6 +26,7 @@
   "homepage": "https://github.com/crishernandezmaps/liqen-scrapper#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "googleapis": "^16.1.0",
     "request": "^2.79.0"
   }
 }
