@@ -1,21 +1,28 @@
+const filter = require('lodash/fp/filter')
+const map = require('lodash/fp/map')
+
 // Test to call
 const googleSearch = require('./src/getNewsList/google')
 const getContent = require('./src/getContent/elpais')
 
 // 1. Call Google search
-googleSearch('agua', {year: 2016, month: 1, date: 12})
-  .then(list => {
-  	// 2. Transform the "list of links" into "list of (Promise of) contents"
-  	return list.map(i => getContent(i.link))
-  })
-  .then(promises => {
-  	// 3. Get all the content from the array of promises
-  	Promise.all(promises).then(contents => {
-  	  console.log(contents.join('\n\n'))
-  	})
+googleSearch(['agua', 'lluvia', 'rajoy'], {year: 2016, month: 1, date: 12})
+// 2. Transform the "list of links" into "list of (Promise of) contents"
+  .then(map(article => getContent(article.link)))
+// 3. Get all the content from the list of promises
+  .then(promises => Promise.all(promises))
+// 4. Eliminate all blank content articles
+  .then(filter(content => content !== ''))
+// 5. Display
+  .then(contents => {
+    console.log('---- Showing all contents ----')
+    console.log('Length: ', contents.length)
+    for (content of contents) {
+      console.log(content.slice(0,100), '...')
+    }
   })
   .catch(reason => {
-  	console.log(reason)
+    console.log(reason)
   })
 
 
