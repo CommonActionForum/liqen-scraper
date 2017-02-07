@@ -72,6 +72,7 @@ function getList(query, options) {
   const dateString = year + '' + (month < 10 ? '0' + month : month) + '' + date
   const params = {
     cx: CX,
+    cr: 'countryES',
     auth: GOOGLE_API_KEY,
     q: query,
     num: 10,
