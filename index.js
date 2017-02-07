@@ -11,13 +11,16 @@ googleSearch(['agua', 'lluvia', 'rajoy'], {year: 2016, month: 1, date: 12})
   .then(map(article => getContent(article.link)))
 // 3. Get all the content from the list of promises
   .then(promises => Promise.all(promises))
-// 4. Eliminate all blank content articles
-  .then(filter(content => content !== ''))
-// 5. Display
+// 4. Display
   .then(contents => {
-    console.log('---- Showing all contents ----')
-    console.log('Length: ', contents.length)
-    for (content of contents) {
+    const nonBlank = contents.filter(content => content !== '')
+
+    console.log('Articles returned by the search:', contents.length)
+    console.log('Articles scrapped succesfully:  ', nonBlank.length)
+    console.log()
+    console.log('Scrapped articles:')
+
+    for (content of nonBlank) {
       console.log(content.slice(0,100), '...')
     }
   })
