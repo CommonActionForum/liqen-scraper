@@ -27,13 +27,3 @@ googleSearch(['agua', 'lluvia', 'rajoy'], {year: 2016, month: 1, date: 12})
   .catch(reason => {
     console.log(reason)
   })
-
-
-
-//elpais('2016', '01', '01', 'm')
-//  .then(content => { console.log(content) })
-
-//elpais2('http://internacional.elpais.com/internacional/2016/01/01/actualidad/1451637621_839243.html')
-//  .then(content => {
-//console.log(content)
-//  })
