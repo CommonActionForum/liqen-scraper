@@ -87,7 +87,7 @@ function getList(query, options) {
         return
       }
 
-      const list = resp.items.map(({ title, link }) => ({ title, link }))
+      const list = (resp.items && resp.items.map(({ title, link }) => ({ title, link }))) || []
       accept(list)
     })
   })
