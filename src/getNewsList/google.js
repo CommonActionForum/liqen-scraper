@@ -7,7 +7,7 @@ const CX = process.env.CX
 const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY
 
 /**
- * Gets a list of 10 news in "elpais" containing certains terms
+ * Gets a list of 10 news in certain media containing some terms
  *
  * @param {array}  terms    List of terms (strings) to look for
  * @param {object} options  Some extra options:
@@ -15,6 +15,12 @@ const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY
  * @param options.year   Year of publishing
  * @param options.month  Month of publishing
  * @param options.date   Date of month of publishing
+ * @param options.media  (optional) Media ID. If specified, search will be
+ *    performed only in a single media. Accepted values:
+ *    - elpais
+ *    - elmundo
+ *    - lavanguardia
+ *    - abc
  *
  * Returns a Promise that will be fulfilled with a list of { title, link }
  * article objects where:
@@ -49,10 +55,19 @@ function getList(query, options) {
   if (!GOOGLE_API_KEY) {
     throw new Error('Environmental variable GOOGLE_API_KEY not set')
   }
+
+  const sites = {
+    elpais: 'elpais.com',
+    abc: 'abc.es',
+    elmundo: 'elmundo.com',
+    lavanguardia: 'lavanguardia.com'
+  }
+
   const {
     year,
     month,
-    date } = options
+    date,
+    media } = options
 
   const dateString = year + '' + (month < 10 ? '0' + month : month) + '' + date
   const params = {
@@ -62,6 +77,7 @@ function getList(query, options) {
     num: 10,
     sort: `date:r:${dateString}:${dateString}`,
     fields: 'queries(nextPage(count,startIndex)),searchInformation(totalResults),items(link,title,pagemap(metatags))',
+    siteSearch: sites[media] || ''
   }
 
   return new Promise((accept, reject) => {
