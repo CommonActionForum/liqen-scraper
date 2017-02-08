@@ -2,8 +2,8 @@ const filter = require('lodash/fp/filter')
 const map = require('lodash/fp/map')
 
 // Test to call
-const googleSearch = require('./src/getNewsList/google')
-const getContent = require('./src/getContent/elpais')
+const googleSearch = require('../src/getNewsList/google')
+const getContent = require('../src/getContent')
 
 // 1. Call Google search
 googleSearch(['agua', 'lluvia', 'rajoy'], {year: 2016, month: 1, date: 12})
