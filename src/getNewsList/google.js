@@ -31,7 +31,7 @@ const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY
  * - `GOOGLE_API_KEY`, the API key obtained from google
  * - `CX`, the ID of the Search Engine
  */
-module.exports = function getListFromTerms(terms, options) {
+module.exports = function getListFromTerms (terms, options) {
   const promises = terms.map(term => getList(term, options))
   const isEqual = (o1, o2) => o1.link === o2.link
 
@@ -41,13 +41,12 @@ module.exports = function getListFromTerms(terms, options) {
     .then(uniqWith(isEqual))
 }
 
-
 /**
  * @private
  *
  * Get a list of 10 news in "elpais" containing a term
  */
-function getList(query, options) {
+function getList (query, options) {
   if (!CX) {
     throw new Error('Environmental variable CX not set')
   }
@@ -81,7 +80,7 @@ function getList(query, options) {
     siteSearch: sites[media] || ''
   }
 
-  return new Promise((accept, reject) => {
+  return new Promise((resolve, reject) => {
     customsearch.cse.list(params, function (err, resp) {
       if (err) {
         reject(err)
@@ -89,7 +88,7 @@ function getList(query, options) {
       }
 
       const list = (resp.items && resp.items.map(({ title, link }) => ({ title, link }))) || []
-      accept(list)
+      resolve(list)
     })
   })
 }
