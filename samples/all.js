@@ -1,4 +1,3 @@
-const filter = require('lodash/fp/filter')
 const map = require('lodash/fp/map')
 
 // Test to call
@@ -20,8 +19,8 @@ googleSearch(['agua', 'lluvia', 'rajoy'], {year: 2016, month: 1, date: 12})
     console.log()
     console.log('Scrapped articles:')
 
-    for (content of nonBlank) {
-      console.log(content.slice(0,100), '...')
+    for (let content of nonBlank) {
+      console.log(content.slice(0, 100), '...')
     }
   })
   .catch(reason => {
