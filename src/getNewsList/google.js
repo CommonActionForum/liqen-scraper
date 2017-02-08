@@ -59,7 +59,7 @@ function getList(query, options) {
   const sites = {
     elpais: 'elpais.com',
     abc: 'abc.es',
-    elmundo: 'elmundo.com',
+    elmundo: 'elmundo.es',
     lavanguardia: 'lavanguardia.com'
   }
 
