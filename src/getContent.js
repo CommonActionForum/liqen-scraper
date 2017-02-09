@@ -6,6 +6,7 @@ const parsers = {
   abc: require('./parsers/abc'),
   elmundo: require('./parsers/elmundo'),
   elpais: require('./parsers/elpais'),
+  larazon: require('./parsers/larazon'),
   lavanguardia: require('./parsers/lavanguardia')
 }
 
@@ -13,6 +14,7 @@ const patterns = {
   abc: /abc\.es/,
   elmundo: /elmundo\.es/,
   elpais: /elpais\.com/,
+  larazon: /larazon\.es/,
   lavanguardia: /lavanguardia\.com/
 }
 
