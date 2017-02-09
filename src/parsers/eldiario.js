@@ -1,3 +1,4 @@
+const tagFilter = require('./lib/tagFilter')
 /**
  * Parse an article page of "eldiario"
  *
@@ -6,14 +7,11 @@
  * @return {string} the HTML content of the article
  */
 module.exports = function ($) {
-  const allowedTags = ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']
   let content = $('<div></div>')
 
   $('#edi-body')
     .children()
-    .filter(function (i, el) {
-      return allowedTags.indexOf($(this).prop('tagName').toLowerCase()) !== -1
-    })
+    .filter(tagFilter($))
     .each(function (i, el) {
       $(content).append($(this))
     })

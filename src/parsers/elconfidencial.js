@@ -1,19 +1,17 @@
+const tagFilter = require('./lib/tagFilter')
 /**
- * Parse an article page of "elpais"
+ * Parse an article page of "elconfidencial"
  *
  * @param $ {object}   A cheerio DOM object of the article page
  *
  * @return {string} the HTML content of the article
  */
 module.exports = function ($) {
-  const allowedTags = ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']
   let content = $('<div></div>')
 
   $('#news-body-center')
     .children()
-    .filter(function (i, el) {
-      return allowedTags.indexOf($(this).prop('tagName').toLowerCase()) !== -1
-    })
+    .filter(tagFilter($))
     .each(function (i, el) {
       $(content).append($(this))
     })
