@@ -1,6 +1,6 @@
 const tagFilter = require('./lib/tagFilter')
 /**
- * Parse an article page of "lavanguardia"
+ * Parse an article page of "elconfidencial"
  *
  * @param $ {object}   A cheerio DOM object of the article page
  *
@@ -9,12 +9,9 @@ const tagFilter = require('./lib/tagFilter')
 module.exports = function ($) {
   let content = $('<div></div>')
 
-  $('div[itemprop=articleBody]')
+  $('#news-body-center')
     .children()
     .filter(tagFilter($))
-    .filter(function (i, el) {
-      return !$(this).hasClass('summary-lead')
-    })
     .each(function (i, el) {
       $(content).append($(this))
     })
