@@ -10,7 +10,9 @@ downloadArticle('http://cultura.elpais.com/cultura/2017/02/08/actualidad/1486573
 // downloadArticle('http://www.larazon.es/espana/una-condena-del-supremo-a-homs-arrastraria-a-artur-mas-GJ14480710')
 // downloadArticle('http://www.lavanguardia.com/economia/20170209/414177052262/alemania-exportaciones-superavit-2016-trump.html')
   .then(content => {
-    console.log(content)
+    console.log(content.title.slice(0, 80))
+    console.log(content.html.slice(0, 80))
+    console.log(content.image.slice(0, 80))
   })
   .catch(reason => {
     console.log(reason)
