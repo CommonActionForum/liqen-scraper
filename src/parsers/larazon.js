@@ -6,7 +6,23 @@ const tagFilter = require('./lib/tagFilter')
  *
  * @return {string} the HTML content of the article
  */
-module.exports = function ($) {
+module.exports = function parse ($) {
+  return {
+    title: getTitle($),
+    image: getImage($),
+    html: getHtml($)
+  }
+}
+
+function getTitle ($) {
+  return $('meta[property="og:title"]').attr('content')
+}
+
+function getImage ($) {
+  return $('meta[property="og:image"]').attr('content')
+}
+
+function getHtml ($) {
   let content = $('<div></div>')
 
   $('.detalleFullTexto .editorHTML .text')

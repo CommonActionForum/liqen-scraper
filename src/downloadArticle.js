@@ -3,8 +3,14 @@ const request = require('request-promise')
 const cheerio = require('cheerio')
 
 const parsers = {
+  abc: require('./parsers/abc'),
+  elconfidencial: require('./parsers/elconfidencial'),
+  eldiario: require('./parsers/eldiario'),
   elmundo: require('./parsers/elmundo'),
-  elpais: require('./parsers/elpais')
+  elpais: require('./parsers/elpais'),
+  elperiodico: require('./parsers/elperiodico'),
+  larazon: require('./parsers/larazon'),
+  lavanguardia: require('./parsers/lavanguardia')
 }
 
 /**
@@ -21,8 +27,14 @@ const parsers = {
  */
 function getMedia (hostname) {
   const patterns = {
+    abc: /abc\.es/,
+    elconfidencial: /elconfidencial\.com/,
+    eldiario: /eldiario\.es/,
     elmundo: /elmundo\.es/,
-    elpais: /elpais\.com/
+    elpais: /elpais\.com/,
+    elperiodico: /elperiodico\.com/,
+    larazon: /larazon\.es/,
+    lavanguardia: /lavanguardia\.com/
   }
 
   for (const id in patterns) {

@@ -3,23 +3,9 @@ const cheerio = require('cheerio')
 const url = require('url')
 const downloadArticle = require('./downloadArticle')
 
-const parsers = {
-  abc: require('./parsers/abc'),
-  elconfidencial: require('./parsers/elconfidencial'),
-  eldiario: require('./parsers/eldiario'),
-  elperiodico: require('./parsers/elperiodico'),
-  larazon: require('./parsers/larazon'),
-  lavanguardia: require('./parsers/lavanguardia')
-}
+const parsers = {}
 
-const patterns = {
-  abc: /abc\.es/,
-  elconfidencial: /elconfidencial\.com/,
-  eldiario: /eldiario\.es/,
-  elperiodico: /elperiodico\.com/,
-  larazon: /larazon\.es/,
-  lavanguardia: /lavanguardia\.com/
-}
+const patterns = {}
 
 function getMedia (hostname) {
   for (const id in patterns) {
