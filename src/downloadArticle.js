@@ -3,6 +3,7 @@ const request = require('request-promise')
 const cheerio = require('cheerio')
 
 const parsers = {
+  elmundo: require('./parsers/elmundo'),
   elpais: require('./parsers/elpais')
 }
 
@@ -20,6 +21,7 @@ const parsers = {
  */
 function getMedia (hostname) {
   const patterns = {
+    elmundo: /elmundo\.es/,
     elpais: /elpais\.com/
   }
 
