@@ -55,9 +55,4 @@ module.exports = function downloadArticle (uri) {
 
   return request(options)
     .then(parse)
-    .then(html => ({
-      title: '',
-      image: '',
-      html
-    }))
 }
