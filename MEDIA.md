@@ -5,7 +5,7 @@ The following table shows a list of tested mass media webpages. The parser may w
 | MEDIA                 | title  | image | html |
 |:----------------------|:-------|:------|:-----|
 | abc                   | OK     | OK    | OK(1)|
-| ara                   | OK     | OK    |      |
+| ara                   | OK     | OK    | OK(1)|
 | elconfidencial        | OK     | OK    | OK(1)|
 | eldiario              | OK     | OK    | OK(1)|
 | elespanol             | OK     | OK    | OK(1)|
@@ -14,11 +14,11 @@ The following table shows a list of tested mass media webpages. The parser may w
 | elperiodico           | OK     | OK    | OK(1)|
 | esdiario              | OK     | OK    | OK(1)|
 | europapress           | OK     | OK    | OK(1)|
-| huffingtonpost        | OK     | OK    |      |
+| huffingtonpost        | OK     | OK    | OK(1)|
 | lainformacion         | OK     | OK    | OK(1)|
 | larazon               | OK     | OK    | OK(1)|
 | lavanguardia          | OK     | OK    | OK(1)|
-| lavozdegalicia        | OK     | OK    |      |
+| lavozdegalicia        | OK     | OK    | OK(1)|
 | libertaddigital       | OK     |       | OK(1)|
 | naciodigital          | OK     | OK    |      |
 | okdiario              | OK     | OK    | OK(1)|
