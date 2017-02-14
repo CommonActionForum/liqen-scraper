@@ -1,11 +1,52 @@
-# Liqen Scraper
+# Liqen Scrapper
 
-Web scraper for Spanish mass medias.
+Find news and get the relevant information of them.
 
 This project uses
 
 1. Google Custom Search to search into the medias websites.
 2. Scraping techniques to extract the content of an article.
+
+## Usage
+
+This package includes 3 functions
+
+### `googleSearch(terms: string[], options: object) => Promise<Item[]>`
+
+Perform a Google search of certain terms. Then return a promise of an array of `Link` objects:
+
+```js
+Item = {
+  title: string,
+  link: string
+}
+```
+
+For each term, the search will return a maximum of 10 items.
+
+**Note**. Google API Key and Custom Search Engine ID are needed to perform this operation. See *Non technical requisites* section for more info.
+
+### `downloadArticle(uri: string) => Promise<Article>`
+
+Given a URL of an article, get some information possible of it. Return a promise of `Article` object.
+
+#### `Article.title: string`
+
+The title of the article
+
+#### `Article.image: string`
+
+The URI of the heading image
+
+#### `Article.html: string`
+
+The HTML content of the article
+
+### `getContent(uri: string) => Promise<string>`
+
+Given a URL of an article, get the HTML content. Return a promise of it.
+
+**Note**. The content returned by this function is the same as the `html` property of the `Article` returned by `downloadArticle`. It is recommended to use that functioni instead of this.
 
 ## Non technical requisites
 
@@ -32,19 +73,9 @@ export CX
 exporg GOOGLE_API_KEY
 ```
 
-## Usage
-
-TODO
-
 ## List of accepted medias
 
-Media           | News list | Content | Domains
-----------------|-----------|---------|--------------
-El País         | YES       | YES     | \*.elpais.com
-
-## Create a scraper for more media
-
-TODO
+You can see a list of tested medias in the [MEDIA.md](media.md) file.
 
 ## Resources
 
