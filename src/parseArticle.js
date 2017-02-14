@@ -55,6 +55,7 @@ function html ($) {
   // Search the first matching of the following selectors
   function getContainer () {
     const selectors = [
+      '[itemprop=articleBody] [itemProp=text]',
       '[itemprop=articleBody]',
       '#cuerpo_noticia',
       '#edi-body',
@@ -62,6 +63,8 @@ function html ($) {
       '.cuerpo-articulo > div',
       '.main .cuerpo-noticia',
       '.detalleFullTexto .editorHTML .text',
+      '#content .mce-body',
+      '#mainentrycontent',
       '<div></div>'
     ]
 

@@ -18,13 +18,23 @@ const parseArticle = require('./parseArticle')
 function getMedia (hostname) {
   const patterns = {
     abc: /abc\.es/,
+    ara: /ara\.cat/,
     elconfidencial: /elconfidencial\.com/,
     eldiario: /eldiario\.es/,
+    elespanol: /elespanol\.com/,
     elmundo: /elmundo\.es/,
     elpais: /elpais\.com/,
     elperiodico: /elperiodico\.com/,
+    esdiario: /esdiario\.com/,
+    europapress: /europapress\.es/,
+    huffingtonpost: /huffingtonpost\.es/,
+    lainformacion: /lainformacion\.com/,
     larazon: /larazon\.es/,
-    lavanguardia: /lavanguardia\.com/
+    lavanguardia: /lavanguardia\.com/,
+    lavozdegalicia: /lavozdegalicia\.es/,
+    libertaddigital: /libertaddigital\.com/,
+    okdiario: /okdiario\.com/,
+    publico: /publico\.es/
   }
 
   for (const id in patterns) {
