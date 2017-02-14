@@ -12,7 +12,8 @@ module.exports = function parseArticle ($, options) {
   return {
     title: title($),
     image: image($),
-    html: html($)
+    html: html($),
+    source: source($)
   }
 }
 
@@ -104,4 +105,18 @@ function html ($) {
     })
 
   return content.html()
+}
+
+/**
+ * @private
+ *
+ * Get the source (agency or author) of an article
+ *
+ * @param {object} $   A cheerio DOM object of the article
+ * @return {string}    The agency or author name
+ */
+function source ($) {
+  return $('article .news-author [itemprop=author] [itemprop=name]').text().trim() ||
+         $('article [itemprop=name]').text().trim() ||
+         ''
 }
