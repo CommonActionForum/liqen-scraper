@@ -1,20 +1,5 @@
 const url = require('url')
-const request = require('request-promise')
-const cheerio = require('cheerio')
-
-function getTitle (uri) {
-  const options = {
-    transform: function (body) {
-      return cheerio.load(body)
-    },
-    uri
-  }
-
-  return request(options)
-    .then(function ($) {
-      return $('meta[property="og:title"]').attr('content') || ''
-    })
-}
+const downloadArticle = require('../src/downloadArticle')
 /**
  * Test a list of titles of diverse medias
  */
@@ -43,14 +28,20 @@ const uris = [
 ]
 
 // From list of URIs to list of Promises
-Promise
-  .all(uris.map(getTitle))
-  .then(articles => {
-    for (let i = 0; i < uris.length; i++) {
-      console.log(
-        i,
-        url.parse(uris[i]).hostname,
-        articles[i].slice(0, 80)
-      )
-    }
-  })
+const p = uris
+  .map(uri => downloadArticle(uri)
+    .then(article => {
+      console.log(uri)
+      console.log('title: %s', article.title.slice(0, 80))
+      console.log('image: %s', url.resolve(uri, article.image))
+      console.log('html:  %s', article.html.slice(0, 80))
+      console.log()
+      return ''
+    })
+  )
+
+console.log()
+
+Promise.all(p)
+  .then(() => { console.log('parsing finished') })
+  .catch(err => console.log(err))
