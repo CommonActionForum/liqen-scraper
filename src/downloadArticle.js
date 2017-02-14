@@ -1,17 +1,7 @@
 const url = require('url')
 const request = require('request-promise')
 const cheerio = require('cheerio')
-
-const parsers = {
-  abc: require('./parsers/abc'),
-  elconfidencial: require('./parsers/elconfidencial'),
-  eldiario: require('./parsers/eldiario'),
-  elmundo: require('./parsers/elmundo'),
-  elpais: require('./parsers/elpais'),
-  elperiodico: require('./parsers/elperiodico'),
-  larazon: require('./parsers/larazon'),
-  lavanguardia: require('./parsers/lavanguardia')
-}
+const parseArticle = require('./parseArticle')
 
 /**
  * A full article object
@@ -28,13 +18,23 @@ const parsers = {
 function getMedia (hostname) {
   const patterns = {
     abc: /abc\.es/,
+    ara: /ara\.cat/,
     elconfidencial: /elconfidencial\.com/,
     eldiario: /eldiario\.es/,
+    elespanol: /elespanol\.com/,
     elmundo: /elmundo\.es/,
     elpais: /elpais\.com/,
     elperiodico: /elperiodico\.com/,
+    esdiario: /esdiario\.com/,
+    europapress: /europapress\.es/,
+    huffingtonpost: /huffingtonpost\.es/,
+    lainformacion: /lainformacion\.com/,
     larazon: /larazon\.es/,
-    lavanguardia: /lavanguardia\.com/
+    lavanguardia: /lavanguardia\.com/,
+    lavozdegalicia: /lavozdegalicia\.es/,
+    libertaddigital: /libertaddigital\.com/,
+    okdiario: /okdiario\.com/,
+    publico: /publico\.es/
   }
 
   for (const id in patterns) {
@@ -56,10 +56,10 @@ module.exports = function downloadArticle (uri) {
   const media = getMedia(url.parse(uri).hostname)
 
   if (!media) {
-    throw new Error('The provided URI do not match with any known media')
+    console.warn('The provided URI do not match with any known media. It may fail')
+    console.warn('Provided URI: %s', uri)
   }
 
-  const parse = parsers[media]
   const options = {
     transform: function (body) {
       return cheerio.load(body)
@@ -68,5 +68,5 @@ module.exports = function downloadArticle (uri) {
   }
 
   return request(options)
-    .then(parse)
+    .then(parseArticle)
 }
