@@ -6,27 +6,27 @@ The following table shows a list of tested mass media webpages. The parser may w
 * "FAIL" means that a wrong value is retrieved.
 * "OK" means that a valid value is retrieved.
 
-| MEDIA                 | title  | image | html | source | date  |
-|:----------------------|:-------|:------|:-----|:-------|:------|
-| abc                   | OK     | OK    | OK(1)| OK(3)  | OK    |
-| ara                   | OK     | OK    | OK(1)|        | OK    |
-| elconfidencial        | OK     | OK    | OK(1)| OK(3)  | OK    |
-| eldiario              | OK     | OK    | OK(1)| OK(3)  |       |
-| elespanol             | OK     | OK    | OK(1)| OK(3)  | OK    |
-| elmundo               | OK     | OK    | OK(1)| OK(3)  | OK    |
-| elpais                | OK     | OK    | OK(1)| OK(3)  | OK    |
-| elperiodico           | OK     | OK    | OK(1)| OK(2)  | OK    |
-| esdiario              | OK     | OK    | OK(1)| OK(3)  | OK    |
-| europapress           | OK     | OK    | OK(1)| OK(3)  | OK    |
-| huffingtonpost        | OK     | OK    | OK(1)| OK(3)  |       |
-| lainformacion         | OK     | OK    | OK(1)| OK(3)  | OK    |
-| larazon               | OK     | OK    | OK(1)| OK(3)  |       |
-| lavanguardia          | OK     | OK    | OK(1)| OK(3)  | OK    |
-| lavozdegalicia        | OK     | OK    | OK(1)| OK(3)  | OK    |
-| libertaddigital       | OK     | FAIL  | OK(1)| OK(3)  | OK    |
-| naciodigital          | OK     | OK    |      | OK(3)  | N/A   |
-| okdiario              | OK     | OK    | OK(1)| OK(2)  | OK    |
-| publico               | OK     | OK    | OK(1)| OK(3)  |       |
+|MEDIA          |title|image|html |source|date|ld+json|
+|:--------------|:----|:----|:----|:-----|:---|:------|
+|abc            |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|ara            |OK   |OK   |OK(1)|      |OK  |YES    |
+|elconfidencial |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|eldiario       |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|elespanol      |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|elmundo        |OK   |OK   |OK(1)|OK(3) |OK  |NO     |
+|elpais         |OK   |OK   |OK(1)|OK(3) |OK  |NO     |
+|elperiodico    |OK   |OK   |OK(1)|OK(2) |OK  |YES    |
+|esdiario       |OK   |OK   |OK(1)|OK(3) |OK  |NO     |
+|europapress    |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|huffingtonpost |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|lainformacion  |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|larazon        |OK   |OK   |OK(1)|OK(3) |    |NO     |
+|lavanguardia   |OK   |OK   |OK(1)|OK(3) |OK  |NO     |
+|lavozdegalicia |OK   |OK   |OK(1)|OK(3) |OK  |YES    |
+|libertaddigital|OK   |FAIL |OK(1)|OK(3) |OK  |NO     |
+|naciodigital   |OK   |OK   |     |OK(3) |N/A |NO     |
+|okdiario       |OK   |OK   |OK(1)|OK(2) |OK  |NO     |
+|publico        |OK   |OK   |OK(1)|OK(3) |    |NO     |
 
 ## Notes
 
