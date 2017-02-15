@@ -145,8 +145,10 @@ function source ($) {
  */
 function publishedDate ($) {
   const str = ($('meta[property="article:published_time"]').attr('content') ||
+               $('meta[name="DC.date.issued"]').attr('content') ||
                $('meta[property=date]').attr('content') ||
-               '')
+               $('.news-body-date time').attr('datetime') ||
+               '').replace(' ', '')
 
   return new Date(str)
 }

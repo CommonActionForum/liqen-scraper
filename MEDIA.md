@@ -8,25 +8,25 @@ The following table shows a list of tested mass media webpages. The parser may w
 
 | MEDIA                 | title  | image | html | source | date  |
 |:----------------------|:-------|:------|:-----|:-------|:------|
-| abc                   | OK     | OK    | OK(1)| OK(3)  |
-| ara                   | OK     | OK    | OK(1)|        |
-| elconfidencial        | OK     | OK    | OK(1)| OK(3)  |
-| eldiario              | OK     | OK    | OK(1)| OK(3)  |
-| elespanol             | OK     | OK    | OK(1)| OK(3)  |
-| elmundo               | OK     | OK    | OK(1)| OK(3)  |
-| elpais                | OK     | OK    | OK(1)| OK(3)  |
-| elperiodico           | OK     | OK    | OK(1)| OK(2)  |
-| esdiario              | OK     | OK    | OK(1)| OK(3)  |
-| europapress           | OK     | OK    | OK(1)| OK(3)  |
-| huffingtonpost        | OK     | OK    | OK(1)| OK(3)  |
-| lainformacion         | OK     | OK    | OK(1)| OK(3)  |
-| larazon               | OK     | OK    | OK(1)| OK(3)  |
-| lavanguardia          | OK     | OK    | OK(1)| OK(3)  |
-| lavozdegalicia        | OK     | OK    | OK(1)| OK(3)  |
-| libertaddigital       | OK     | FAIL  | OK(1)| OK(3)  |
-| naciodigital          | OK     | OK    |      | OK(3)  |
-| okdiario              | OK     | OK    | OK(1)| OK(2)  |
-| publico               | OK     | OK    | OK(1)| OK(3)  |
+| abc                   | OK     | OK    | OK(1)| OK(3)  | OK    |
+| ara                   | OK     | OK    | OK(1)|        | OK    |
+| elconfidencial        | OK     | OK    | OK(1)| OK(3)  | OK    |
+| eldiario              | OK     | OK    | OK(1)| OK(3)  |       |
+| elespanol             | OK     | OK    | OK(1)| OK(3)  | OK    |
+| elmundo               | OK     | OK    | OK(1)| OK(3)  | OK    |
+| elpais                | OK     | OK    | OK(1)| OK(3)  | OK    |
+| elperiodico           | OK     | OK    | OK(1)| OK(2)  | OK    |
+| esdiario              | OK     | OK    | OK(1)| OK(3)  | OK    |
+| europapress           | OK     | OK    | OK(1)| OK(3)  | OK    |
+| huffingtonpost        | OK     | OK    | OK(1)| OK(3)  |       |
+| lainformacion         | OK     | OK    | OK(1)| OK(3)  | OK    |
+| larazon               | OK     | OK    | OK(1)| OK(3)  |       |
+| lavanguardia          | OK     | OK    | OK(1)| OK(3)  | OK    |
+| lavozdegalicia        | OK     | OK    | OK(1)| OK(3)  | OK    |
+| libertaddigital       | OK     | FAIL  | OK(1)| OK(3)  | OK    |
+| naciodigital          | OK     | OK    |      | OK(3)  | N/A   |
+| okdiario              | OK     | OK    | OK(1)| OK(2)  | OK    |
+| publico               | OK     | OK    | OK(1)| OK(3)  |       |
 
 ## Notes
 
@@ -57,3 +57,4 @@ These are the news source used for this test
 * http://www.naciodigital.cat/noticia/125316/govern/pot/fer/millorar/acollida/refugiats
 * https://okdiario.com/espana/2017/02/13/iglesias-aplica-lista-cremallera-relega-errejon-5o-puesto-del-consejo-ciudadano-748821
 * http://www.publico.es/politica/iglesias-errejon-debe-primera-linea.html
+         |
