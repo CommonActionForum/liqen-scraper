@@ -13,7 +13,8 @@ module.exports = function parseArticle ($, options) {
     title: title($),
     image: image($),
     html: html($),
-    source: source($)
+    source: source($),
+    date: date($)
   }
 }
 
@@ -116,7 +117,20 @@ function html ($) {
  * @return {string}    The agency or author name
  */
 function source ($) {
-  return $('article .news-author [itemprop=author] [itemprop=name]').text().trim() ||
+  return $('meta[name=author]').attr('content') ||
+         $('[itemprop=articleBody] .data [itemprop=author] [itemprop=name]').text().trim() ||
+         $('article .news-author [itemprop=author] [itemprop=name]').text().trim() ||
          $('article [itemprop=name]').text().trim() ||
+         $('.main [itemprop=author]').text().trim() ||
+         $('.cuerpo-articulo [href^="/autor"]').text().trim() ||
+         $('.news-info-box-author [itemprop=author]').text().trim() ||
+         // For ara - Currently not working
+         // $('#content p.pg-bkn-dateline small').text().trim() ||
+         // For eldiario.es
+         $('#content address.dateline small').text().trim() ||
+         // The following 2 lines are for huffingtonpost
+         $('article .info .thirdparty-logo').text().trim() ||
+         $('article .info .name.fn').text().trim() ||
+         $('.detalleFullTexto .author a').text().trim() ||
          ''
 }
