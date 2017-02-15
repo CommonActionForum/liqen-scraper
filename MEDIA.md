@@ -6,8 +6,8 @@ The following table shows a list of tested mass media webpages. The parser may w
 * "FAIL" means that a wrong value is retrieved.
 * "OK" means that a valid value is retrieved.
 
-| MEDIA                 | title  | image | html | source |
-|:----------------------|:-------|:------|:-----|:-------|
+| MEDIA                 | title  | image | html | source | date  |
+|:----------------------|:-------|:------|:-----|:-------|:------|
 | abc                   | OK     | OK    | OK(1)| OK(3)  |
 | ara                   | OK     | OK    | OK(1)|        |
 | elconfidencial        | OK     | OK    | OK(1)| OK(3)  |

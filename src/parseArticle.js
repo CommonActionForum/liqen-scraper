@@ -14,7 +14,7 @@ module.exports = function parseArticle ($, options) {
     image: image($),
     html: html($),
     source: source($),
-    date: date($)
+    publishedDate: publishedDate($)
   }
 }
 
@@ -133,4 +133,20 @@ function source ($) {
          $('article .info .name.fn').text().trim() ||
          $('.detalleFullTexto .author a').text().trim() ||
          ''
+}
+
+/**
+ * @private
+ *
+ * Get the publishing time of an article
+ *
+ * @param {object} $   A cheerio DOM object of the article
+ * @return {string}    The agency or author name
+ */
+function publishedDate ($) {
+  const str = ($('meta[property="article:published_time"]').attr('content') ||
+               $('meta[property=date]').attr('content') ||
+               '')
+
+  return new Date(str)
 }
