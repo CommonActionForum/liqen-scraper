@@ -32,7 +32,6 @@ const p = uris
   .map(uri => downloadArticle(uri)
     .then(article => {
       console.log(uri)
-      console.log('title:  %s', article.title.slice(0, 80))
       console.log('source: %s', article.source.slice(0, 80))
       console.log()
       return ''
