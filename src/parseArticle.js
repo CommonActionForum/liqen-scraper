@@ -12,7 +12,9 @@ module.exports = function parseArticle ($, options) {
   return {
     title: title($),
     image: image($),
-    html: html($)
+    html: html($),
+    source: source($),
+    publishedDate: publishedDate($)
   }
 }
 
@@ -104,4 +106,49 @@ function html ($) {
     })
 
   return content.html()
+}
+
+/**
+ * @private
+ *
+ * Get the source (agency or author) of an article
+ *
+ * @param {object} $   A cheerio DOM object of the article
+ * @return {string}    The agency or author name
+ */
+function source ($) {
+  return $('meta[name=author]').attr('content') ||
+         $('[itemprop=articleBody] .data [itemprop=author] [itemprop=name]').text().trim() ||
+         $('article .news-author [itemprop=author] [itemprop=name]').text().trim() ||
+         $('article [itemprop=name]').text().trim() ||
+         $('.main [itemprop=author]').text().trim() ||
+         $('.cuerpo-articulo [href^="/autor"]').text().trim() ||
+         $('.news-info-box-author [itemprop=author]').text().trim() ||
+         // For ara - Currently not working
+         // $('#content p.pg-bkn-dateline small').text().trim() ||
+         // For eldiario.es
+         $('#content address.dateline small').text().trim() ||
+         // The following 2 lines are for huffingtonpost
+         $('article .info .thirdparty-logo').text().trim() ||
+         $('article .info .name.fn').text().trim() ||
+         $('.detalleFullTexto .author a').text().trim() ||
+         ''
+}
+
+/**
+ * @private
+ *
+ * Get the publishing time of an article
+ *
+ * @param {object} $   A cheerio DOM object of the article
+ * @return {string}    The agency or author name
+ */
+function publishedDate ($) {
+  const str = ($('meta[property="article:published_time"]').attr('content') ||
+               $('meta[name="DC.date.issued"]').attr('content') ||
+               $('meta[property=date]').attr('content') ||
+               $('.news-body-date time').attr('datetime') ||
+               '').replace(' ', '')
+
+  return new Date(str)
 }
