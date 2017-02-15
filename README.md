@@ -13,7 +13,7 @@ This package includes 3 functions
 
 ### `googleSearch(terms: string[], options: object) => Promise<Item[]>`
 
-Perform a Google search of certain terms. Then return a promise of an array of `Link` objects:
+Perform a Google search of certain terms. Then return a promise of an array of `Item` objects:
 
 ```js
 Item = {
@@ -30,6 +30,24 @@ For each term, the search will return a maximum of 10 items.
 
 Given a URL of an article, get some information possible of it. Return a promise of `Article` object.
 
+### `getContent(uri: string) => Promise<string>`
+
+Given a URL of an article, get the HTML content. Return a promise of it.
+
+**Note**. The content returned by this function is the same as the `html` property of the `Article` returned by `downloadArticle`. It is recommended to use that function instead of this.
+
+### The `Article` object
+
+```js
+Article = {
+  title: string,
+  image: string,
+  html: string,
+  source: string,
+  publishedDate: Date
+}
+```
+
 #### `Article.title: string`
 
 The title of the article
@@ -42,11 +60,13 @@ The URI of the heading image
 
 The HTML content of the article
 
-### `getContent(uri: string) => Promise<string>`
+#### `Article.source: string`
 
-Given a URL of an article, get the HTML content. Return a promise of it.
+The original source of the article (news agency or author name)
 
-**Note**. The content returned by this function is the same as the `html` property of the `Article` returned by `downloadArticle`. It is recommended to use that functioni instead of this.
+#### `Article.publishedDate: Date`
+
+The publishing date/time of the Article
 
 ## Non technical requisites
 
