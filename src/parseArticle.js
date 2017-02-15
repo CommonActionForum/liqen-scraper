@@ -1,4 +1,5 @@
 const tagFilter = require('./parsers/lib/tagFilter')
+const parseJson = require('./parseJson')
 
 /**
  * Parses an article
@@ -9,13 +10,21 @@ const tagFilter = require('./parsers/lib/tagFilter')
  * @return {Article}    The information of the article
  */
 module.exports = function parseArticle ($, options) {
-  return {
+  const jsonTag = $('script[type="application/ld+json"]')
+
+  const parsedJson = jsonTag.length > 0
+                   ? parseJson(jsonTag.html())
+                   : {}
+
+  const parsedHtml = {
     title: title($),
     image: image($),
     html: html($),
     source: source($),
     publishedDate: publishedDate($)
   }
+
+  return Object.assign({json: parsedJson}, parsedHtml, parsedJson)
 }
 
 /**

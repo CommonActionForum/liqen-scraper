@@ -7,9 +7,11 @@ const parseArticle = require('./parseArticle')
  * A full article object
  *
  * @typedef {Object} Article
- * @property {string} title  - The title of the article
- * @property {string} html   - The content of the article in HTML
- * @property {string} image  - The heading image URI of the article
+ * @property {string} title         - The title of the article
+ * @property {string} html          - The content of the article in HTML
+ * @property {string} image         - The heading image URI of the article
+ * @property {Date}   publishedDate - The publishing date of the article
+ * @property {object} json          - Raw JSON object obtained from the article
  */
 
 /**
