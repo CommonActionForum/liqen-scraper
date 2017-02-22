@@ -14,10 +14,25 @@ module.exports = function advancedSearch (term, {
 } = {}) {
   // Map of medias and sites
   const sites = {
-    elpais: 'elpais.com',
     abc: 'abc.es',
+    ara: 'ara.cat',
+    elconfidencial: 'elconfidencial.com',
+    eldiario: 'eldiario.es',
+    elespanol: 'elespanol.com',
     elmundo: 'elmundo.es',
-    lavanguardia: 'lavanguardia.com'
+    elpais: 'elpais.com',
+    elperiodico: 'elperiodico.com',
+    esdiario: 'esdiario.com',
+    europapress: 'europapress.es',
+    huffingtonpost: 'huffingtonpost.es',
+    lainformacion: 'lainformacion.com',
+    larazon: 'larazon.es',
+    lavanguardia: 'lavanguardia.com',
+    lavozdegalicia: 'lavozdegalicia.es',
+    libertaddigital: 'libertaddigital.com',
+    naciodigital: 'naciodigital.cat',
+    okdiario: 'okdiario.com',
+    publico: 'publico.es'
   }
 
   const startDateString = format(parse(startDate), 'YYYYMMDD')
