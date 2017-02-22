@@ -7,13 +7,24 @@ This project uses
 1. Google Custom Search to search into the medias websites.
 2. Scraping techniques to extract the content of an article.
 
-## Usage
+## API
 
-This package includes 3 functions
+This package includes 5 functions:
 
-### `googleSearch(terms: string[], options: object) => Promise<Item[]>`
+- `googleSearch(terms, options) => Promise<Object[]>)`
+- `basicSearch(terms, options) => Promise<Object[]>)`
+- `advancedSearch(term, options) => Promise<Object>`
+- `downloadArticle(uri) => Promise<Object>`
+- `getContent(uri) => Promise<string>`
 
-Perform a Google search of certain terms. Then return a promise of an array of `Item` objects:
+
+### `googleSearch(terms, options) => Promise<Object[]>`
+
+Alias of `basicSearch(terms, options) => Promise<Object[]>)`.
+
+### `basicSearch(terms, options) => Promise<Object[]>)`
+
+Perform a Google search of certain terms. Then return a promise of an array of objects like this:
 
 ```js
 Item = {
@@ -25,6 +36,39 @@ Item = {
 For each term, the search will return a maximum of 10 items.
 
 **Note**. Google API Key and Custom Search Engine ID are needed to perform this operation. See *Non technical requisites* section for more info.
+
+### `advancedSearch(term, options) => Promise<Object>`
+
+Perform a Google search of a single term. It allows more options than the `basicSearch` function.
+
+#### Arguments
+
+1. `term` *(string)*: A term to look for.
+2. `options` *(optional object)*: Options for the Search.
+
+The options object can have the following properties:
+
+- `startDate` *(string)*. The start date of the search in `YYYY-MM-DD` format. Default: `2016-01-01`.
+- `endDate` *(string)*. The end date of the search in `YYYY-MM-DD` format. Default: the current date.
+- `medias` *(array)*. Array of strings. Limit the search to some specified medias. Default: `['elpais']`
+- `index` *(number)*. Index of the 1st result to be returned. Default: `0`
+
+#### Returns
+
+(`Promise<Object>`): An promise of object with the result of the search. This object includes a collection of items (the result itself) and extra convenient information such as counters.
+
+The properties included in this object are:
+
+- `items`. An array of results. Each element of the array is a JavaScript object with article data. Each object has the following properties.
+  - `title`. The title of the article
+  - `link`. A link of the original source of the article
+  - `date`. The publishing date of the article
+  - `image`. Header image of the article URI
+  - `author`. Author of the article
+- `searchInformation`
+  - `totalResults`. Total amount of results
+
+
 
 ### `downloadArticle(uri: string) => Promise<Article>`
 
