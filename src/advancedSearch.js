@@ -10,7 +10,7 @@ module.exports = function advancedSearch (term, {
   startDate = '2016-01-01',
   endDate = '2016-12-31',
   media = '',
-  index = 0
+  offset = 0
 } = {}) {
   // Map of medias and sites
   const sites = {
@@ -30,6 +30,7 @@ module.exports = function advancedSearch (term, {
     auth: GOOGLE_API_KEY,
     q: term,
     num: 10,
+    start: offset,
     sort: `date:r:${startDateString}:${endDateString}`,
     fields: 'items(title,link,pagemap(cse_image,metatags(date,og:title,dc.title))),searchInformation(totalResults)',
     siteSearch: sites[media] || ''
