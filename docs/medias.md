@@ -1,4 +1,36 @@
-# List of tested media sources
+# Media sources
+
+The scraper is focused on mass medias. Here, you can see all the information regarding to the medias.
+
+## <a id="id"></a>Media id
+
+Internally, we always use an ID to identify the media. The following table shows the ID and name of each.
+
+|id             |Name
+|:--------------|-----------------------------------
+|abc            |[ABC](http://abc.es)
+|ara            |[Ara.cat](http://ara.cat)
+|elconfidencial |[El Confidencial](http://elconfidencial.com)
+|eldiario       |[El Diario](http://eldiario.es)
+|elespanol      |[El Español](http://elespanol.com)
+|elmundo        |[El Mundo](http://elmundo.es)
+|elpais         |[El País](http://elpais.com)
+|elperiodico    |[El Periódico](http://elperiodico.com)
+|esdiario       |[ESdiario](http://esdiario.com)
+|europapress    |[Europa Press](http://europapress.es)
+|huffingtonpost |[Huffington Post](http://huffingtonpost.es)
+|lainformacion  |[La Informacion](http://lainformacion.com)
+|larazon        |[La Razon](http://larazon.es)
+|lavanguardia   |[La Vanguardia](http://lavanguardia.com)
+|lavozdegalicia |[La Voz de Galicia](http://lavozdegalicia.es)
+|libertaddigital|[Libertad Digital](http://libertaddigital.com)
+|naciodigital   |[Nació Digital](http://naciodigital.cat)
+|okdiario       |[OK diario](http://okdiario.com)
+|publico        |[Público](http://publico.es)
+
+
+
+## Parser
 
 The following table shows a list of tested mass media webpages. The parser may work in more media than the indicated below.
 
@@ -28,13 +60,13 @@ The following table shows a list of tested mass media webpages. The parser may w
 |okdiario       |OK   |OK   |OK(1)|OK(2) |OK  |NO     |
 |publico        |OK   |OK   |OK(1)|OK(3) |    |NO     |
 
-## Notes
+### Notes
 
 * (1). Not deeply checked. Only checked if the first 80 characters are relevant
 * (2). All authors appear as single string. Not an array
 * (3). Not tested for multi-author.
 
-# Links used for testing
+### Links used for testing
 
 These are the news source used for this test
 
