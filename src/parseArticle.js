@@ -76,7 +76,8 @@ function html ($) {
       '.detalleFullTexto .editorHTML .text',
       '#content .mce-body',
       '#mainentrycontent',
-      '<div></div>'
+      '[class*="body-text"]',
+      '<div></div>',
     ]
 
     for (let i = 0; i < selectors.length; i++) {
