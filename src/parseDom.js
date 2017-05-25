@@ -4,7 +4,7 @@ function getBodyObject ($) {
 }
 
 /** Get the Body of the DOM. Return it as text */
-function getBodyText ($) {
+function getBodyHtml ($) {
   return ''
 }
 
@@ -20,7 +20,7 @@ function getJson ($) {
 
 module.exports = {
   getBodyObject,
-  getBodyText,
+  getBodyHtml,
   getMetadata,
   getJson
 }
