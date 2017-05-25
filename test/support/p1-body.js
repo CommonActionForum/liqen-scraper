@@ -1,12 +1,12 @@
 module.exports = {
-  text: [
-    '<p class="IDE02TXTGENERALCAP6">Primer parrafo <a href="http://localhost/1" target="_blank"><em>con enlace</em></a> en medio.</p>',
-    '<p class="IDE02TXTGENERALSANGRIA">Segundo párrafo hehehehehehe</p>',
-    '<p class="IDE02TXTGENERALSANGRIA">Tercer párrafo incluyendo un link, <a href="http://localhost/2">una suerte de reacción y de orgullo.</a></p>',
-    '<p class="IDE02TXTGENERALSANGRIA">Cuarto párrafo <em>con itálicas</em>. Que sigue, sigue y “sigue”.</p>',
-    '<p class="IDE02TXTGENERALSANGRIA">Quinto —párrafo—</p>',
-    '<p class="IDE02TXTGENERALSANGRIA">Sexto</p>',
-    '<p class="IDE02TXTGENERALSANGRIA">Septimo, <em>1</em>, <em>2</em>, <em>3</em>texto <em>4</em>cosa <em>5</em> o <em>6</em>.</p>'
+  html: [
+    '<p>Primer parrafo <a href="http://localhost/1" target="_blank"><em>con enlace</em></a> en medio.</p>',
+    '<p>Segundo párrafo hehehehehehe</p>',
+    '<p>Tercer párrafo incluyendo un link, <a href="http://localhost/2">una suerte de reacción y de orgullo.</a></p>',
+    '<p>Cuarto párrafo <em>con itálicas</em>. Que sigue, sigue y “sigue”.</p>',
+    '<p>Quinto —párrafo—</p>',
+    '<p>Sexto</p>',
+    '<p>Septimo, <em>1</em>, <em>2</em>, <em>3</em>texto <em>4</em>cosa <em>5</em> o <em>6</em>.</p>'
   ].join(''),
   object: {
     name: '',
@@ -31,7 +31,8 @@ module.exports = {
                 ]
               }
             ]
-          }
+          },
+          ' en medio.'
         ]
       },
       {
@@ -50,10 +51,10 @@ module.exports = {
             name: 'a',
             attrs: {
               href: 'http://localhost/2',
-              children: [
-                'una suerte de reacción y de orgullo.'
-              ]
-            }
+            },
+            children: [
+              'una suerte de reacción y de orgullo.'
+            ]
           }
         ]
       },
