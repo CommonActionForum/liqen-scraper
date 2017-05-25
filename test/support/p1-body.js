@@ -1,2 +1,4 @@
-module.epoxrts = {}
-
+module.exports = {
+  text: '',
+  object: {}
+}
