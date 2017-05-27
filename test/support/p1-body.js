@@ -52,7 +52,7 @@ module.exports = {
           {
             name: 'a',
             attrs: {
-              href: 'http://localhost/2',
+              href: 'http://localhost/2'
             },
             children: [
               'una suerte de reacción y de orgullo.'
