@@ -1,4 +1,4 @@
-const url = require('url')
+// const url = require('url')
 const downloadArticle = require('../src/downloadArticle')
 /**
  * Test a list of titles of diverse medias
