@@ -3,6 +3,10 @@
   "version": "2.0.0-0",
   "description": "tool to collect news about environmental issues",
   "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
   "scripts": {
     "test": "npm run lint && npm run test:src",
     "test:src": "NODE_ENV=test mocha --require babel-register test/**.spec.js",
