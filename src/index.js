@@ -1,7 +1,7 @@
-const downloadArticle = require('./src/downloadArticle')
-const getContent = require('./src/getContent')
-const googleSearch = require('./src/getNewsList/google')
-const advancedSearch = require('./src/advancedSearch')
+const downloadArticle = require('./downloadArticle')
+const getContent = require('./getContent')
+const googleSearch = require('./getNewsList/google')
+const advancedSearch = require('./advancedSearch')
 
 module.exports = {
   downloadArticle,
