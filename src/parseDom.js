@@ -1,3 +1,5 @@
+import toPairs from 'lodash/fp/toPairs'
+
 /** Get the Body of the DOM. Return it as plain JS object */
 function getBodyObject ($) {
   const container = getContainer($)
@@ -20,7 +22,8 @@ function getBodyObject ($) {
 
 /** Get the Body of the DOM. Return it as text */
 function getBodyHtml ($) {
-  return ''
+  const object = getBodyObject($)
+  return convertToText(object)
 }
 
 /** Get the metadata from the DOM. Return it as object */
@@ -79,6 +82,30 @@ function convertToNode (element) {
     default:
       return '---'
   }
+}
+
+// private
+// convert a JS object node into a text
+function convertToText (object) {
+  switch (typeof object) {
+    case 'string':
+      return object
+
+    case 'object':
+      const attrs = toPairs(object.attrs)
+        .map(([name, value]) => `${name}="${value}"`)
+
+      const tag = [object.name].concat(attrs)
+        .join(' ')
+
+      const children = object
+        .children
+        .map(child => convertToText(child))
+        .join('')
+
+      return `<${tag}>${children}</${object.name}>`
+  }
+  return '<' + object.name + '>'
 }
 
 // Filter the html attributes
