@@ -1,15 +1,17 @@
 module.exports = {
   html: [
-    '<p>Primer parrafo <a href="http://localhost/1" target="_blank"><em>con enlace</em></a> en medio.</p>',
+    '<div>',
+    '<p>Primer parrafo <a href="http://localhost/1"><em>con enlace</em></a> en medio.</p>',
     '<p>Segundo párrafo hehehehehehe</p>',
     '<p>Tercer párrafo incluyendo un link, <a href="http://localhost/2">una suerte de reacción y de orgullo.</a></p>',
     '<p>Cuarto párrafo <em>con itálicas</em>. Que sigue, sigue y “sigue”.</p>',
     '<p>Quinto —párrafo—</p>',
     '<p>Sexto</p>',
-    '<p>Septimo, <em>1</em>, <em>2</em>, <em>3</em>texto <em>4</em>cosa <em>5</em> o <em>6</em>.</p>'
+    '<p>Septimo, <em>1</em>, <em>2</em>, <em>3</em>texto <em>4</em>cosa <em>5</em> o <em>6</em>.</p>',
+    '</div>'
   ].join(''),
   object: {
-    name: '',
+    name: 'div',
     attrs: {},
     children: [
       {

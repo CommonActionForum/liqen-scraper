@@ -13,7 +13,7 @@ function getBodyObject ($) {
   return {
     children: children
       .filter(child => child !== null),
-    name: '',
+    name: 'div',
     attrs: {}
   }
 }
