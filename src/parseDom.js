@@ -28,13 +28,46 @@ function getBodyHtml ($) {
 
 /** Get the metadata from the DOM. Return it as object */
 function getMetadata ($) {
+  const image = ($('figure[representativeofpage=true] img').attr('src') ||
+                 $('meta[property="og:image"]').attr('content') ||
+                 '')
+
+  const dateStr = ($('meta[property="article:modified_time"]').attr('content') ||
+                   $('meta[property="article:published_time"]').attr('content') ||
+                   $('meta[name="DC.date.issued"]').attr('content') ||
+                   $('meta[property=date]').attr('content') ||
+                   $('.news-body-date time').attr('datetime') ||
+                   '').replace(' ', '')
+
+  const publishedDate = new Date(dateStr)
+
+  const author = ($('meta[name=author]').attr('content') ||
+                  $('[itemprop=articleBody] .data [itemprop=author] [itemprop=name]').text().trim() ||
+                  $('article .news-author [itemprop=author] [itemprop=name]').text().trim() ||
+                  $('article [itemprop=name]').text().trim() ||
+                  $('.main [itemprop=author]').text().trim() ||
+                  $('.cuerpo-articulo [href^="/autor"]').text().trim() ||
+                  $('.news-info-box-author [itemprop=author]').text().trim() ||
+                  // For ara - Currently not working
+                  // $('#content p.pg-bkn-dateline small').text().trim() ||
+                  // For eldiario.es
+                  $('#content address.dateline small').text().trim() ||
+                  // The following 2 lines are for huffingtonpost
+                  $('article .info .thirdparty-logo').text().trim() ||
+                  $('article .info .name.fn').text().trim() ||
+                  $('.detalleFullTexto .author a').text().trim() ||
+                  '')
+
+  const title = ($('meta[property="og:title"]').attr('content') ||
+                 '')
+
   return {
-    image: '',
-    publishedDate: '',
+    image,
+    publishedDate,
     source: {
-      author: ''
+      author
     },
-    title: ''
+    title
   }
 }
 
@@ -103,7 +136,7 @@ function convertToText (object) {
         .map(([name, value]) => `${name}="${value}"`)
 
       const tag = [object.name].concat(attrs)
-        .join(' ')
+                               .join(' ')
 
       const children = object
         .children
@@ -133,4 +166,3 @@ module.exports = {
   getMetadata,
   getJson
 }
-
