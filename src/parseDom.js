@@ -28,7 +28,14 @@ function getBodyHtml ($) {
 
 /** Get the metadata from the DOM. Return it as object */
 function getMetadata ($) {
-  return {}
+  return {
+    image: '',
+    publishedDate: '',
+    source: {
+      author: ''
+    },
+    title: ''
+  }
 }
 
 /** Get the JSON from the DOM. Return it as object */
