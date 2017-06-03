@@ -1,5 +1,5 @@
 {
-  "name": "liqen-scrapper",
+  "name": "liqen-scraper",
   "version": "1.7.4",
   "description": "tool to collect news about environmental issues",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crishernandezmaps/liqen-scrapper.git"
+    "url": "git+https://github.com/CommonActionForum/liqen-scraper.git"
   },
   "keywords": [
     "scraper",
@@ -22,9 +22,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crishernandezmaps/liqen-scrapper/issues"
+    "url": "https://github.com/CommonActionForum/liqen-scraper/issues"
   },
-  "homepage": "https://github.com/crishernandezmaps/liqen-scrapper#readme",
+  "homepage": "https://github.com/CommonActionForum/liqen-scraper#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
     "date-fns": "^1.27.2",
