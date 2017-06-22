@@ -88,8 +88,11 @@ function getContainer ($) {
     '.main .cuerpo-noticia',
     '.detalleFullTexto .editorHTML .text',
     '#content .mce-body',
+    '#content .entry',
     '#mainentrycontent',
     '[class*="body-text"]',
+    '[class*="bodytext"]',
+    '.news-content',
     '<div></div>'
   ]
 
