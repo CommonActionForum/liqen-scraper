@@ -108,17 +108,24 @@ function getContainer ($) {
 function convertToNode (element) {
   switch (element.type) {
     case 'tag':
-      return ['a', 'p', 'strong', 'em', 'b', 'em'].indexOf(element.name) !== -1
-           ? {
-             name: element.name,
-             attrs: filterAttributes(element.name, element.attribs),
-             children: element
-               .children
-               .map(child => convertToNode(child))
-               .filter(child => child !== null)
-           }
-           : null
+      if (['a', 'p', 'strong', 'em', 'b', 'em'].indexOf(element.name) === -1) {
+        return null
+      }
 
+      const ret = {
+        name: element.name,
+        attrs: filterAttributes(element.name, element.attribs),
+        children: element
+          .children
+          .map(child => convertToNode(child))
+          .filter(child => child !== null)
+      }
+
+      if (ret.children.length === 0) {
+        return null
+      }
+
+      return ret
     case 'text':
       return element.data
 
