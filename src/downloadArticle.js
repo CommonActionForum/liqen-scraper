@@ -1,7 +1,7 @@
 const url = require('url')
 const request = require('request-promise')
 const cheerio = require('cheerio')
-const parseArticle = require('./parseArticle')
+const parse = require('./parse')
 
 /**
  * A full article object
@@ -70,5 +70,5 @@ module.exports = function downloadArticle (uri) {
   }
 
   return request(options)
-    .then(parseArticle)
+    .then(parse)
 }

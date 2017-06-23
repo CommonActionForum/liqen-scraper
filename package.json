@@ -1,11 +1,19 @@
 {
   "name": "liqen-scraper",
-  "version": "1.7.5",
+  "version": "2.1.0",
   "description": "tool to collect news about environmental issues",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint src samples"
+    "test": "npm run lint && npm run test:src",
+    "test:src": "NODE_ENV=test mocha --require babel-register test/**.spec.js",
+    "lint": "eslint src samples",
+    "build": "babel src/ -d lib/",
+    "prepublish": "npm run build",
+    "flow": "flow"
   },
   "repository": {
     "type": "git",
@@ -34,9 +42,16 @@
     "request-promise": "^4.1.1"
   },
   "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-register": "^6.24.1",
+    "chai": "^3.5.0",
     "eslint": "^3.15.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.1",
-    "eslint-plugin-standard": "^2.0.1"
+    "eslint-plugin-standard": "^2.0.1",
+    "flow-bin": "^0.46.0",
+    "mocha": "^3.4.2"
   }
 }
