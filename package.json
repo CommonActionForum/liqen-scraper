@@ -1,6 +1,6 @@
 {
   "name": "liqen-scraper",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "tool to collect news about environmental issues",
   "main": "lib/index.js",
   "files": [
