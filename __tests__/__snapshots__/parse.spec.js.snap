@@ -1,0 +1,2944 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The parser parses an abc article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>Las cuestiones de forma enredan el <strong>caso Pujol</strong>, la investigación que indaga la fortuna sospechosa que la <a href=\\"/espana/abci-pujol-hijo-cobro-54-millones-favores-generalitat-etapa-padre-201701080151_noticia.html\\">familia del expresidente</a> de la Generalitat <strong>Jordi Pujol </strong>escondió durante más de treinta años. Un policía ha entregado al juez del caso un nuevo pendrive, un lápiz de memoria informática, que fue hallado por el inspector jefe de la sección primera de blanqueo de la Brigada Central de Blanqueo y Anticorrupción de la Policía Nacional, «ordenando los diferentes cajones y armarios de su despacho». Así lo recoge el juez <strong>José de la Mata</strong> en un escrito denominado «acta de comparecencia», fechado el 6 de febrero. </p><p>Este pendrive, una memoria USB diferente al ya incorporado a la causa y que ha amenazado con viciar la investigación por su origen dudoso, contiene ocho gigas de datos utilizados por la Policía en este caso y será analizado el próximo martes en la Audiencia Nacional. El magistrado ha fijado para el próximo 14 de febrero la apertura, el <strong>volcado y el análisis de la información contenida en este nuevo dispositivo</strong>. </p><p>Este nuevo dispositivo se ha incorporado a la investigación justo después de que el magistrado haya citado a declarar como testigos a diversos mandos policiales para interrogarles sobre otro pendrive de origen sospechoso y que ha puesto en peligro toda la instrucción. De la Mata ha citado al antiguo número dos de la Policía<strong> Eugenio Pino</strong> y al anterior responsable de Asuntos Internos de la Policía, el comisario <strong>Marcelino Martín Blas</strong>, quien ahora investiga el caso del «pequeño Nicolás» y que, en su momento, solicitó la detención del que fuera su superior. Pino ha manifestado estos días que fue este agente quien le entregó el pendrive y que explicó que se lo habían entregado dos detectives de Método 3, también citados. </p><p>Como adelantó ABC, <strong>el juez trata de averiguar su origen</strong> y salvaguardar así el procedimiento para lo que ha llamado a declarar a distintos responsables policiales relacionados con la causa. Hasta el momento no ha logrado aclarar de dónde ha salido ese lápiz de memoria, que procede de la investigación a los detectives de Método 3 que se desarrolló en el juzgado de instrucción número 14 de Barcelona. </p><p>La investigación que dirige el juez De la Mata afecta a todo el clan Pujol. El magistrado desconfía de la explicación familiar sobre los fondos que ocultaron en Andorra, que ellos justifican como un <a href=\\"http://www.abc.es/espana/abci-herencia-abuelo-florenci-pujol-ahora-ferrusola-201512310423_noticia.html\\">legado del abuelo Florenci</a> que el hijo primogénito, Jordi Pujol Ferrusola, se encargó de multiplicar con inversiones. El juez considera que la familia, capitaneada por el hijo mayor, amasó una fortuna recaudada con comisiones ilícitas abonadas por empresarios ligados a la contratación pública, a cambio de favores políticos. La llave para recibir estas cantidades, opacas a Hacienda e invertidas en paraísos fiscales, fue el apellido familiar. Jordi Pujol, un símbolo del nacionalismo catalán, fue presidente de la Generalitat durante 23 años. </p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Las cuestiones de forma enredan el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "caso Pujol",
+              ],
+              "name": "strong",
+            },
+            ", la investigación que indaga la fortuna sospechosa que la ",
+            Object {
+              "attrs": Object {
+                "href": "/espana/abci-pujol-hijo-cobro-54-millones-favores-generalitat-etapa-padre-201701080151_noticia.html",
+              },
+              "children": Array [
+                "familia del expresidente",
+              ],
+              "name": "a",
+            },
+            " de la Generalitat ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Jordi Pujol ",
+              ],
+              "name": "strong",
+            },
+            "escondió durante más de treinta años. Un policía ha entregado al juez del caso un nuevo pendrive, un lápiz de memoria informática, que fue hallado por el inspector jefe de la sección primera de blanqueo de la Brigada Central de Blanqueo y Anticorrupción de la Policía Nacional, «ordenando los diferentes cajones y armarios de su despacho». Así lo recoge el juez ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "José de la Mata",
+              ],
+              "name": "strong",
+            },
+            " en un escrito denominado «acta de comparecencia», fechado el 6 de febrero. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Este pendrive, una memoria USB diferente al ya incorporado a la causa y que ha amenazado con viciar la investigación por su origen dudoso, contiene ocho gigas de datos utilizados por la Policía en este caso y será analizado el próximo martes en la Audiencia Nacional. El magistrado ha fijado para el próximo 14 de febrero la apertura, el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "volcado y el análisis de la información contenida en este nuevo dispositivo",
+              ],
+              "name": "strong",
+            },
+            ". ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Este nuevo dispositivo se ha incorporado a la investigación justo después de que el magistrado haya citado a declarar como testigos a diversos mandos policiales para interrogarles sobre otro pendrive de origen sospechoso y que ha puesto en peligro toda la instrucción. De la Mata ha citado al antiguo número dos de la Policía",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Eugenio Pino",
+              ],
+              "name": "strong",
+            },
+            " y al anterior responsable de Asuntos Internos de la Policía, el comisario ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Marcelino Martín Blas",
+              ],
+              "name": "strong",
+            },
+            ", quien ahora investiga el caso del «pequeño Nicolás» y que, en su momento, solicitó la detención del que fuera su superior. Pino ha manifestado estos días que fue este agente quien le entregó el pendrive y que explicó que se lo habían entregado dos detectives de Método 3, también citados. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Como adelantó ABC, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "el juez trata de averiguar su origen",
+              ],
+              "name": "strong",
+            },
+            " y salvaguardar así el procedimiento para lo que ha llamado a declarar a distintos responsables policiales relacionados con la causa. Hasta el momento no ha logrado aclarar de dónde ha salido ese lápiz de memoria, que procede de la investigación a los detectives de Método 3 que se desarrolló en el juzgado de instrucción número 14 de Barcelona. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La investigación que dirige el juez De la Mata afecta a todo el clan Pujol. El magistrado desconfía de la explicación familiar sobre los fondos que ocultaron en Andorra, que ellos justifican como un ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.abc.es/espana/abci-herencia-abuelo-florenci-pujol-ahora-ferrusola-201512310423_noticia.html",
+              },
+              "children": Array [
+                "legado del abuelo Florenci",
+              ],
+              "name": "a",
+            },
+            " que el hijo primogénito, Jordi Pujol Ferrusola, se encargó de multiplicar con inversiones. El juez considera que la familia, capitaneada por el hijo mayor, amasó una fortuna recaudada con comisiones ilícitas abonadas por empresarios ligados a la contratación pública, a cambio de favores políticos. La llave para recibir estas cantidades, opacas a Hacienda e invertidas en paraísos fiscales, fue el apellido familiar. Jordi Pujol, un símbolo del nacionalismo catalán, fue presidente de la Generalitat durante 23 años. ",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.abc.es/media/espana/2017/02/09/pujol-ferrusola-ke6C--620x349@abc.jpg",
+    "publishedDate": 2017-02-09T20:39:04.000Z,
+    "source": Object {
+      "author": "Luis P. Arechederra",
+    },
+    "title": "La Policía entrega al juez un pendrive sobre el caso Pujol que apareció «ordenando unos cajones»",
+  },
+}
+`;
+
+exports[`The parser parses an ara article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p> Ja són <strong> 92 els quilòmetres de la xarxa viària catalana</strong> que estan controlats a través de radars per tram, un sistema que reconeix les matrícules a l'inici i al final d'un trajecte i calcula el temps invertit en el recorregut per comprovar si s'ha superat la mitjana de velocitat permesa. El <strong> Servei Català de Trànsit</strong> (SCT) ha col·locat quatre nous radars més per tram, per la qual cosa ja són 17 els trajectes controlats amb aquesta tècnica. </p><p> <a href=\\"http://interactius.ara.cat/mapa-radars-transit-catalunya/\\">  Interactiu especial: el mapa amb tots els radars de Catalunya i quant han recaptat </a></p><p> Els quatre radars que han entrat avui en funcionament són:</p><p> Aquest sistema de control per trams busca prolongar l'efecte de la reducció de la velocitat durant diversos quilòmetres i evitar les frenades sobtades que, en ocasions, es produeixen en detectar-se un radar de punt.</p><p> Segons Trànsit, amb aquest sistema es cobreix de forma efectiva la velocitat en un tram sencer de via i s'obtenen velocitats més igualades i uniformes en el recorregut, per tal de<strong>  reduir la sinistralitat</strong> i millorar la seguretat viària. </p><p> A banda d'aquests dos trams que es controlen des d'avui, <a href=\\"http://www.ara.cat/premium/societat/radars-comencen-multar-N-340-C-65_0_1145885426.html\\"> Trànsit ja disposa de 13 radars</a> més per tram. Són aquests:</p><p> </p><p> </p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Ja són ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " 92 els quilòmetres de la xarxa viària catalana",
+              ],
+              "name": "strong",
+            },
+            " que estan controlats a través de radars per tram, un sistema que reconeix les matrícules a l'inici i al final d'un trajecte i calcula el temps invertit en el recorregut per comprovar si s'ha superat la mitjana de velocitat permesa. El ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Servei Català de Trànsit",
+              ],
+              "name": "strong",
+            },
+            " (SCT) ha col·locat quatre nous radars més per tram, per la qual cosa ja són 17 els trajectes controlats amb aquesta tècnica. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " ",
+            Object {
+              "attrs": Object {
+                "href": "http://interactius.ara.cat/mapa-radars-transit-catalunya/",
+              },
+              "children": Array [
+                "  Interactiu especial: el mapa amb tots els radars de Catalunya i quant han recaptat ",
+              ],
+              "name": "a",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Els quatre radars que han entrat avui en funcionament són:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Aquest sistema de control per trams busca prolongar l'efecte de la reducció de la velocitat durant diversos quilòmetres i evitar les frenades sobtades que, en ocasions, es produeixen en detectar-se un radar de punt.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Segons Trànsit, amb aquest sistema es cobreix de forma efectiva la velocitat en un tram sencer de via i s'obtenen velocitats més igualades i uniformes en el recorregut, per tal de",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "  reduir la sinistralitat",
+              ],
+              "name": "strong",
+            },
+            " i millorar la seguretat viària. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " A banda d'aquests dos trams que es controlen des d'avui, ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.ara.cat/premium/societat/radars-comencen-multar-N-340-C-65_0_1145885426.html",
+              },
+              "children": Array [
+                " Trànsit ja disposa de 13 radars",
+              ],
+              "name": "a",
+            },
+            " més per tram. Són aquests:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " ",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.ara.cat/2013/06/27/societat/Radar-Sud-direccio-Barcelona-ACN_945515601_10051674_651x366.jpg",
+    "publishedDate": 2017-02-13T15:00:45.000Z,
+    "source": Object {
+      "author": "",
+    },
+    "title": "Quatre nous radars per tram: ja són 92 km controlats a Catalunya amb aquesta tècnica",
+  },
+}
+`;
+
+exports[`The parser parses an elconfidencial article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>“El lunes que viene no tenemos organización”, “gane quien gane, perdemos todos” o “esto es un suicidio colectivo”. La autodestructiva campaña interna de <a href=\\"http://www.elconfidencial.com/tags/organismos/podemos-10616/\\">Podemos</a>, acompañada de puñaladas, traiciones, máquina del fango, dimisiones o conspiraciones, está convirtiendo en un lugar común entre los cuadros medios y técnicos del partido que el futuro de la organización pende de un hilo, más allá de una hipotética escisión en el corto plazo. El choque de trenes en el que solo puede quedar uno, o <strong>Pablo Iglesias </strong>o<strong> Íñigo Errejón</strong>, partirá a la organización en dos. Ni Iglesias tendrá puestos de responsabilidad si pierde la batalla, ni Errejón se mantendrá al frente del grupo parlamentario como portavoz en el Congreso si no se hace con el control de la organización.</p><p>Desde el pasado otoño, cada corriente ya comenzó a funcionar de forma prácticamente autónoma, con <a href=\\"http://www.elconfidencial.com/espana/2016-10-20/sectores-podemos-estructuras-paralelas-partido_1277367/\\">sus propias estructuras orgánicas</a> y recursos, tanto humanos como económicos. Una dinámica que ha alimentado la confrontación, marcada en su primera fase por las primarias madrileñas y, tras ellas, por el fratricida proceso de <a href=\\"http://www.elconfidencial.com/tags/temas/vistalegre-ii-19216/\\">Vistalegre II</a>. La beligerancia en el seno de la dirección se ha trasladado también a las bases más activas, cada vez más polarizadas, lo cual no hace más que provocar en simpatizantes y votantes <strong>hastío e indiferencia.</strong></p><p>“No sé si votaré”, responde un activista del 15-M, ahora centrado en la política municipal y los movimientos sociales, que acto seguido pide un resumen sobre “lo que está pasando en Podemos”. El mismo activista que acudió a Vistalegre I acompañado por varios compañeros de su asamblea de barrio, y que participó en los primeros pasos del círculo de Podemos en su distrito. Igual de sintomático, respecto a la situación que vive Podemos, es el hecho de que<strong> solo se flete un bus a Vistalegre II</strong>, cuando en el congreso fundacional llegaron a la treintena. Todos financiados mediante 'crowdfunding'. Ahora, este sistema de recaudación vuelve a emplearse, pero para financiar las campañas de cada equipo.</p><p>La cita de Vistalegre II no está en la agenda de los activistas madrileños, ni tampoco de los que simpatizan con la organización y en su día ejercieron orgullosos de 'pegacarteles'. Pocos meses después, el <strong>“orgullo morado”</strong> vive sus horas más bajas, como han comprobado los responsables de redes de los equipos de Pablo Iglesias (<strong>Héctor Juanatey</strong>) e Íñigo Errejón (<strong>Eduardo Rubiño</strong>). La <strong>publicidad pagada en redes</strong> como Twitter, Facebook o Instagram ha sustituido el empuje desinteresado de miles de personas que convertían las campañas en 'trending topic'.</p><p>Los entornos de Pablo Iglesias e Íñigo Errejón asumen que la convivencia tras el cónclave no resultará fácil. En público, ambos apuestan por salir de Vistalegre II con una <strong>dirección integradora</strong>, a pesar de que quien obtenga mayoría de asientos en el consejo ciudadano estatal tiene capacidad para decidir el consejo de coordinación, el órgano ejecutivo que decide sobre el día a día de la organización. En privado, reconocen que hace ya tiempo que no se van a tomar cañas juntos, y es recurrente observar cómo se niegan el saludo en los pasillos del Congreso. Las amistades forjadas años antes de crear Podemos se han roto, como demuestra el <a href=\\"http://www.elconfidencial.com/espana/2017-02-05/podemos-luis-alegre-contra-iglesias-conspiradores_1326931/\\">escarnio público</a> hacia sus excompañeros del fundador del partido y ex secretario general autonómico <strong>Luis Alegre</strong>. En su cruzada lo han seguido, también en público, <strong>Juan Carlos Monedero </strong>o<strong> Carlos Fernández Liria.</strong></p><p>Cuando la difícil situación que está atravesando Podemos parecía que había tocado fondo, saltaba a la palestra una nueva filtración interesada o un ataque personal. El último, el protagonizado por el líder de Podemos en Valencia, <a href=\\"http://www.elconfidencial.com/espana/2017-02-06/podemos-valencia-compara-pablo-iglesias-franco-saddam-hussein_1327521/\\">comparando las prácticas “cesaristas” de Pablo Iglesias con las de Franco o Sadam Husein</a>. Los pocos puentes que quedaban erigidos entre las dos principales corrientes del partido se han acabado dinamitando los últimos días. Iglesias y Errejón ya solo confían en las personas de su núcleo duro.</p><p>El estado de la organización en Madrid tras la batalla entre el pablista <strong>Ramón Espinar </strong>y la errejonista <strong>Rita Maestre</strong> es un precedente que anticipa a menor escala los acontecimientos que pueden sucederse tras Vistalegre II. La organización se remodeló para dar entrada en los puestos de responsabilidad al equipo de afines a Espinar, incluidos los cargos en el grupo parlamentario autonómico, donde se sustituyó al portavoz<strong> José Manuel López,</strong> que integraba la lista errejonista. Este último sector <a href=\\"http://www.elconfidencial.com/espana/2016-12-21/errejonistas-purga-acusaciones-traicion-podemos-vistalegre_1307080/\\">alimentó entonces la teoría de la purga</a> con campañas en medios y redes, al tiempo que se han convertido en el principal caballo de batalla contra el secretario general en este proceso congresual.</p><p>La división en Madrid es evidente, y la última baza de quienes salieron derrotados para recuperar las posiciones que mantenían antaño en el aparato se centra en el congreso estatal. Por su parte, los que salieron victoriosos corren el peligro de verse maniatados si la dirección estatal cae en manos de quien han convertido en el enemigo interno. La batalla soterrada que viene produciéndose desde la destitución del exsecretario de Organización<strong> Sergio Pascual</strong> tendrá su escenificación final este fin de semana. Casi un año después de la primera gran crisis interna, y el mismo tiempo que Errejón <strong>pidió a los miembros del equipo de Pascual para que aguantasen sin abandonar el barco</strong>, según explicaron entonces fuentes cercanas al diputado andaluz. Una incógnita por aquel momento para los informadores, pero que ahora cobra sentido.</p><p>Si los cambios de equipos tras un congreso son la norma en toda organización política, no lo son menos las escisiones. Más aún en la izquierda, cuya historia está plagada de este tipo de rupturas. La principal duda que asalta a la organización, desde las bases más activas hasta la cúpula dirigente, es cómo se gestionará esta crisis y si el sector que resulte ganador logrará aguantar el temporal. De momento, los <a href=\\"http://www.elconfidencial.com/espana/2017-02-07/cis-guerras-psoe-podemos-pp-mayoria-absoluta_1327816/\\">resultados del CIS han sido condescendientes con Podemos</a>, que solo desciende una décima con respecto al último barómetro de octubre, a pesar de la guerra fratricida. La <strong>lejanía de las próximas elecciones</strong>, previstas para 2020, juega a favor de la reconstrucción. La presencia institucional, también, puesto que al ostentar un cargo público es menos justificable secundar una escisión.</p><p>El futuro de Podemos se jugará la próxima semana. Desde el próximo lunes y hasta el viernes, los líderes de cada sector están condenados a negociar un acuerdo, aunque<strong> la llave la tendrá la tercera corriente en liza</strong>, los anticapitalistas, si se mantienen los equilibrios actuales. El<strong> próximo sábado está previsto convocar al consejo ciudadano</strong> que salga elegido, y en este, Pablo Iglesias presentará su dimisión formal como secretario general si pierde o, en caso de lograr imponerse, la corriente errejonista pondrá punto y final a su andadura para limitarse a ser una tendencia, otra vez, subterránea.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "“El lunes que viene no tenemos organización”, “gane quien gane, perdemos todos” o “esto es un suicidio colectivo”. La autodestructiva campaña interna de ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/tags/organismos/podemos-10616/",
+              },
+              "children": Array [
+                "Podemos",
+              ],
+              "name": "a",
+            },
+            ", acompañada de puñaladas, traiciones, máquina del fango, dimisiones o conspiraciones, está convirtiendo en un lugar común entre los cuadros medios y técnicos del partido que el futuro de la organización pende de un hilo, más allá de una hipotética escisión en el corto plazo. El choque de trenes en el que solo puede quedar uno, o ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Pablo Iglesias ",
+              ],
+              "name": "strong",
+            },
+            "o",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Íñigo Errejón",
+              ],
+              "name": "strong",
+            },
+            ", partirá a la organización en dos. Ni Iglesias tendrá puestos de responsabilidad si pierde la batalla, ni Errejón se mantendrá al frente del grupo parlamentario como portavoz en el Congreso si no se hace con el control de la organización.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Desde el pasado otoño, cada corriente ya comenzó a funcionar de forma prácticamente autónoma, con ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/espana/2016-10-20/sectores-podemos-estructuras-paralelas-partido_1277367/",
+              },
+              "children": Array [
+                "sus propias estructuras orgánicas",
+              ],
+              "name": "a",
+            },
+            " y recursos, tanto humanos como económicos. Una dinámica que ha alimentado la confrontación, marcada en su primera fase por las primarias madrileñas y, tras ellas, por el fratricida proceso de ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/tags/temas/vistalegre-ii-19216/",
+              },
+              "children": Array [
+                "Vistalegre II",
+              ],
+              "name": "a",
+            },
+            ". La beligerancia en el seno de la dirección se ha trasladado también a las bases más activas, cada vez más polarizadas, lo cual no hace más que provocar en simpatizantes y votantes ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "hastío e indiferencia.",
+              ],
+              "name": "strong",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "“No sé si votaré”, responde un activista del 15-M, ahora centrado en la política municipal y los movimientos sociales, que acto seguido pide un resumen sobre “lo que está pasando en Podemos”. El mismo activista que acudió a Vistalegre I acompañado por varios compañeros de su asamblea de barrio, y que participó en los primeros pasos del círculo de Podemos en su distrito. Igual de sintomático, respecto a la situación que vive Podemos, es el hecho de que",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " solo se flete un bus a Vistalegre II",
+              ],
+              "name": "strong",
+            },
+            ", cuando en el congreso fundacional llegaron a la treintena. Todos financiados mediante 'crowdfunding'. Ahora, este sistema de recaudación vuelve a emplearse, pero para financiar las campañas de cada equipo.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La cita de Vistalegre II no está en la agenda de los activistas madrileños, ni tampoco de los que simpatizan con la organización y en su día ejercieron orgullosos de 'pegacarteles'. Pocos meses después, el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "“orgullo morado”",
+              ],
+              "name": "strong",
+            },
+            " vive sus horas más bajas, como han comprobado los responsables de redes de los equipos de Pablo Iglesias (",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Héctor Juanatey",
+              ],
+              "name": "strong",
+            },
+            ") e Íñigo Errejón (",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Eduardo Rubiño",
+              ],
+              "name": "strong",
+            },
+            "). La ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "publicidad pagada en redes",
+              ],
+              "name": "strong",
+            },
+            " como Twitter, Facebook o Instagram ha sustituido el empuje desinteresado de miles de personas que convertían las campañas en 'trending topic'.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Los entornos de Pablo Iglesias e Íñigo Errejón asumen que la convivencia tras el cónclave no resultará fácil. En público, ambos apuestan por salir de Vistalegre II con una ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "dirección integradora",
+              ],
+              "name": "strong",
+            },
+            ", a pesar de que quien obtenga mayoría de asientos en el consejo ciudadano estatal tiene capacidad para decidir el consejo de coordinación, el órgano ejecutivo que decide sobre el día a día de la organización. En privado, reconocen que hace ya tiempo que no se van a tomar cañas juntos, y es recurrente observar cómo se niegan el saludo en los pasillos del Congreso. Las amistades forjadas años antes de crear Podemos se han roto, como demuestra el ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/espana/2017-02-05/podemos-luis-alegre-contra-iglesias-conspiradores_1326931/",
+              },
+              "children": Array [
+                "escarnio público",
+              ],
+              "name": "a",
+            },
+            " hacia sus excompañeros del fundador del partido y ex secretario general autonómico ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Luis Alegre",
+              ],
+              "name": "strong",
+            },
+            ". En su cruzada lo han seguido, también en público, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Juan Carlos Monedero ",
+              ],
+              "name": "strong",
+            },
+            "o",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Carlos Fernández Liria.",
+              ],
+              "name": "strong",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Cuando la difícil situación que está atravesando Podemos parecía que había tocado fondo, saltaba a la palestra una nueva filtración interesada o un ataque personal. El último, el protagonizado por el líder de Podemos en Valencia, ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/espana/2017-02-06/podemos-valencia-compara-pablo-iglesias-franco-saddam-hussein_1327521/",
+              },
+              "children": Array [
+                "comparando las prácticas “cesaristas” de Pablo Iglesias con las de Franco o Sadam Husein",
+              ],
+              "name": "a",
+            },
+            ". Los pocos puentes que quedaban erigidos entre las dos principales corrientes del partido se han acabado dinamitando los últimos días. Iglesias y Errejón ya solo confían en las personas de su núcleo duro.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El estado de la organización en Madrid tras la batalla entre el pablista ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Ramón Espinar ",
+              ],
+              "name": "strong",
+            },
+            "y la errejonista ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Rita Maestre",
+              ],
+              "name": "strong",
+            },
+            " es un precedente que anticipa a menor escala los acontecimientos que pueden sucederse tras Vistalegre II. La organización se remodeló para dar entrada en los puestos de responsabilidad al equipo de afines a Espinar, incluidos los cargos en el grupo parlamentario autonómico, donde se sustituyó al portavoz",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " José Manuel López,",
+              ],
+              "name": "strong",
+            },
+            " que integraba la lista errejonista. Este último sector ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/espana/2016-12-21/errejonistas-purga-acusaciones-traicion-podemos-vistalegre_1307080/",
+              },
+              "children": Array [
+                "alimentó entonces la teoría de la purga",
+              ],
+              "name": "a",
+            },
+            " con campañas en medios y redes, al tiempo que se han convertido en el principal caballo de batalla contra el secretario general en este proceso congresual.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La división en Madrid es evidente, y la última baza de quienes salieron derrotados para recuperar las posiciones que mantenían antaño en el aparato se centra en el congreso estatal. Por su parte, los que salieron victoriosos corren el peligro de verse maniatados si la dirección estatal cae en manos de quien han convertido en el enemigo interno. La batalla soterrada que viene produciéndose desde la destitución del exsecretario de Organización",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Sergio Pascual",
+              ],
+              "name": "strong",
+            },
+            " tendrá su escenificación final este fin de semana. Casi un año después de la primera gran crisis interna, y el mismo tiempo que Errejón ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "pidió a los miembros del equipo de Pascual para que aguantasen sin abandonar el barco",
+              ],
+              "name": "strong",
+            },
+            ", según explicaron entonces fuentes cercanas al diputado andaluz. Una incógnita por aquel momento para los informadores, pero que ahora cobra sentido.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Si los cambios de equipos tras un congreso son la norma en toda organización política, no lo son menos las escisiones. Más aún en la izquierda, cuya historia está plagada de este tipo de rupturas. La principal duda que asalta a la organización, desde las bases más activas hasta la cúpula dirigente, es cómo se gestionará esta crisis y si el sector que resulte ganador logrará aguantar el temporal. De momento, los ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.elconfidencial.com/espana/2017-02-07/cis-guerras-psoe-podemos-pp-mayoria-absoluta_1327816/",
+              },
+              "children": Array [
+                "resultados del CIS han sido condescendientes con Podemos",
+              ],
+              "name": "a",
+            },
+            ", que solo desciende una décima con respecto al último barómetro de octubre, a pesar de la guerra fratricida. La ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "lejanía de las próximas elecciones",
+              ],
+              "name": "strong",
+            },
+            ", previstas para 2020, juega a favor de la reconstrucción. La presencia institucional, también, puesto que al ostentar un cargo público es menos justificable secundar una escisión.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El futuro de Podemos se jugará la próxima semana. Desde el próximo lunes y hasta el viernes, los líderes de cada sector están condenados a negociar un acuerdo, aunque",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " la llave la tendrá la tercera corriente en liza",
+              ],
+              "name": "strong",
+            },
+            ", los anticapitalistas, si se mantienen los equilibrios actuales. El",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " próximo sábado está previsto convocar al consejo ciudadano",
+              ],
+              "name": "strong",
+            },
+            " que salga elegido, y en este, Pablo Iglesias presentará su dimisión formal como secretario general si pierde o, en caso de lograr imponerse, la corriente errejonista pondrá punto y final a su andadura para limitarse a ser una tendencia, otra vez, subterránea.",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://6www.ecestaticos.com/imagestatic/clipping/62c/56d/62c56df1e493ec1f79938915092d2733/listos-para-el-vistalegricidio-la-batalla-final-de-podemos-en-la-que-solo-puede-quedar-uno.jpg?mtime=1486588671",
+    "publishedDate": 2017-02-09T05:00:00.000Z,
+    "source": Object {
+      "author": "Iván Gil",
+    },
+    "title": "Listos para el vistalegricidio: la batalla final de Podemos en la que solo puede quedar uno. Noticias de España",
+  },
+}
+`;
+
+exports[`The parser parses an eldiario article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p> Los desmanes de los mandos que el PP eligió para dirigir la Policía en la primera legislatura de Mariano Rajoy desbordan Cataluña. La segunda entrega de la entrevista en El Mundo al director adjunto operativo de la Policía hasta el pasado junio desvela que Eugenio Pino dio una orden que se alinea con las teorías revisionistas de una parte del Partido Popular, <a href=\\"http://www.eldiario.es/escolar/Esperanza-Aguirre-encuentren-mentira-politica_6_499810042.html\\"> capitaneado por Esperanza Aguirre</a>, sobre el 11-M, el mayor atentado terrorista de la historia de España. Las conclusiones del documento policial ponen en cuestión \\"algunas cosas\\" de las sentencias judiciales de la Audiencia Nacional y el Tribual Supremo, afirma Pino. </p><p> \\"No contradice la resolución judicial -dice el comisario sobre el informe-, pero da por sentado, según tengo entendido, porque no lo he leído, algunas cosas que fueron determinantes para argumentar una serie de teorías que verdaderamente se diluyen. Se aclaran algunas cosas que están en una nebulosa\\", afirma el exdirector adjunto operativo de la Policía.</p><p> Eugenio Pino pide a los actuales responsables del Ministerio del Interior que desclasifiquen este informe -\\"he leído estos días que la CIA ha desclasificado un montón de informes\\"- y otros dos que encargó a una brigada de la Unidad de Asuntos Internos que se creó con el argumento de estudiar casos en los que la actuación de la propia Policía había sido cuestionable. Los otros dos informes afectan al caso Faisán y al asesinato de Marta del Castillo. </p><p> En cuanto al caso Faisán se trata de uno de los puntales de la oposición del PP a la política antiterrorista del Gobierno de José Luis Rodríguez Zapatero, el chivatazo a una red de extorsión de ETA en pleno proceso de paz por parte de un mando policial y un subordinado, <a href=\\"http://www.eldiario.es/politica/Supremo-condenas-implicados-Caso-Faisan_0_467553749.html\\"> condenados por el Tribunal Supremo</a>. En la causa llegó a estar imputado el director general de la Policía de la época, Víctor García Hidalgo, dirigente de los socialistas vascos, pero la causa quedó archivada para éste último. </p><p> En cuanto al Faisán, dice Pino, \\"se aclaran algunas responsabilidades\\". \\"Se ha hecho un trabajo magnífico, yo me he quedado alucinado. Viendo las redes, las conexiones, con un programa que es maravilloso\\", añade. Del caso Marta del Castillo asegura que no hay novedades respecto a la investigación oficial y por eso apuesta porque se utilicen otros métodos, como el detector de mentiras. </p><p> En otro punto de la entrevista, Pino habla sin tapujos de la investigación a un partido político, Podemos, a pesar de que en la primera entrega negó la existencia de una \\"brigada política\\". Asegura el anterior jefe de la Policía que no puede demostrar que la formación se haya financiado irregularmente con con fondos procedentes de Irán y Venezuela, aunque tiene el convencimiento de ello. \\"Yo, a título particular, creo que sí, pero no lo puedo demostrar\\", dice. </p><p> La 'policía política' de Pino elaboró<a href=\\"http://www.eldiario.es/politica/Ministerio-Interior-financiacion-irregular-Podemos_0_494501418.html\\">  el informe PISA </a>sobre la presunta financiación irregular que despreció el Supremo. El Alto Tribunal solo pudo pronunciarse sobre él porque Manos Limpias lo incorporó a una de sus querellas contra Podemos, ya que, como otros informes sobre el proceso separatista en Cataluña, el informe no pasó de las portadas de los medios de comunicación habituales en estos casos. </p><p> A la pregunta de si Pablo Iglesias tiene dinero en paraísos fiscales, Eugenio Pino deja la puerta abierta a que el líder de Podemos siga a día de hoy siendo investigado: \\"Hay una información que nos viene de Venezuela en ese sentido y nosotros evidentemente la metemos en la unidad de investigación. Luego no se continúa o está en proceso de investigación. Ya se verá, Pero nuestros informes no deberían ser muy falsos cuando nuestros confidentes están recibiendo amenazas\\".</p><p> Añade que la información de Venezuela llega a la Policía española \\"a chorros\\". \\"No se puede comprobar porque hay que ir para allá, pero hay ministros, incluso algún testigo protegido. Mucha gente ha venido a contarnos cosas y nos ha dado fotos de todo lo que está ocurriendo en Venezuela\\", apostilla. </p><p> </p><p> </p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Los desmanes de los mandos que el PP eligió para dirigir la Policía en la primera legislatura de Mariano Rajoy desbordan Cataluña. La segunda entrega de la entrevista en El Mundo al director adjunto operativo de la Policía hasta el pasado junio desvela que Eugenio Pino dio una orden que se alinea con las teorías revisionistas de una parte del Partido Popular, ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.eldiario.es/escolar/Esperanza-Aguirre-encuentren-mentira-politica_6_499810042.html",
+              },
+              "children": Array [
+                " capitaneado por Esperanza Aguirre",
+              ],
+              "name": "a",
+            },
+            ", sobre el 11-M, el mayor atentado terrorista de la historia de España. Las conclusiones del documento policial ponen en cuestión \\"algunas cosas\\" de las sentencias judiciales de la Audiencia Nacional y el Tribual Supremo, afirma Pino. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " \\"No contradice la resolución judicial -dice el comisario sobre el informe-, pero da por sentado, según tengo entendido, porque no lo he leído, algunas cosas que fueron determinantes para argumentar una serie de teorías que verdaderamente se diluyen. Se aclaran algunas cosas que están en una nebulosa\\", afirma el exdirector adjunto operativo de la Policía.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Eugenio Pino pide a los actuales responsables del Ministerio del Interior que desclasifiquen este informe -\\"he leído estos días que la CIA ha desclasificado un montón de informes\\"- y otros dos que encargó a una brigada de la Unidad de Asuntos Internos que se creó con el argumento de estudiar casos en los que la actuación de la propia Policía había sido cuestionable. Los otros dos informes afectan al caso Faisán y al asesinato de Marta del Castillo. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " En cuanto al caso Faisán se trata de uno de los puntales de la oposición del PP a la política antiterrorista del Gobierno de José Luis Rodríguez Zapatero, el chivatazo a una red de extorsión de ETA en pleno proceso de paz por parte de un mando policial y un subordinado, ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.eldiario.es/politica/Supremo-condenas-implicados-Caso-Faisan_0_467553749.html",
+              },
+              "children": Array [
+                " condenados por el Tribunal Supremo",
+              ],
+              "name": "a",
+            },
+            ". En la causa llegó a estar imputado el director general de la Policía de la época, Víctor García Hidalgo, dirigente de los socialistas vascos, pero la causa quedó archivada para éste último. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " En cuanto al Faisán, dice Pino, \\"se aclaran algunas responsabilidades\\". \\"Se ha hecho un trabajo magnífico, yo me he quedado alucinado. Viendo las redes, las conexiones, con un programa que es maravilloso\\", añade. Del caso Marta del Castillo asegura que no hay novedades respecto a la investigación oficial y por eso apuesta porque se utilicen otros métodos, como el detector de mentiras. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " En otro punto de la entrevista, Pino habla sin tapujos de la investigación a un partido político, Podemos, a pesar de que en la primera entrega negó la existencia de una \\"brigada política\\". Asegura el anterior jefe de la Policía que no puede demostrar que la formación se haya financiado irregularmente con con fondos procedentes de Irán y Venezuela, aunque tiene el convencimiento de ello. \\"Yo, a título particular, creo que sí, pero no lo puedo demostrar\\", dice. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " La 'policía política' de Pino elaboró",
+            Object {
+              "attrs": Object {
+                "href": "http://www.eldiario.es/politica/Ministerio-Interior-financiacion-irregular-Podemos_0_494501418.html",
+              },
+              "children": Array [
+                "  el informe PISA ",
+              ],
+              "name": "a",
+            },
+            "sobre la presunta financiación irregular que despreció el Supremo. El Alto Tribunal solo pudo pronunciarse sobre él porque Manos Limpias lo incorporó a una de sus querellas contra Podemos, ya que, como otros informes sobre el proceso separatista en Cataluña, el informe no pasó de las portadas de los medios de comunicación habituales en estos casos. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " A la pregunta de si Pablo Iglesias tiene dinero en paraísos fiscales, Eugenio Pino deja la puerta abierta a que el líder de Podemos siga a día de hoy siendo investigado: \\"Hay una información que nos viene de Venezuela en ese sentido y nosotros evidentemente la metemos en la unidad de investigación. Luego no se continúa o está en proceso de investigación. Ya se verá, Pero nuestros informes no deberían ser muy falsos cuando nuestros confidentes están recibiendo amenazas\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " Añade que la información de Venezuela llega a la Policía española \\"a chorros\\". \\"No se puede comprobar porque hay que ir para allá, pero hay ministros, incluso algún testigo protegido. Mucha gente ha venido a contarnos cosas y nos ha dado fotos de todo lo que está ocurriendo en Venezuela\\", apostilla. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " ",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://images.eldiario.es/politica/Santamaria-expresidentes-posiblemente-invitados-intencionado_EDIIMA20140312_0089_3.jpg",
+    "publishedDate": 0,
+    "source": Object {
+      "author": "Pedro Águeda",
+    },
+    "title": "La Policía del PP ordenó un informe del 11-M diez años después para cuestionar las sentencias ",
+  },
+}
+`;
+
+exports[`The parser parses an elmundo article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>No fue una visita f�cil la que el presidente de la Generalitat, Carles Puigdemont, realiz� este viernes por la noche a la fiesta mayor del barrio de Llefi� de Badalona, uno de los m�s poblados de la ciudad. <strong>Su discurso fue interrumpido ante los abucheos y gritos de de \\"fuera, fuera\\" </strong>de buena parte del p�blico que incluso lleg� a clamar \\"Espa�a, Espa�a\\" en varias ocasiones. Puigdemont lleg� a preguntar \\"�me dejar�is hablar?\\" antes de iniciar su intervenci�n e incluso afirm� que \\"si no os gusta silbar despu�s, pero dejadme hablar\\". </p><p>En el escenario se encontraba la alcaldesa de Badalona, Dolors Sabater, de Guanyem Badalona en Com�, que intent� animar al presidente con aplausos, as� como el presidente de la asociaci�n de vecinos Sant Joan de Llefi�-Gran Sol quien hizo <strong>un amago de intervenir para calmar los �nimos aunque Puigdemont lo rechaz� con un gesto</strong>. Finalmente el presidente inici� su discurso sobre la importancia de la fiesta mayor en cada localidad como espacio de reuni�n de un pueblo, pero tuvo que ir interrumpi�ndose ante los abucheos. Tambi�n hab�a quien le aplaud�a cuando la pitada era m�s fuerte.</p><p>En su primer acto tras la pitada en Llefi�, Puigdemont asegur� que \\"Catalu�a siempre sobrevive, aunque muchos la quieran hundir\\" y respecto al debate soberanista remarc� que \\"frente a un mar alterado y en el que nos quieren hundir antes de tiempo, siempre acabamos flotando\\". El presidente particip� en la Fira del Tap de Cass� de la Selva (Girona), que gira alrededor de la industria del corcho.</p><p>\\"En un momento de cambio clim�tico, oportunidad econ�mica y prestigio gastron�mico en la zona, los oficios del �mbito del corcho presentan m�s futuro que nunca\\", reivindic� Puigdemont quien visit� la feria y pudo ver el proceso de producci�n del corcho o participar en una demostraci�n sobre la pela de un alcornoque.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "No fue una visita f�cil la que el presidente de la Generalitat, Carles Puigdemont, realiz� este viernes por la noche a la fiesta mayor del barrio de Llefi� de Badalona, uno de los m�s poblados de la ciudad. ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Su discurso fue interrumpido ante los abucheos y gritos de de \\"fuera, fuera\\" ",
+              ],
+              "name": "strong",
+            },
+            "de buena parte del p�blico que incluso lleg� a clamar \\"Espa�a, Espa�a\\" en varias ocasiones. Puigdemont lleg� a preguntar \\"�me dejar�is hablar?\\" antes de iniciar su intervenci�n e incluso afirm� que \\"si no os gusta silbar despu�s, pero dejadme hablar\\". ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En el escenario se encontraba la alcaldesa de Badalona, Dolors Sabater, de Guanyem Badalona en Com�, que intent� animar al presidente con aplausos, as� como el presidente de la asociaci�n de vecinos Sant Joan de Llefi�-Gran Sol quien hizo ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "un amago de intervenir para calmar los �nimos aunque Puigdemont lo rechaz� con un gesto",
+              ],
+              "name": "strong",
+            },
+            ". Finalmente el presidente inici� su discurso sobre la importancia de la fiesta mayor en cada localidad como espacio de reuni�n de un pueblo, pero tuvo que ir interrumpi�ndose ante los abucheos. Tambi�n hab�a quien le aplaud�a cuando la pitada era m�s fuerte.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En su primer acto tras la pitada en Llefi�, Puigdemont asegur� que \\"Catalu�a siempre sobrevive, aunque muchos la quieran hundir\\" y respecto al debate soberanista remarc� que \\"frente a un mar alterado y en el que nos quieren hundir antes de tiempo, siempre acabamos flotando\\". El presidente particip� en la Fira del Tap de Cass� de la Selva (Girona), que gira alrededor de la industria del corcho.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"En un momento de cambio clim�tico, oportunidad econ�mica y prestigio gastron�mico en la zona, los oficios del �mbito del corcho presentan m�s futuro que nunca\\", reivindic� Puigdemont quien visit� la feria y pudo ver el proceso de producci�n del corcho o participar en una demostraci�n sobre la pela de un alcornoque.",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://v.uecdn.es/p/108/thumbnail/entry_id/0_a8gouqek/width/657/type/2/bgcolor/000000/0_a8gouqek.jpg",
+    "publishedDate": 2017-06-17T14:45:42.000Z,
+    "source": Object {
+      "author": "GERM�N GONZ�LEZ",
+    },
+    "title": "Puigdemont, recibido en Badalona con abucheos y gritos de 'Espa�a, Espa�a'",
+  },
+}
+`;
+
+exports[`The parser parses an elpais article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>Primer parrafo <a href=\\"http://localhost/1\\"><em>con enlace</em></a> en medio.</p><p>Segundo párrafo hehehehehehe</p><p>Tercer párrafo incluyendo un link, <a href=\\"http://localhost/2\\">una suerte de reacción y de orgullo.</a></p><p>Cuarto párrafo <em>con itálicas</em>. Que sigue, sigue y “sigue”.</p><p>Quinto —párrafo—</p><p>Sexto</p><p>Septimo, <em>1</em>, <em>2</em>, <em>3</em>texto <em>4</em>cosa <em>5</em> o <em>6</em>.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Primer parrafo ",
+            Object {
+              "attrs": Object {
+                "href": "http://localhost/1",
+              },
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "con enlace",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "a",
+            },
+            " en medio.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Segundo párrafo hehehehehehe",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Tercer párrafo incluyendo un link, ",
+            Object {
+              "attrs": Object {
+                "href": "http://localhost/2",
+              },
+              "children": Array [
+                "una suerte de reacción y de orgullo.",
+              ],
+              "name": "a",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Cuarto párrafo ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "con itálicas",
+              ],
+              "name": "em",
+            },
+            ". Que sigue, sigue y “sigue”.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Quinto —párrafo—",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Sexto",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Septimo, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "1",
+              ],
+              "name": "em",
+            },
+            ", ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "2",
+              ],
+              "name": "em",
+            },
+            ", ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "3",
+              ],
+              "name": "em",
+            },
+            "texto ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "4",
+              ],
+              "name": "em",
+            },
+            "cosa ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "5",
+              ],
+              "name": "em",
+            },
+            " o ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "6",
+              ],
+              "name": "em",
+            },
+            ".",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://ep00.epimg.net/cultura/imagenes/2017/02/08/actualidad/1486573775_868895_1486574229_rrss_normal.jpg",
+    "publishedDate": 2017-02-08T23:20:30.000Z,
+    "source": Object {
+      "author": "Rubén Amón",
+    },
+    "title": "El latín, ¿lengua oficial de la UE?",
+  },
+}
+`;
+
+exports[`The parser parses an elperiodico article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>
+                        
+                     </p><p>La exministra de Sanidad <strong>Ana Mato </strong>tendr� que <strong>declarar </strong>el pr�ximo lunes en el juicio de <strong>G�rtel </strong>como part�cipe a t�tulo lucrativo en los beneficios que obtuvo su exmarido <strong>Jes�s Sep�lveda</strong> de la trama de <strong>Francisco Correa</strong>. As� lo ha decidido hoy el tribunal que est� juzgando la primera �poca de la red G�rtel y en la que Mato est� encausada como <strong>responsable civil</strong>, si bien hasta ahora hab�a estado representada en todo momento en el juicio por su abogada.</p><p>Antes de adoptar esta decisi�n el <strong>tribunal </strong>ha deliberado durante unos minutos la petici�n de los abogados de los tres responsables civiles a <strong>t�tulo lucrativo</strong> -Mato, el <strong>PP </strong>y la mujer del exalcalde de Majadahonda, Gema Matamoros-, de que ninguno de ellos tuviera que prestar declaraci�n.</p><p>Finalmente, el tribunal por mayor�a, \\"que no por unanimidad\\", seg�n ha explicado su presidente, �ngel Hurtado, ha decidido que todos ellos declaren el pr�ximo <strong>lunes </strong>13 de febrero, por lo que Mato, el representante legal del PP y Matamoros tendr�n que declarar.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "
+                        ",
+            "
+                     ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La exministra de Sanidad ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Ana Mato ",
+              ],
+              "name": "strong",
+            },
+            "tendr� que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "declarar ",
+              ],
+              "name": "strong",
+            },
+            "el pr�ximo lunes en el juicio de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "G�rtel ",
+              ],
+              "name": "strong",
+            },
+            "como part�cipe a t�tulo lucrativo en los beneficios que obtuvo su exmarido ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Jes�s Sep�lveda",
+              ],
+              "name": "strong",
+            },
+            " de la trama de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Francisco Correa",
+              ],
+              "name": "strong",
+            },
+            ". As� lo ha decidido hoy el tribunal que est� juzgando la primera �poca de la red G�rtel y en la que Mato est� encausada como ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "responsable civil",
+              ],
+              "name": "strong",
+            },
+            ", si bien hasta ahora hab�a estado representada en todo momento en el juicio por su abogada.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Antes de adoptar esta decisi�n el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "tribunal ",
+              ],
+              "name": "strong",
+            },
+            "ha deliberado durante unos minutos la petici�n de los abogados de los tres responsables civiles a ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "t�tulo lucrativo",
+              ],
+              "name": "strong",
+            },
+            " -Mato, el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "PP ",
+              ],
+              "name": "strong",
+            },
+            "y la mujer del exalcalde de Majadahonda, Gema Matamoros-, de que ninguno de ellos tuviera que prestar declaraci�n.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Finalmente, el tribunal por mayor�a, \\"que no por unanimidad\\", seg�n ha explicado su presidente, �ngel Hurtado, ha decidido que todos ellos declaren el pr�ximo ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "lunes ",
+              ],
+              "name": "strong",
+            },
+            "13 de febrero, por lo que Mato, el representante legal del PP y Matamoros tendr�n que declarar.",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://estaticos.elperiodico.com/resources/jpg/8/3/exministra-sanidad-ana-mato-1413671668938.jpg",
+    "publishedDate": 2017-02-10T14:43:27.000Z,
+    "source": Object {
+      "author": "AGENCIAS / MADRID",
+    },
+    "title": "La exministra Ana Mato tendr� que comparecer el lunes en el juicio de la 'G�rtel'",
+  },
+}
+`;
+
+exports[`The parser parses an esdiario article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>Coincidiendo con el <a href=\\"https://twitter.com/hashtag/D%C3%ADaMundialDeLaRadio?src=hash\\"><strong>DíaMundialDeLaRadio</strong></a><strong> Carlos Herrera</strong> logró un hito histórico este lunes en los micrófonos de <strong>COPE</strong> al reunir, por primera vez en un programa, a tres leyendas radiofónicas vivientes como <strong>José María García, Iñaki Gabilondo</strong> y <strong>Luis del Olmo:</strong> \\"Tres jóvenes promesas de la historia de la radio que han tenido la amabilidad de cederme parte de su tiempo esta semana\\".</p><p>La expectación era máxima, ya lo dijo <strong>Herrera</strong> antes de empezar: \\"Estamos en el estudio Antonio Herrero, un estudio grande en el que caben muchas personas, pero nunca había visto esta concentración de seres humanos\\". </p>---<p>Precisamente<strong> José María García </strong>quiso romper el hielo entre emotivo y divertido: ''Quería tener con vosotros un emotivo y cordial saludo para Antonio Herrero'', dijo serio para luego bromear con un \\"aunque este no era exactamente su estudio, esto es lo más parecido a Marina D'Or\\".</p><p>Y es que <strong>García,</strong> genio y figura, fue el que más risas arrancó este lunes en la mítica cita, contando anécdotas, indignándose, enfadándose para luego bromear y arrancando aplausos dentro y fuera de la mesa. Y eso que había prometido \\"ser bueno\\".</p><p>Claro que no menos sincero se mostró<strong> Luis del Olmo</strong> cuando relató el comienzo del fenómeno Iñaki Gabilondo en el panorama radiofónico: \\"Cuando irrumpió Protagonistas, la SER se preocupó mucho; fue cuando apareció Gabilondo. El <em>cabroncete</em> este, yo reinaba feliz en solitario, en RNE, la SER sólo se dirigía a las amas de casa, cuando apareció este <em>cabrón...</em> (perdón) y entonces comenzamos a repartinos el pastel”.</p><p><strong>Gabilondo</strong> también su momentazo cuando reflexionó a la cara de <strong>García</strong> que \\"dislocó mucho con su lenguaje, se comentaba mucho el estilo de <strong>José María</strong>'' y no tanto todo el trabajo y el esfuerzo que había detrás. </p><p>Coincidieron todos en que, tal como dijo <strong>Del Olmo</strong>, \\"ahora se difunde una radio muy similar a la que hacíamos <strong>Gabilondo, García</strong> y yo'' y le dio la razón <strong>Carlos Herrera</strong>: \\"El modelo de <strong>Iñaki</strong> sigue haciéndose en la <strong>SER,</strong> yo sigo haciendo el tuyo y si tu pones la radio por la noche el esquema, con sus matices y su personalidad, es el esquema de <strong>García\\".</strong></p><p>Y ahí el exlocutor deportivo aprovechó para lanzar algún recadito envenenado a viejos enemigos: \\"Es el mismo esquema, pero no se parece en nada a mi programa, porque en el mío había denuncia, investigación y credibilidad. En el periodismo deportivo de hoy, no lo hay\\". </p><p>Eso sí, sin dar nombres, porque \\"le he prometido a la abuela de tu amiga Montserrat que iba a ser bueno y lo voy a ser...\\". Claro que en más de una ocasión durante la tertulia estuvo bordeando incumplir su promesa. Como cuando sacó a relucir \\"la faena del EGM\\" (\\"aquí <strong>Luis del Olmo</strong> ha sido mucho más elegante que yo, pero menuda faena con el EGM\\") o cuando salió a relucir la política actual: \\"a Don Mariano tenía que darle un repaso pero no se lo voy a dar porque lo he prometido... pero a los políticos hay que recordarles que son nuestros empleados, no nuestros jefes, son porquería, tenemos políticos de tercera división\\".</p><p>Con razón los oyentes escribían mensajes a Herrera como \\"sí, hombre, a <strong>García</strong> jaleale encima...\\".</p><p>Por lo demás muchas anécdotas curiosas y divertidas, la mayoría interpretadas con el gracejo propio de <strong>García</strong> ante las carcajadas del respetable y sin cortarse un pelo con <strong>Herrera</strong> que le seguía el juego: que si \\"mucho hablar de los cabreos de <strong>Encarna</strong> y de <strong>Luis</strong> pero ¿por qué no hablas de los tuyos?\\" que si \\"en mi vida he conocido a dos genios, los tipos más vagos: <strong>Carlos Herrera</strong> y <strong>Luis Herrero</strong>\\", que si \\"tengo un récord, no hay programa de la radio por el que hayan pasado más directores que el mío\\"...</p><p>Claro que <strong>Herrera</strong> tampoco se quedó corto: \\"¿Cuántas veces te han querido pegar tras un partido de fútbol?\\", le dijo, a lo que <strong>García</strong> respondió: \\"Pocas, porque iba muy protegido\\" y el presentador de <strong>Herrera</strong> en <strong>COPE</strong> le espetó divertido: \\"¿Llevabas a <strong>Roberto Gómez</strong>?\\".</p><p>Todavía se la devolvió <strong>García</strong> antes de irse: \\"Tengo que reconocer que me he equivocado seriamente y me alegro de ello... Tenía serias dudas de que tu estuvieras hoy en Madrid, me dije, este cabrón es capaz de hacerlo desde Sevilla y no viene... Le está entrando la sensatez con los años\\".</p><p>Sin duda una reunión de lujo entre cuatro grandes de las ondas en un día muy especial para la radio española y que causó furor no solo dentro del estudio, sino también fuera y en las redes sociales.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Coincidiendo con el ",
+            Object {
+              "attrs": Object {
+                "href": "https://twitter.com/hashtag/D%C3%ADaMundialDeLaRadio?src=hash",
+              },
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "DíaMundialDeLaRadio",
+                  ],
+                  "name": "strong",
+                },
+              ],
+              "name": "a",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Carlos Herrera",
+              ],
+              "name": "strong",
+            },
+            " logró un hito histórico este lunes en los micrófonos de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "COPE",
+              ],
+              "name": "strong",
+            },
+            " al reunir, por primera vez en un programa, a tres leyendas radiofónicas vivientes como ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "José María García, Iñaki Gabilondo",
+              ],
+              "name": "strong",
+            },
+            " y ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Luis del Olmo:",
+              ],
+              "name": "strong",
+            },
+            " \\"Tres jóvenes promesas de la historia de la radio que han tenido la amabilidad de cederme parte de su tiempo esta semana\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La expectación era máxima, ya lo dijo ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Herrera",
+              ],
+              "name": "strong",
+            },
+            " antes de empezar: \\"Estamos en el estudio Antonio Herrero, un estudio grande en el que caben muchas personas, pero nunca había visto esta concentración de seres humanos\\". ",
+          ],
+          "name": "p",
+        },
+        "---",
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Precisamente",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " José María García ",
+              ],
+              "name": "strong",
+            },
+            "quiso romper el hielo entre emotivo y divertido: ''Quería tener con vosotros un emotivo y cordial saludo para Antonio Herrero'', dijo serio para luego bromear con un \\"aunque este no era exactamente su estudio, esto es lo más parecido a Marina D'Or\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Y es que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García,",
+              ],
+              "name": "strong",
+            },
+            " genio y figura, fue el que más risas arrancó este lunes en la mítica cita, contando anécdotas, indignándose, enfadándose para luego bromear y arrancando aplausos dentro y fuera de la mesa. Y eso que había prometido \\"ser bueno\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Claro que no menos sincero se mostró",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Luis del Olmo",
+              ],
+              "name": "strong",
+            },
+            " cuando relató el comienzo del fenómeno Iñaki Gabilondo en el panorama radiofónico: \\"Cuando irrumpió Protagonistas, la SER se preocupó mucho; fue cuando apareció Gabilondo. El ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "cabroncete",
+              ],
+              "name": "em",
+            },
+            " este, yo reinaba feliz en solitario, en RNE, la SER sólo se dirigía a las amas de casa, cuando apareció este ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "cabrón...",
+              ],
+              "name": "em",
+            },
+            " (perdón) y entonces comenzamos a repartinos el pastel”.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Gabilondo",
+              ],
+              "name": "strong",
+            },
+            " también su momentazo cuando reflexionó a la cara de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García",
+              ],
+              "name": "strong",
+            },
+            " que \\"dislocó mucho con su lenguaje, se comentaba mucho el estilo de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "José María",
+              ],
+              "name": "strong",
+            },
+            "'' y no tanto todo el trabajo y el esfuerzo que había detrás. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Coincidieron todos en que, tal como dijo ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Del Olmo",
+              ],
+              "name": "strong",
+            },
+            ", \\"ahora se difunde una radio muy similar a la que hacíamos ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Gabilondo, García",
+              ],
+              "name": "strong",
+            },
+            " y yo'' y le dio la razón ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Carlos Herrera",
+              ],
+              "name": "strong",
+            },
+            ": \\"El modelo de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Iñaki",
+              ],
+              "name": "strong",
+            },
+            " sigue haciéndose en la ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "SER,",
+              ],
+              "name": "strong",
+            },
+            " yo sigo haciendo el tuyo y si tu pones la radio por la noche el esquema, con sus matices y su personalidad, es el esquema de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García\\".",
+              ],
+              "name": "strong",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Y ahí el exlocutor deportivo aprovechó para lanzar algún recadito envenenado a viejos enemigos: \\"Es el mismo esquema, pero no se parece en nada a mi programa, porque en el mío había denuncia, investigación y credibilidad. En el periodismo deportivo de hoy, no lo hay\\". ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Eso sí, sin dar nombres, porque \\"le he prometido a la abuela de tu amiga Montserrat que iba a ser bueno y lo voy a ser...\\". Claro que en más de una ocasión durante la tertulia estuvo bordeando incumplir su promesa. Como cuando sacó a relucir \\"la faena del EGM\\" (\\"aquí ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Luis del Olmo",
+              ],
+              "name": "strong",
+            },
+            " ha sido mucho más elegante que yo, pero menuda faena con el EGM\\") o cuando salió a relucir la política actual: \\"a Don Mariano tenía que darle un repaso pero no se lo voy a dar porque lo he prometido... pero a los políticos hay que recordarles que son nuestros empleados, no nuestros jefes, son porquería, tenemos políticos de tercera división\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Con razón los oyentes escribían mensajes a Herrera como \\"sí, hombre, a ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García",
+              ],
+              "name": "strong",
+            },
+            " jaleale encima...\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Por lo demás muchas anécdotas curiosas y divertidas, la mayoría interpretadas con el gracejo propio de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García",
+              ],
+              "name": "strong",
+            },
+            " ante las carcajadas del respetable y sin cortarse un pelo con ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Herrera",
+              ],
+              "name": "strong",
+            },
+            " que le seguía el juego: que si \\"mucho hablar de los cabreos de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Encarna",
+              ],
+              "name": "strong",
+            },
+            " y de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Luis",
+              ],
+              "name": "strong",
+            },
+            " pero ¿por qué no hablas de los tuyos?\\" que si \\"en mi vida he conocido a dos genios, los tipos más vagos: ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Carlos Herrera",
+              ],
+              "name": "strong",
+            },
+            " y ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Luis Herrero",
+              ],
+              "name": "strong",
+            },
+            "\\", que si \\"tengo un récord, no hay programa de la radio por el que hayan pasado más directores que el mío\\"...",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Claro que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Herrera",
+              ],
+              "name": "strong",
+            },
+            " tampoco se quedó corto: \\"¿Cuántas veces te han querido pegar tras un partido de fútbol?\\", le dijo, a lo que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García",
+              ],
+              "name": "strong",
+            },
+            " respondió: \\"Pocas, porque iba muy protegido\\" y el presentador de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Herrera",
+              ],
+              "name": "strong",
+            },
+            " en ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "COPE",
+              ],
+              "name": "strong",
+            },
+            " le espetó divertido: \\"¿Llevabas a ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Roberto Gómez",
+              ],
+              "name": "strong",
+            },
+            "?\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Todavía se la devolvió ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "García",
+              ],
+              "name": "strong",
+            },
+            " antes de irse: \\"Tengo que reconocer que me he equivocado seriamente y me alegro de ello... Tenía serias dudas de que tu estuvieras hoy en Madrid, me dije, este cabrón es capaz de hacerlo desde Sevilla y no viene... Le está entrando la sensatez con los años\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Sin duda una reunión de lujo entre cuatro grandes de las ondas en un día muy especial para la radio española y que causó furor no solo dentro del estudio, sino también fuera y en las redes sociales.",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.esdiario.com/images/carpeta_relacionados/13577_herrera_garcia_gabi_olmo.jpg",
+    "publishedDate": 2017-02-13T08:56:49.000Z,
+    "source": Object {
+      "author": "ESdiario",
+    },
+    "title": "García desarma a Herrera ante la divertida mirada de Gabilondo y Del Olmo",
+  },
+}
+`;
+
+exports[`The parser parses an europapress article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>ROMA, 13 Feb. (EUROPA PRESS) -</p><p>El Papa Francisco firma el prólogo de un libro titulado 'Lo perdono, padre', escrito por una víctima de abusos, Daniel Pittet, y garantiza \\"severidad extrema\\" contra los sacerdotes pederastas y encubridores.</p><p>\\"¿Cómo un cura, al servicio de Cristo y de su Iglesia puede llegar a causar tanto mal? Hemos declarado nuestro deber de actuar con severidad extrema contra los sacerdotes que traicionan su misión y con la jerarquía, obispos o cardenales, que los protejan como ha sucedido en el pasado\\", escribe el Pontífice.</p><p>Se trata de un libro de carácter autobiográfico, que será publicado por la editorial del Vaticano Libreria Editrice Vaticana, por la italiana Piemme y la suiza Éditions Philippe Rey, en el que Pittet relata en primera persona los abusos sexuales que sufrió por parte de un cura cuando era niño.</p><p>El Papa califica su relato como \\"un testimonio necesario, valioso y valiente\\" al tiempo que define como \\"una monstruosidad absoluta y un horrendo pecado\\" los abusos de religiosos a menores. El prefacio, escrito por Francisco de su puño y letra, ha sido publicado este lunes por algunos medios italianos.</p><p>Además, el Pontífice agradece al autor su relato que ayudará a \\"derribar los muros de silencio que sofocaban los escándalos y los sufrimientos y que muestra una terrible zona de sombra en la vida de la Iglesia\\".</p><p>Para Francisco, este testimonio \\"abre el camino a una justa reparación hacia la gracia de la reconciliación y ayuda a los pederastas a tomar conciencia de las terribles consecuencias de sus acciones\\".</p><p>Asimismo, denuncia a los sacerdotes que \\"han consagrado su vida para conducir a los niños a Dios y sin embargo los devoran en un sacrificio diabólico\\". Además, lamenta que muchas de las víctimas de abusos sexuales han terminado por suicidarse. En este sentido, asegura que \\"estos muertos pesan\\" en su corazón y sobre la conciencia de toda la Iglesia y pide \\"humildemente perdón a todas las familias afectadas\\".</p><p>\\"A sus familias ofrezco mi sentimiento de amor y de dolor y, humildemente, pido perdón. Se trata de una monstruosidad absoluta, de un pecado horrendo, radicalmente contrario a todo lo que Cristo enseña\\", añade.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "ROMA, 13 Feb. (EUROPA PRESS) -",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El Papa Francisco firma el prólogo de un libro titulado 'Lo perdono, padre', escrito por una víctima de abusos, Daniel Pittet, y garantiza \\"severidad extrema\\" contra los sacerdotes pederastas y encubridores.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"¿Cómo un cura, al servicio de Cristo y de su Iglesia puede llegar a causar tanto mal? Hemos declarado nuestro deber de actuar con severidad extrema contra los sacerdotes que traicionan su misión y con la jerarquía, obispos o cardenales, que los protejan como ha sucedido en el pasado\\", escribe el Pontífice.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Se trata de un libro de carácter autobiográfico, que será publicado por la editorial del Vaticano Libreria Editrice Vaticana, por la italiana Piemme y la suiza Éditions Philippe Rey, en el que Pittet relata en primera persona los abusos sexuales que sufrió por parte de un cura cuando era niño.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El Papa califica su relato como \\"un testimonio necesario, valioso y valiente\\" al tiempo que define como \\"una monstruosidad absoluta y un horrendo pecado\\" los abusos de religiosos a menores. El prefacio, escrito por Francisco de su puño y letra, ha sido publicado este lunes por algunos medios italianos.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Además, el Pontífice agradece al autor su relato que ayudará a \\"derribar los muros de silencio que sofocaban los escándalos y los sufrimientos y que muestra una terrible zona de sombra en la vida de la Iglesia\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Para Francisco, este testimonio \\"abre el camino a una justa reparación hacia la gracia de la reconciliación y ayuda a los pederastas a tomar conciencia de las terribles consecuencias de sus acciones\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Asimismo, denuncia a los sacerdotes que \\"han consagrado su vida para conducir a los niños a Dios y sin embargo los devoran en un sacrificio diabólico\\". Además, lamenta que muchas de las víctimas de abusos sexuales han terminado por suicidarse. En este sentido, asegura que \\"estos muertos pesan\\" en su corazón y sobre la conciencia de toda la Iglesia y pide \\"humildemente perdón a todas las familias afectadas\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"A sus familias ofrezco mi sentimiento de amor y de dolor y, humildemente, pido perdón. Se trata de una monstruosidad absoluta, de un pecado horrendo, radicalmente contrario a todo lo que Cristo enseña\\", añade.",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "https://img2europapress.akamaized.net/fotoweb/fotonoticia_20170213142414_800.jpg",
+    "publishedDate": 2017-02-13T16:48:46.000Z,
+    "source": Object {
+      "author": "<%= Author %>",
+    },
+    "title": "El Papa garantiza severidad extrema contra pederastas: \\"¿Cómo un cura puede llegar a causar tanto mal?\\"",
+  },
+}
+`;
+
+exports[`The parser parses an huffpost article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x630/format/jpg/quality/85/http%3A%2F%2Fi.huffpost.com%2Fgen%2F5096456%2Fimages%2Fn-MAFO-628x314.jpg",
+    "publishedDate": 0,
+    "source": Object {
+      "author": "",
+    },
+    "title": "La Audiencia Nacional ordena investigar a Fernández Ordóñez por el 'caso Bankia'",
+  },
+}
+`;
+
+exports[`The parser parses an lainformacion article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>El portavoz de la Gestora del PSOE, <strong>Mario Jiménez,</strong> ha asegurado este lunes que el Congreso de Vistalegre II ha provocado una \\"tremenda decepción\\" en \\"mucha gente\\" porque al haber ganado <strong>\\"el pablismo-leninismo\\"</strong> Podemos ha \\"roto todos los puentes\\" con el <strong>centro-izquierda</strong>. \\"Va a ser muy difícil poder trabajar juntos\\", ha avisado.</p><p>En declaraciones a Onda Cero, recogidas por Europa Press, <strong>Jiménez</strong> ha defendido que el triunfo del secretario general del partido morado en el congreso de este fin de semana significa que Podemos ha dado \\"un giro hacia la extrema izquierda\\". \\"Las juventudes comunistas han tomado Podemos de una manera clarísima y todo lo que teóricamente venía a representar Podemos, un partido nuevo que<strong> recogía la indignación</strong> que se produjo en 2011, al final ha quedado en nada\\", ha subrayado.</p><p>De hecho, a su juicio, Podemos \\"ha pasado de<strong> la pubertad política</strong> a la vejez sin haber sido nunca un partido maduro\\". Y ahora, con su \\"apuesta por la radicalidad, se han roto todos los puntos con el centro izquierda y también con el trabajo en las instituciones\\".</p><p>A partir de ahora, ha avanzado, al haber <strong>\\"ganado el máximo común divisor de la izquierda</strong>\\", como se ha referido a Iglesias y su entorno, PSOE y Podemos van a tener complicado \\"trabajar juntos\\". \\"Lo lamentamos profundamente, creemos que había una oportunidad para haber definido un espacio común y en Vistalegre eso ha volado\\", ha sentenciado.</p><p>Jiménez no ha querido responder si para ese espacio común habría sido necesario que ganara el secretario político, <strong>Iñigo Errejón,</strong> y ha recalcado que no se trata tanto de personas sino de proyectos. \\"Y el proyecto que ha ganado es el d<strong>e la radicalidad\\"</strong>, ha remachado, insistiendo en que esto supone un \\"alejamiento\\" de la posibilidad de llegar a acuerdos en las instituciones para \\"sacar adelante un proyecto de progreso\\".</p><p>Eso sí, ha recalcado que el pasado año ya se vio que la<strong> \\"izquierda radical t</strong>ermina siendo el principal aliado de la derecha\\", porque las urnas ofrecieron \\"la oportunidad de un gobierno de cambio\\" y Podemos lo rechazó, lo que \\"llevó a que España fuera a terceras elecciones\\".</p><p>\\"La experiencia ha demostrado que con el Podemos de Pablo Iglesias no se podía llegar a ningún sitio\\", ha añadido, cuando se le ha preguntado por el sector del PSOE que, con el ex secretario general Pedro Sánchez a la cabeza, apuestas por entenderse con el partido morado.</p><p>En definitiva, el 'número dos' de la Gestora ha lamentado que Podemos ha hecho <strong>\\"un viaje de la Puerta del Sol a Marinaleda\\"</strong>, que ha sido \\"un viaje a ninguna parte\\", porque \\"lo único que va a provocar es división en la izquierda y alejamiento de una parte importante de la sociedad\\".</p><p>A partir de aquí, ha explicado que el PSOE quiere dirigirse a <strong>\\"la gente moderada\\" para que les ayude a sacar adelante un proeycto \\"moderado\\"</strong> en España que tenga \\"un planteamiento muy claro de trabajo en las instituciones para cambiar las cosas a mejor\\".</p><p>Por otra parte, en relación al congreso que también ha celebrado el PP el pasado fin de semana, Jiménez ha apuntado que ha sido un cónclave marcado por <strong>\\"el inmovilismo\\"</strong> y se ha demostrado que el partido de Mariano Rajoy \\"no tiene ni un proyecto político para España ni para su propia regeneración como partido\\".</p><p>El PP, ha remachado, ha mantenido su <strong>\\"apuesta por la continuidad</strong>, por las malas políticas de estos años y por comportamientos no precisamente razonables u honestos\\". Y es que, a su juicio, este partido está \\"cautivo de la biografía de Mariano Rajoy\\" y ha decidido que \\"no a dar un paso hacia el futuro sino a consolidar el pasado\\".</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El portavoz de la Gestora del PSOE, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Mario Jiménez,",
+              ],
+              "name": "strong",
+            },
+            " ha asegurado este lunes que el Congreso de Vistalegre II ha provocado una \\"tremenda decepción\\" en \\"mucha gente\\" porque al haber ganado ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"el pablismo-leninismo\\"",
+              ],
+              "name": "strong",
+            },
+            " Podemos ha \\"roto todos los puentes\\" con el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "centro-izquierda",
+              ],
+              "name": "strong",
+            },
+            ". \\"Va a ser muy difícil poder trabajar juntos\\", ha avisado.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En declaraciones a Onda Cero, recogidas por Europa Press, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Jiménez",
+              ],
+              "name": "strong",
+            },
+            " ha defendido que el triunfo del secretario general del partido morado en el congreso de este fin de semana significa que Podemos ha dado \\"un giro hacia la extrema izquierda\\". \\"Las juventudes comunistas han tomado Podemos de una manera clarísima y todo lo que teóricamente venía a representar Podemos, un partido nuevo que",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " recogía la indignación",
+              ],
+              "name": "strong",
+            },
+            " que se produjo en 2011, al final ha quedado en nada\\", ha subrayado.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "De hecho, a su juicio, Podemos \\"ha pasado de",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " la pubertad política",
+              ],
+              "name": "strong",
+            },
+            " a la vejez sin haber sido nunca un partido maduro\\". Y ahora, con su \\"apuesta por la radicalidad, se han roto todos los puntos con el centro izquierda y también con el trabajo en las instituciones\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "A partir de ahora, ha avanzado, al haber ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"ganado el máximo común divisor de la izquierda",
+              ],
+              "name": "strong",
+            },
+            "\\", como se ha referido a Iglesias y su entorno, PSOE y Podemos van a tener complicado \\"trabajar juntos\\". \\"Lo lamentamos profundamente, creemos que había una oportunidad para haber definido un espacio común y en Vistalegre eso ha volado\\", ha sentenciado.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Jiménez no ha querido responder si para ese espacio común habría sido necesario que ganara el secretario político, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Iñigo Errejón,",
+              ],
+              "name": "strong",
+            },
+            " y ha recalcado que no se trata tanto de personas sino de proyectos. \\"Y el proyecto que ha ganado es el d",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "e la radicalidad\\"",
+              ],
+              "name": "strong",
+            },
+            ", ha remachado, insistiendo en que esto supone un \\"alejamiento\\" de la posibilidad de llegar a acuerdos en las instituciones para \\"sacar adelante un proyecto de progreso\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Eso sí, ha recalcado que el pasado año ya se vio que la",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " \\"izquierda radical t",
+              ],
+              "name": "strong",
+            },
+            "ermina siendo el principal aliado de la derecha\\", porque las urnas ofrecieron \\"la oportunidad de un gobierno de cambio\\" y Podemos lo rechazó, lo que \\"llevó a que España fuera a terceras elecciones\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"La experiencia ha demostrado que con el Podemos de Pablo Iglesias no se podía llegar a ningún sitio\\", ha añadido, cuando se le ha preguntado por el sector del PSOE que, con el ex secretario general Pedro Sánchez a la cabeza, apuestas por entenderse con el partido morado.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En definitiva, el 'número dos' de la Gestora ha lamentado que Podemos ha hecho ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"un viaje de la Puerta del Sol a Marinaleda\\"",
+              ],
+              "name": "strong",
+            },
+            ", que ha sido \\"un viaje a ninguna parte\\", porque \\"lo único que va a provocar es división en la izquierda y alejamiento de una parte importante de la sociedad\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "A partir de aquí, ha explicado que el PSOE quiere dirigirse a ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"la gente moderada\\" para que les ayude a sacar adelante un proeycto \\"moderado\\"",
+              ],
+              "name": "strong",
+            },
+            " en España que tenga \\"un planteamiento muy claro de trabajo en las instituciones para cambiar las cosas a mejor\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Por otra parte, en relación al congreso que también ha celebrado el PP el pasado fin de semana, Jiménez ha apuntado que ha sido un cónclave marcado por ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"el inmovilismo\\"",
+              ],
+              "name": "strong",
+            },
+            " y se ha demostrado que el partido de Mariano Rajoy \\"no tiene ni un proyecto político para España ni para su propia regeneración como partido\\".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El PP, ha remachado, ha mantenido su ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"apuesta por la continuidad",
+              ],
+              "name": "strong",
+            },
+            ", por las malas políticas de estos años y por comportamientos no precisamente razonables u honestos\\". Y es que, a su juicio, este partido está \\"cautivo de la biografía de Mariano Rajoy\\" y ha decidido que \\"no a dar un paso hacia el futuro sino a consolidar el pasado\\".",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://imagenes.lainformacion.com/2017/02/13/politica/partidos/Gestora-PSOE-pablismo-leninismo-Podemos-Va_999211346_122084378_640x427.jpg",
+    "publishedDate": 2017-02-13T20:18:30.000Z,
+    "source": Object {
+      "author": "Diximedia",
+    },
+    "title": "El PSOE confiesa que con la victoria del pablismo-leninismo será difícil pactar",
+  },
+}
+`;
+
+exports[`The parser parses an larazon article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>El portavoz del actual Partit Demócrata Catalá y ex conseller de Justicia de la Generalitat, Francesc Homs, se sentará en el banquillo de los acusados del Tribunal Supremo a partir del próximo día 27, acusado de los delitos de prevaricación y desobediencia por haber impulsado activamente «los trabajos preparatorios de la convocatoria» del 9-N, por los que se enfrenta a una petición fiscal de nueve años de inhabilitación para cargo público. Los hechos que se les imputan están muy relacionados con los que se siguen en el Tribunal Superior de Justicia de Cataluña contra el ex presidente de la Generalitat Artur Mas y las ex consejeras Joana Ortega e Irene Rigau.</p><p>De hecho, según las fuentes jurídicas  consultadas por este periódico, una condena a Homs «arrastraría» a sus tres ex compañeros del Gobierno de la Generalitat respecto a los que se debe pronunciar el TSJ catalán. Y ello porque el Supremo será quien marque la doctrina en estos hechos, prácticamente similares en ambos casos, por lo que su resolución tendrá un efecto «expansivo» y sería el que se aplicara, en última instancia también a los posibles recursos que se pudiesen interponer contra el fallo en lo que afecta a los tres acusados que se juzgan estos días en Barcelona.</p><p>El juicio contra Mas, Ortega y Rigau está previsto que termine mañana, con el informe de conclusiones definitivas de las partes; y 17 días después empezará en el Tribunal Supremo el que juzgará a Homs y durará tres días. En buena lógica, la sentencia del TSJ catalán debería emitirse antes que la del Alto Tribunal, por el espacio de tiempo que separa el fin de ambos procesos, 20 días. Sin embargo, si finalmente la decisión del Supremo se produjese antes que la del TSJ catalán, algo que, al menos a priori, no parece muy probable, la sentencia de este último tribunal «debería seguir el mismo criterio», según las fuentes consultadas. En todo caso, esa unificación de criterio, en la hipótesis de que existan discrepancias entre las tesis jurídicas mantenidas por ambos tribunales, vendría de la mano del Supremo con la resolución de los hipotéticos recursos.</p><p>En el juicio a Francesc Homs, algunos de los que han declarado en la vista que se sigue en el TSJ de Cataluña volverán a comparecer en el Tribunal Supremo. Son los casos, por ejemplo, del ex vicepresidente del Tribunal Constitucional Carles Viver o del propio Artur Mas, quien, en esta ocasión, sin embargo, en esta ocasión, acudirá como testigo, y, por tanto, con obligación de contestar a todas las partes, lo que no hizo el pasado lunes.</p><p>Una diferencia notable entre ambos procesos es la relativa a los efectos que tendría una posible sentencia condenatoria. En el caso de Mas, Ortega y Rigau, si el tribunal acepta la tesis de la Fiscalía y se les impone penas de inhabilitación para ejercer cargos públicos, la misma no se ejecutaría hasta que resolviese el recurso que interpusiesen, o bien optasen por no recurrir. En la tesitura más probable, es decir, del recurso de una posible condena, los tres podrían ocupar cargos públicos o concurrir a unos comicios hasta el fallo del Alto Tribunal. En cambio, una condena a Homs haría que éste tuviese que abandonar el escaño al poco tiempo, ya que las sentencias del Supremo son firmes desde el primer momento, y aunque recurriese al ante el Tribunal Constitucional,  tendría pocas opciones de que se suspendiese hasta su resolución.</p><p>Respecto a Homs, la Fiscalía sostiene que «no adoptó la suspensión de ninguna de las actuaciones ni actos que se desarrollaban para la celebración de dicha consulta –la del 9-N– que dependían directamente del Departamento de la Presidencia del que era titular, impulsó activamente los trabajos preparatorios de la convocatoria, puso los servicios jurídicos de su Departamento a disposición del Centro de Telecomunicaciones y Tecnologías de la Información para ejercer acciones legales ante una eventual suspensión adoptada por empresas privadas, y, en definitiva, potenció, tras haber conocido la Providencia de suspensión dictada por el TC, el desarrollo del denominado “proceso participativo”».</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El portavoz del actual Partit Demócrata Catalá y ex conseller de Justicia de la Generalitat, Francesc Homs, se sentará en el banquillo de los acusados del Tribunal Supremo a partir del próximo día 27, acusado de los delitos de prevaricación y desobediencia por haber impulsado activamente «los trabajos preparatorios de la convocatoria» del 9-N, por los que se enfrenta a una petición fiscal de nueve años de inhabilitación para cargo público. Los hechos que se les imputan están muy relacionados con los que se siguen en el Tribunal Superior de Justicia de Cataluña contra el ex presidente de la Generalitat Artur Mas y las ex consejeras Joana Ortega e Irene Rigau.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "De hecho, según las fuentes jurídicas  consultadas por este periódico, una condena a Homs «arrastraría» a sus tres ex compañeros del Gobierno de la Generalitat respecto a los que se debe pronunciar el TSJ catalán. Y ello porque el Supremo será quien marque la doctrina en estos hechos, prácticamente similares en ambos casos, por lo que su resolución tendrá un efecto «expansivo» y sería el que se aplicara, en última instancia también a los posibles recursos que se pudiesen interponer contra el fallo en lo que afecta a los tres acusados que se juzgan estos días en Barcelona.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El juicio contra Mas, Ortega y Rigau está previsto que termine mañana, con el informe de conclusiones definitivas de las partes; y 17 días después empezará en el Tribunal Supremo el que juzgará a Homs y durará tres días. En buena lógica, la sentencia del TSJ catalán debería emitirse antes que la del Alto Tribunal, por el espacio de tiempo que separa el fin de ambos procesos, 20 días. Sin embargo, si finalmente la decisión del Supremo se produjese antes que la del TSJ catalán, algo que, al menos a priori, no parece muy probable, la sentencia de este último tribunal «debería seguir el mismo criterio», según las fuentes consultadas. En todo caso, esa unificación de criterio, en la hipótesis de que existan discrepancias entre las tesis jurídicas mantenidas por ambos tribunales, vendría de la mano del Supremo con la resolución de los hipotéticos recursos.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En el juicio a Francesc Homs, algunos de los que han declarado en la vista que se sigue en el TSJ de Cataluña volverán a comparecer en el Tribunal Supremo. Son los casos, por ejemplo, del ex vicepresidente del Tribunal Constitucional Carles Viver o del propio Artur Mas, quien, en esta ocasión, sin embargo, en esta ocasión, acudirá como testigo, y, por tanto, con obligación de contestar a todas las partes, lo que no hizo el pasado lunes.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Una diferencia notable entre ambos procesos es la relativa a los efectos que tendría una posible sentencia condenatoria. En el caso de Mas, Ortega y Rigau, si el tribunal acepta la tesis de la Fiscalía y se les impone penas de inhabilitación para ejercer cargos públicos, la misma no se ejecutaría hasta que resolviese el recurso que interpusiesen, o bien optasen por no recurrir. En la tesitura más probable, es decir, del recurso de una posible condena, los tres podrían ocupar cargos públicos o concurrir a unos comicios hasta el fallo del Alto Tribunal. En cambio, una condena a Homs haría que éste tuviese que abandonar el escaño al poco tiempo, ya que las sentencias del Supremo son firmes desde el primer momento, y aunque recurriese al ante el Tribunal Constitucional,  tendría pocas opciones de que se suspendiese hasta su resolución.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Respecto a Homs, la Fiscalía sostiene que «no adoptó la suspensión de ninguna de las actuaciones ni actos que se desarrollaban para la celebración de dicha consulta –la del 9-N– que dependían directamente del Departamento de la Presidencia del que era titular, impulsó activamente los trabajos preparatorios de la convocatoria, puso los servicios jurídicos de su Departamento a disposición del Centro de Telecomunicaciones y Tecnologías de la Información para ejercer acciones legales ante una eventual suspensión adoptada por empresas privadas, y, en definitiva, potenció, tras haber conocido la Providencia de suspensión dictada por el TC, el desarrollo del denominado “proceso participativo”».",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.larazon.es/documents/10165/0/600x367/0c0/0d0/none/10810/EIFW/image_content_6072395_20170209044038.jpg",
+    "publishedDate": 0,
+    "source": Object {
+      "author": "Francisco Velasco",
+    },
+    "title": "Una condena del Supremo a Homs «arrastraría» a Mas",
+  },
+}
+`;
+
+exports[`The parser parses an lavanguardia article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>Las <b>exportaciones de Alemania </b>crecieron un 1,2% en <b>2016</b>, llegando a los <b>1,207 billones de euros </b>y marcando un nuevo<b> récord histórico</b>. Las cifras, publicadas este jueves por la oficina estadística nacional Destatis, arrojan también un <b>superavit comercial</b> –exportaciones menos importaciones- de 252.900 millones, otro máximo. Llegan en medio de una particular ‘guerra’ verbal con Donald Trump, que tiene a la estrategia comercial alemana y al euro en su punto de mira.</p><p>Las ventas a países de fuera de la UE se llevan el grueso de las exportaciones, pese a un descenso del 0,2%, al contabilizar 499.600 millones de euros. Las que se dirigieron a la zona euro crecieron un 1,8%, hasta los 441.800 millones. Bienes de equipo, productos químicos y sobre todo vehículos centran las salidas de productos.</p><p>Las<b> importaciones</b>, por su parte, ascendieron a 954.600 millones, un 0,6% más, por lo que crecen a menor ritmo que las exportaciones y agrandan el superavit. Alemania importa productos agrícolas, gas natural, textil y aparatos informáticos, entre otros. </p><p>Las cifras llegan en medio de cruces entre la <b>administración Trump </b>y el <b>Gobierno alemán</b>. “El excedente comercial va a reavivar el conflicto con Estados Unidos y la Unión Europea”, afirma el economista Marcel Fratzscher, del instituto DIW. Desde EE.UU. acusan a Alemania de sacar <b>ventaja de otros países</b>, vendiendo sus productos sin a cambio comprar nada, impidiendo que se impulse el consumo interno de los países a los que exporta.</p><p>Además, en la semana el director del Consejo Nacional de Comercio de EEUU, Pete Navarro, afirmó que Alemania explota a sus socios de la zona euro con <b>una moneda “infravalorada”</b> que le da una gran ventaja respecto a lo que viviría si siguiera con el marco alemán, una moneda que sería más fuerte. Así, con un euro más débil, sus productos resultan más competitivos, siguiendo esa lógica.</p><p>Pero ni Alemania ni el <b>Banco Central Europeo </b>(BCE) ven ciertas las críticas. La canciller Angela Merkel defiende que quien hace la <b>política monetaria </b>es el BCE, por lo que no tiene poder sobre el euro. El BCE, a su vez, sostiene que en ningún momento se ha manipulado la divisa. Este jueves Merkel se reunirá con Mario Draghi, al frente del BCE, en lo que podría reforzar las bases de un frente común contra Trump.</p><p>Y para echar más leña al fuego, en los últimos años Estados Unidos ha suplantado a Francia como principal destino de los coches alemanes. Algo que enerva especialmente a Trump, quien toma el devenir de la <b>industria automotriz </b>como una lucha personal, pidiendo a las marcas que produzcan en sus fronteras.</p><p>En cualquier caso, Trump no es el primero en cargar contra Alemania por los superavit comerciales. El expresidente <b>Barack Obama</b>, <a href=\\"http://www.lavanguardia.com/economia/20160908/41179445532/bce-tipos-de-interes-compra-de-bonos-cambios-septiembre.html\\">el BCE</a>, el FMI, la Comisión Europea (CE) y otros socios europeos le han pedido que gaste el excedente comercial en <b>inversiones</b>. “El superávit por cuenta corriente alemán, dada su talla, tiene implicaciones adversas para el desempeño económico de la zona del euro”, advertía este jueves la portavoz comunitaria de Asuntos Económicos de la CE, Annika Breidthardt.</p><p>En este sentido, Fratzscher, del DIW, afirma que el lento avance de las importaciones se debe a “una <b>gran falta de inversiones</b>”, lo que puede acarrear “un alto coste económico” si no cambia. Merkel no quiere saber nada: prefiere <b>mantener el gasto y la deuda bajo férreo control</b>.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Las ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "exportaciones de Alemania ",
+              ],
+              "name": "b",
+            },
+            "crecieron un 1,2% en ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "2016",
+              ],
+              "name": "b",
+            },
+            ", llegando a los ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "1,207 billones de euros ",
+              ],
+              "name": "b",
+            },
+            "y marcando un nuevo",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " récord histórico",
+              ],
+              "name": "b",
+            },
+            ". Las cifras, publicadas este jueves por la oficina estadística nacional Destatis, arrojan también un ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "superavit comercial",
+              ],
+              "name": "b",
+            },
+            " –exportaciones menos importaciones- de 252.900 millones, otro máximo. Llegan en medio de una particular ‘guerra’ verbal con Donald Trump, que tiene a la estrategia comercial alemana y al euro en su punto de mira.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Las ventas a países de fuera de la UE se llevan el grueso de las exportaciones, pese a un descenso del 0,2%, al contabilizar 499.600 millones de euros. Las que se dirigieron a la zona euro crecieron un 1,8%, hasta los 441.800 millones. Bienes de equipo, productos químicos y sobre todo vehículos centran las salidas de productos.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Las",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " importaciones",
+              ],
+              "name": "b",
+            },
+            ", por su parte, ascendieron a 954.600 millones, un 0,6% más, por lo que crecen a menor ritmo que las exportaciones y agrandan el superavit. Alemania importa productos agrícolas, gas natural, textil y aparatos informáticos, entre otros. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Las cifras llegan en medio de cruces entre la ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "administración Trump ",
+              ],
+              "name": "b",
+            },
+            "y el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Gobierno alemán",
+              ],
+              "name": "b",
+            },
+            ". “El excedente comercial va a reavivar el conflicto con Estados Unidos y la Unión Europea”, afirma el economista Marcel Fratzscher, del instituto DIW. Desde EE.UU. acusan a Alemania de sacar ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "ventaja de otros países",
+              ],
+              "name": "b",
+            },
+            ", vendiendo sus productos sin a cambio comprar nada, impidiendo que se impulse el consumo interno de los países a los que exporta.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Además, en la semana el director del Consejo Nacional de Comercio de EEUU, Pete Navarro, afirmó que Alemania explota a sus socios de la zona euro con ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "una moneda “infravalorada”",
+              ],
+              "name": "b",
+            },
+            " que le da una gran ventaja respecto a lo que viviría si siguiera con el marco alemán, una moneda que sería más fuerte. Así, con un euro más débil, sus productos resultan más competitivos, siguiendo esa lógica.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Pero ni Alemania ni el ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Banco Central Europeo ",
+              ],
+              "name": "b",
+            },
+            "(BCE) ven ciertas las críticas. La canciller Angela Merkel defiende que quien hace la ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "política monetaria ",
+              ],
+              "name": "b",
+            },
+            "es el BCE, por lo que no tiene poder sobre el euro. El BCE, a su vez, sostiene que en ningún momento se ha manipulado la divisa. Este jueves Merkel se reunirá con Mario Draghi, al frente del BCE, en lo que podría reforzar las bases de un frente común contra Trump.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Y para echar más leña al fuego, en los últimos años Estados Unidos ha suplantado a Francia como principal destino de los coches alemanes. Algo que enerva especialmente a Trump, quien toma el devenir de la ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "industria automotriz ",
+              ],
+              "name": "b",
+            },
+            "como una lucha personal, pidiendo a las marcas que produzcan en sus fronteras.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En cualquier caso, Trump no es el primero en cargar contra Alemania por los superavit comerciales. El expresidente ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Barack Obama",
+              ],
+              "name": "b",
+            },
+            ", ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.lavanguardia.com/economia/20160908/41179445532/bce-tipos-de-interes-compra-de-bonos-cambios-septiembre.html",
+              },
+              "children": Array [
+                "el BCE",
+              ],
+              "name": "a",
+            },
+            ", el FMI, la Comisión Europea (CE) y otros socios europeos le han pedido que gaste el excedente comercial en ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "inversiones",
+              ],
+              "name": "b",
+            },
+            ". “El superávit por cuenta corriente alemán, dada su talla, tiene implicaciones adversas para el desempeño económico de la zona del euro”, advertía este jueves la portavoz comunitaria de Asuntos Económicos de la CE, Annika Breidthardt.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En este sentido, Fratzscher, del DIW, afirma que el lento avance de las importaciones se debe a “una ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "gran falta de inversiones",
+              ],
+              "name": "b",
+            },
+            "”, lo que puede acarrear “un alto coste económico” si no cambia. Merkel no quiere saber nada: prefiere ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "mantener el gasto y la deuda bajo férreo control",
+              ],
+              "name": "b",
+            },
+            ".",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.lavanguardia.com/r/GODO/LV/p4/WebSite/2017/02/09/Recortada/_20170208144828-kpIH-U414177052262WOD-992x558@LaVanguardia-Web.jpg",
+    "publishedDate": 2017-02-09T14:03:17.000Z,
+    "source": Object {
+      "author": "Redacción",
+    },
+    "title": "Alemania logra récords comerciales en medio de la guerra con Trump",
+  },
+}
+`;
+
+exports[`The parser parses an lavozdegalicia article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.lavozdegalicia.es/default/2017/02/13/00121486983183824686175/Foto/efe_20170203_133352469.jpg",
+    "publishedDate": 0,
+    "source": Object {
+      "author": "",
+    },
+    "title": "El juez atribuye al presidente de Murcia los delitos de fraude y cohecho",
+  },
+}
+`;
+
+exports[`The parser parses an libertaddigital article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p><a href=\\"http://www.libertaddigital.com/personajes/mariano-rajoy/\\"><strong>Mariano Rajoy</strong> c</a>onsidera \\"absurdo\\" que en su día, en pleno periodo de incertidumbre política, le pidieran que diera un paso atrás. \\"El PP nunca me pidió que me fuera\\", recordó este lunes en<em> TVE</em>, pese a que sí que existieron movimientos internos en su contra. Sea como fuere, un día después de l<a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-12/rajoy-sobre-cataluna-tenemos-claro-lo-que-no-vamos-a-permitir-1276592549/\\">a clausura del congreso de su partido</a>, hinchado de poder y sin contestación interna, se declaró \\"estupendamente\\" y rechazó hablar, hoy por hoy, de la limitación de mandatos.</p><p>El presidente resumió de la siguiente forma lo ocurrido en el cónclave del PP: \\"Mariano Rajoy ha hecho de Mariano Rajoy. Lo sorprendente es que hiciera de Pablo Iglesias o de cualquier otro que haya por ahí\\", afirmó. <strong>Sergio Martín</strong>, el conductor de<em> Los Desayunos,</em> le preguntó en un momento dado por los equilibrios que hizo en la elección de la nueva Ejecutiva, y él mismo sacó a colación <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/\\">los nombres de <strong>María Dolores de Cospedal</strong> y <strong>Soraya Sáenz de Santamaría</strong></a>. \\"Son dos personas que están ahí, que continúan ahí y que lo han hecho muy bien\\", contestó. \\"¿Por qué tengo que cambiarlas? (...) Lo que funciona bien no se cambia\\", destacó, rechazando que haya buscado la armonía entre las dos dirigentes políticas.</p><p>En clave interna, Rajoy confirmó que <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/\\"><strong>Fernando Martínez-Maillo </strong>se encargará del \\"día a día\\" de la formación</a>. Esto es, será oficialmente el nuevo hombre fuerte de Génova, cosa que en la práctica ya era desde hace meses. \\"<strong>Cospedal pierde las mismas competencias que pierdo yo</strong>. Ninguno de los dos vamos a estar allí\\", explicó, \\"salvo los fines de semana y el lunes\\". Según dijo, la número dos se encargará de \\"asuntos concretos\\" del PP pero su principal cometido será el ministerio de Defensa. \\"Su prioridad tiene que ser el Gobierno\\", se reafirmó.</p><p>En este sentido, defendió la compatibilidad de cargos de Cospedal y restó importancia a la tensión vivida en la votación de la enmienda contra esa acumulación de responsabilidades. \\"Se han mantenido <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/congreso-pp-2017-que-ocurrio-en-la-votacion-de-la-enmienda-anti-cospedal-dimisiones-y-acusaciones-de-tongo-1276592522/\\">posiciones muy exageradas, no era una enmienda contra nadie</a>\\", afirmó. También le preguntaron por la gestación subrogada y el enfado de los cargos provida, y el presidente se puso de perfil y comentó que la solución acordada es que primero escucharán a los expertos sobre el tema.</p><p>En la entrevista, una vez más, Rajoy miró a Alemania o Reino Unido para argumentar que la limitación de mandatos no está en la agenda de ningún país de la Unión Europea, aunque reconoció el texo suscrito por Ciudadanos y <strong>\\"estoy dispuesto a verlo y a hablarlo con todos\\"</strong>, según recalcó. Además, de sus palabras se desprende que no le preocupa la presunta corrupción en su partido: \\"¿Podemos hacer algo más? Por supuesto\\", aseveró, aunque se declaró \\"muy tranquilo\\" y se ofreció a pactar nuevas medidas contra dicha lacra.</p><p>Por lo demás, insistió en que no sopesa un adelanto electoral -sería \\"un disparate\\"- y reiteró que <strong>quiere presentar los Presupuestos Generales del Estado</strong>, aunque no quiso dar una fecha. Corroboró sus buenas relaciones con <strong>Javier Fernández</strong>, el responsable de la gestora del PSOE, así como con <strong>Pablo Iglesias</strong>, aunque en el plano personal y no político. \\"Al final, en la vida somos personas y las relaciones personales son muy importantes. Lo personal hay que preservarlo siempre y yo lo intento\\", razonó.</p><p>En paralelo, Cospedal protagonizó este lunes una batería de entrevistas para proclamar que está contenta con la designación de Maillo -aunque su entorno admite malestar por la gestión del congreso- y confirmar que<a href=\\"http://www.libertaddigital.com/espana/politica/2016-11-05/asi-fue-la-confeccion-del-gobierno-llamadas-a-ultima-hora-y-pactos-con-santamaria-y-cospedal-1276586036/\\"> lo había pactado todo con Rajoy hace meses, cuando confeccionó su actual Ejecutivo</a>. \\"Es lo que me parece que había que hacer\\" y \\"da la casualidad que el presidente ha considerado que era la mejor opción\\", destacó en <em>Onda Cero</em>. Después, en<em> La Sexta</em>, rechazó aclarar si se presentará al congreso del PP de Castilla-La Mancha, aunque los suyos allí albergan pocas dudas.<strong> Carmen Riolobos</strong>, la portavoz del partido, destacó el \\"liderazgo indiscutible\\" de Cospedal en la región.</p><p>Precisamente, la número dos del PP anunció que este mismo martes se celebrará la Junta Directiva regional para poner fecha al cónclave, que se celebrará antes de Semana Santa. Una vez convocado, los cargos que lo deseen podrán presentar sus candidaturas aunque, según las fuentes consultadas, la también ministra de Defensa esperará un poco más para desvelar sus planes. En las quinielas,<strong> Rosa Romero</strong>, actualmente en la Mesa del Congreso de los Diputados.  </p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {
+                "href": "http://www.libertaddigital.com/personajes/mariano-rajoy/",
+              },
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Mariano Rajoy",
+                  ],
+                  "name": "strong",
+                },
+                " c",
+              ],
+              "name": "a",
+            },
+            "onsidera \\"absurdo\\" que en su día, en pleno periodo de incertidumbre política, le pidieran que diera un paso atrás. \\"El PP nunca me pidió que me fuera\\", recordó este lunes en",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " TVE",
+              ],
+              "name": "em",
+            },
+            ", pese a que sí que existieron movimientos internos en su contra. Sea como fuere, un día después de l",
+            Object {
+              "attrs": Object {
+                "href": "http://www.libertaddigital.com/espana/politica/2017-02-12/rajoy-sobre-cataluna-tenemos-claro-lo-que-no-vamos-a-permitir-1276592549/",
+              },
+              "children": Array [
+                "a clausura del congreso de su partido",
+              ],
+              "name": "a",
+            },
+            ", hinchado de poder y sin contestación interna, se declaró \\"estupendamente\\" y rechazó hablar, hoy por hoy, de la limitación de mandatos.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El presidente resumió de la siguiente forma lo ocurrido en el cónclave del PP: \\"Mariano Rajoy ha hecho de Mariano Rajoy. Lo sorprendente es que hiciera de Pablo Iglesias o de cualquier otro que haya por ahí\\", afirmó. ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Sergio Martín",
+              ],
+              "name": "strong",
+            },
+            ", el conductor de",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Los Desayunos,",
+              ],
+              "name": "em",
+            },
+            " le preguntó en un momento dado por los equilibrios que hizo en la elección de la nueva Ejecutiva, y él mismo sacó a colación ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/",
+              },
+              "children": Array [
+                "los nombres de ",
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "María Dolores de Cospedal",
+                  ],
+                  "name": "strong",
+                },
+                " y ",
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Soraya Sáenz de Santamaría",
+                  ],
+                  "name": "strong",
+                },
+              ],
+              "name": "a",
+            },
+            ". \\"Son dos personas que están ahí, que continúan ahí y que lo han hecho muy bien\\", contestó. \\"¿Por qué tengo que cambiarlas? (...) Lo que funciona bien no se cambia\\", destacó, rechazando que haya buscado la armonía entre las dos dirigentes políticas.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En clave interna, Rajoy confirmó que ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/",
+              },
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Fernando Martínez-Maillo ",
+                  ],
+                  "name": "strong",
+                },
+                "se encargará del \\"día a día\\" de la formación",
+              ],
+              "name": "a",
+            },
+            ". Esto es, será oficialmente el nuevo hombre fuerte de Génova, cosa que en la práctica ya era desde hace meses. \\"",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Cospedal pierde las mismas competencias que pierdo yo",
+              ],
+              "name": "strong",
+            },
+            ". Ninguno de los dos vamos a estar allí\\", explicó, \\"salvo los fines de semana y el lunes\\". Según dijo, la número dos se encargará de \\"asuntos concretos\\" del PP pero su principal cometido será el ministerio de Defensa. \\"Su prioridad tiene que ser el Gobierno\\", se reafirmó.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En este sentido, defendió la compatibilidad de cargos de Cospedal y restó importancia a la tensión vivida en la votación de la enmienda contra esa acumulación de responsabilidades. \\"Se han mantenido ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.libertaddigital.com/espana/politica/2017-02-11/congreso-pp-2017-que-ocurrio-en-la-votacion-de-la-enmienda-anti-cospedal-dimisiones-y-acusaciones-de-tongo-1276592522/",
+              },
+              "children": Array [
+                "posiciones muy exageradas, no era una enmienda contra nadie",
+              ],
+              "name": "a",
+            },
+            "\\", afirmó. También le preguntaron por la gestación subrogada y el enfado de los cargos provida, y el presidente se puso de perfil y comentó que la solución acordada es que primero escucharán a los expertos sobre el tema.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En la entrevista, una vez más, Rajoy miró a Alemania o Reino Unido para argumentar que la limitación de mandatos no está en la agenda de ningún país de la Unión Europea, aunque reconoció el texo suscrito por Ciudadanos y ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"estoy dispuesto a verlo y a hablarlo con todos\\"",
+              ],
+              "name": "strong",
+            },
+            ", según recalcó. Además, de sus palabras se desprende que no le preocupa la presunta corrupción en su partido: \\"¿Podemos hacer algo más? Por supuesto\\", aseveró, aunque se declaró \\"muy tranquilo\\" y se ofreció a pactar nuevas medidas contra dicha lacra.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Por lo demás, insistió en que no sopesa un adelanto electoral -sería \\"un disparate\\"- y reiteró que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "quiere presentar los Presupuestos Generales del Estado",
+              ],
+              "name": "strong",
+            },
+            ", aunque no quiso dar una fecha. Corroboró sus buenas relaciones con ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Javier Fernández",
+              ],
+              "name": "strong",
+            },
+            ", el responsable de la gestora del PSOE, así como con ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Pablo Iglesias",
+              ],
+              "name": "strong",
+            },
+            ", aunque en el plano personal y no político. \\"Al final, en la vida somos personas y las relaciones personales son muy importantes. Lo personal hay que preservarlo siempre y yo lo intento\\", razonó.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En paralelo, Cospedal protagonizó este lunes una batería de entrevistas para proclamar que está contenta con la designación de Maillo -aunque su entorno admite malestar por la gestión del congreso- y confirmar que",
+            Object {
+              "attrs": Object {
+                "href": "http://www.libertaddigital.com/espana/politica/2016-11-05/asi-fue-la-confeccion-del-gobierno-llamadas-a-ultima-hora-y-pactos-con-santamaria-y-cospedal-1276586036/",
+              },
+              "children": Array [
+                " lo había pactado todo con Rajoy hace meses, cuando confeccionó su actual Ejecutivo",
+              ],
+              "name": "a",
+            },
+            ". \\"Es lo que me parece que había que hacer\\" y \\"da la casualidad que el presidente ha considerado que era la mejor opción\\", destacó en ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Onda Cero",
+              ],
+              "name": "em",
+            },
+            ". Después, en",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " La Sexta",
+              ],
+              "name": "em",
+            },
+            ", rechazó aclarar si se presentará al congreso del PP de Castilla-La Mancha, aunque los suyos allí albergan pocas dudas.",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Carmen Riolobos",
+              ],
+              "name": "strong",
+            },
+            ", la portavoz del partido, destacó el \\"liderazgo indiscutible\\" de Cospedal en la región.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Precisamente, la número dos del PP anunció que este mismo martes se celebrará la Junta Directiva regional para poner fecha al cónclave, que se celebrará antes de Semana Santa. Una vez convocado, los cargos que lo deseen podrán presentar sus candidaturas aunque, según las fuentes consultadas, la también ministra de Defensa esperará un poco más para desvelar sus planes. En las quinielas,",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Rosa Romero",
+              ],
+              "name": "strong",
+            },
+            ", actualmente en la Mesa del Congreso de los Diputados.  ",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "",
+    "publishedDate": 2017-02-13T18:26:19.000Z,
+    "source": Object {
+      "author": "Pablo Montesinos",
+    },
+    "title": "Rajoy, sobre la tensi�n entre Cospedal y Santamar�a: \\"�Por qu� tengo que cambiarlas?\\"",
+  },
+}
+`;
+
+exports[`The parser parses an naciodigital article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><a href=\\"http://www.naciodigital.cat/noticia/125280/evole/recrimina/poca/ambicio/institucions/catalanes/amb/refugiats/compara/amb/referendum\\">Arran del discurs del periodista Jordi Évole al macroconcert d’aquest cap de setmana en favor de l’acollida</a><a href=\\"http://www.naciodigital.cat/noticia/125288/erc/critica/estat/rep/3500/milions/ue/acollir/refugiats/traspassa/zero/catalunya?rlc=a1\\">Marta Rovira, ha assegurat a <em>Els matins</em> de Tv3 que l’executiu espanyol rep 3.500 milions d’euros, però que en traspassa “zero” a Catalunya</a><a href=\\"http://www.naciodigital.cat/noticia/125310/rufian/retreu/al/pp/destini/zero/recursos/catalunya/refugiats/quan/rep/3500/milions/ajudes?rlc=p1\\">Gabriel Rufián, portaveu republicà al Congrés</a><strong>Les entitats reclamen el Govern més inversió per a la cooperació</strong><a href=\\"http://www.lafede.cat/lafede-cat-denuncia-el-nou-incompliment-pressupostari-del-govern-en-materia-de-cooperacio-internacional-pau-i-drets-humans/#\\">Tal com alerten les 114 ONG agrupades a LaFede.cat en un comunicat</a><a href=\\"http://cooperaciocatalana.gencat.cat/web/.content/Documents/pla_director_i_pla_anual_docs/PlaDirector_2015-2018.pdf\\">Pla Director de Cooperació al Desenvolupament 2015–2018</a><strong>L'Estat denega set de cada deu peticions d'asil</strong><a href=\\"http://www.naciodigital.cat/noticia/109139/estat/espanyol/cua/peticions/asil\\">l’executiu espanyol és un dels governs d'Europa que més peticions denega</a><strong>NacióDigital</strong><a href=\\"https://www.cear.es/\\">Comissió Catalana d’Acollida al Refugiat (CCAR)</a><strong>El pla català de refugi, la base per a un futur model d'acollida</strong><a href=\\"http://treballiaferssocials.gencat.cat/ca/ambits_tematics/immigracio/persones_refugiades/programa_catala_refugi/index.html\\">un model de voluntariat que s’ha copiat del model del Canadà i del Quebec</a><a href=\\"http://asil.cat/es/\\">que forma part de la xarxa Asil</a><a href=\\"http://exteriors.gencat.cat/ca/detalls/noticia/Cinc-institucions-catalanes-signen-un-acord-de-cooperacio-per-actuar-amb-Nacions-Unides-i-ONG-al-Liban-00001\\">la Generalitat va signar l'Acord de coooperació catalana amb Nacions Unides per actuar al Líban</a><p> </p><p>(Mostra el teu compromís amb el model de periodisme independent, honest i de país de <strong>NacióDigital</strong>, i fes-te membre de <strong>SocNació</strong> per una petita aportació mensual. <a href=\\"https://www.naciodigital.cat/socnacio/seccio/landingsocnacio\\">Fes clic aquí per conèixer tots els avantatges i beneficis</a>. Apunta’t a la comunitat de <strong>NacióDigital</strong>, perquè la informació de qualitat té un valor.)</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {
+            "href": "http://www.naciodigital.cat/noticia/125280/evole/recrimina/poca/ambicio/institucions/catalanes/amb/refugiats/compara/amb/referendum",
+          },
+          "children": Array [
+            "Arran del discurs del periodista Jordi Évole al macroconcert d’aquest cap de setmana en favor de l’acollida",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://www.naciodigital.cat/noticia/125288/erc/critica/estat/rep/3500/milions/ue/acollir/refugiats/traspassa/zero/catalunya?rlc=a1",
+          },
+          "children": Array [
+            "Marta Rovira, ha assegurat a ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Els matins",
+              ],
+              "name": "em",
+            },
+            " de Tv3 que l’executiu espanyol rep 3.500 milions d’euros, però que en traspassa “zero” a Catalunya",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://www.naciodigital.cat/noticia/125310/rufian/retreu/al/pp/destini/zero/recursos/catalunya/refugiats/quan/rep/3500/milions/ajudes?rlc=p1",
+          },
+          "children": Array [
+            "Gabriel Rufián, portaveu republicà al Congrés",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Les entitats reclamen el Govern més inversió per a la cooperació",
+          ],
+          "name": "strong",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://www.lafede.cat/lafede-cat-denuncia-el-nou-incompliment-pressupostari-del-govern-en-materia-de-cooperacio-internacional-pau-i-drets-humans/#",
+          },
+          "children": Array [
+            "Tal com alerten les 114 ONG agrupades a LaFede.cat en un comunicat",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://cooperaciocatalana.gencat.cat/web/.content/Documents/pla_director_i_pla_anual_docs/PlaDirector_2015-2018.pdf",
+          },
+          "children": Array [
+            "Pla Director de Cooperació al Desenvolupament 2015–2018",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "L'Estat denega set de cada deu peticions d'asil",
+          ],
+          "name": "strong",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://www.naciodigital.cat/noticia/109139/estat/espanyol/cua/peticions/asil",
+          },
+          "children": Array [
+            "l’executiu espanyol és un dels governs d'Europa que més peticions denega",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "NacióDigital",
+          ],
+          "name": "strong",
+        },
+        Object {
+          "attrs": Object {
+            "href": "https://www.cear.es/",
+          },
+          "children": Array [
+            "Comissió Catalana d’Acollida al Refugiat (CCAR)",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El pla català de refugi, la base per a un futur model d'acollida",
+          ],
+          "name": "strong",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://treballiaferssocials.gencat.cat/ca/ambits_tematics/immigracio/persones_refugiades/programa_catala_refugi/index.html",
+          },
+          "children": Array [
+            "un model de voluntariat que s’ha copiat del model del Canadà i del Quebec",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://asil.cat/es/",
+          },
+          "children": Array [
+            "que forma part de la xarxa Asil",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {
+            "href": "http://exteriors.gencat.cat/ca/detalls/noticia/Cinc-institucions-catalanes-signen-un-acord-de-cooperacio-per-actuar-amb-Nacions-Unides-i-ONG-al-Liban-00001",
+          },
+          "children": Array [
+            "la Generalitat va signar l'Acord de coooperació catalana amb Nacions Unides per actuar al Líban",
+          ],
+          "name": "a",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "(Mostra el teu compromís amb el model de periodisme independent, honest i de país de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "NacióDigital",
+              ],
+              "name": "strong",
+            },
+            ", i fes-te membre de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "SocNació",
+              ],
+              "name": "strong",
+            },
+            " per una petita aportació mensual. ",
+            Object {
+              "attrs": Object {
+                "href": "https://www.naciodigital.cat/socnacio/seccio/landingsocnacio",
+              },
+              "children": Array [
+                "Fes clic aquí per conèixer tots els avantatges i beneficis",
+              ],
+              "name": "a",
+            },
+            ". Apunta’t a la comunitat de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "NacióDigital",
+              ],
+              "name": "strong",
+            },
+            ", perquè la informació de qualitat té un valor.)",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "https://dades.naciodigital.cat/redaccio/arxius/imatges/201702/1200_1486750531_refugees_welcom_foto_Adria_Costa_2017-053.jpg?1498211750",
+    "publishedDate": 0,
+    "source": Object {
+      "author": "NacióDigital",
+    },
+    "title": "NacióDigital: El Govern pot fer més per millorar l'acollida de refugiats?",
+  },
+}
+`;
+
+exports[`The parser parses an okdiario article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>El reelegido secretario general de Podemos, <strong>Pablo Iglesias</strong>, seguirá el criterio de ‘lista cremallera’ a la composición del Consejo Ciudadano Estatal (CCE) relegando al quinto puesto al todavía secretario político,<strong> Iñigo Errejón. </strong></p><p>Desde comunicación del partido informan que “la decisión todavía no es definitiva” a falta de que se convoque a este órgano principal e Iglesias hable con los suyos. De esta manera, <a href=\\"https://okdiario.com/espana/2017/02/12/iglesias-decidira-dedazo-nueva-ejecutiva-podemos-747121\\">el secretario general </a>encabezaría la lista junto a su jefa de gabinete, <strong>Irene Montero</strong>, que sería segunda y <strong>Pablo Echenique</strong>, su secretario de Organización, figuraría el tercero. La portavoz en el Ayuntamiento de Madrid y afin a Errejón, <strong>Rita Maestre</strong>, iría la cuarta. Un puesto por delante del hasta el momento secretario político.</p><p><strong>“Las listas se presentaron en cremallera pero los resultados no se corrigen en cremallera”</strong>, defienden las fuentes consultadas. El líder de Podemos ha insistido durante estos últimos meses en que “hay que feminizar la política” y, por ello, ahora busca en su lista alternar los distintos puestos entre hombres y mujeres. Lo que afecta al hasta ahora ‘número dos’ de la formación, Errejón, que pasaría a ocupar el quinto puesto y no el tercero como este domingo se anunció en los resultados de la votación, por detrás de Echenique.</p><p>Iglesias reconoció en noviembre que para él no es importante este criterio que ahora aplicará. Entonces dijo que <strong>“la feminización de la política no se logra con más mujeres en cargos de representación,</strong> que eso es importante y está bien”, señaló.</p><p>Desde prensa del partido señalan que<strong> “estos puestos no implican que uno tenga más poder que otro</strong> porque no tienen nada que ver con la composición de la Ejecutiva”. <a href=\\"https://okdiario.com/espana/2017/02/12/iglesias-decidira-dedazo-nueva-ejecutiva-podemos-747121\\">El líder de Podemos </a>salió con más control que antes en el partido de la segunda Asamblea Ciudadana celebrada este fin de semana en Vistalegre.</p><p>La verdadera pugna y todavía no sabemos si purga comienza unas horas después cuando tanto Iglesias decida las nuevas caras que conformarán su Ejecutiva. <a href=\\"https://okdiario.com/espana/2017/02/12/iglesias-decidira-dedazo-nueva-ejecutiva-podemos-747121\\">Tal y como publicó OKDIARIO</a>, el secretario general presentará una lista con nombres elegidos ‘a dedazo’ para conformar la nueva Ejecutiva. Será el Consejo Ciudadano, formado por una mayoría de ‘pablistas’, quien autorice la composición.</p><p>La trampa se encuentra en que se apruebe sin proporción y por mayoría simple, como indica el sistema de Iglesias. Los documentos de Errejón, que salieron derrotados de Vistalegre II, corrigen este blindaje añadiendo que la votación debería de <strong>“contar para su aprobación con una mayoría cualificada de dos tercios del órgano”</strong> y que, “en caso de que no se aprobara por este procedimiento, el propio Consejo Ciudadano Estatal tendrá capacidad de propuesta para la composición del Consejo de Coordinación”.</p><p>Es decir, que sea este consejo quien proponga los nombres que deberían figurar en la Ejecutiva y no solo los que diga Iglesias. Sin embargo, los documentos de Iglesias salieron victoriosos del cónclave de la formación y la figura de Errejón sigue siendo la principal clave para conocer si de verdad va a haber integración en la formación morada.</p><p>Iglesias dejó la portavocía de Errejón en la cuerda floja reivindicando este lunes que <strong>“eso lo tiene que decidir la dirección</strong>, pero creo que tenemos que ir hacia un modelo más coral, hacia un modelo más feminizado en las portavocías. Faltan mujeres en las portavocías”, zanjó.</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El reelegido secretario general de Podemos, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Pablo Iglesias",
+              ],
+              "name": "strong",
+            },
+            ", seguirá el criterio de ‘lista cremallera’ a la composición del Consejo Ciudadano Estatal (CCE) relegando al quinto puesto al todavía secretario político,",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " Iñigo Errejón. ",
+              ],
+              "name": "strong",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Desde comunicación del partido informan que “la decisión todavía no es definitiva” a falta de que se convoque a este órgano principal e Iglesias hable con los suyos. De esta manera, ",
+            Object {
+              "attrs": Object {
+                "href": "https://okdiario.com/espana/2017/02/12/iglesias-decidira-dedazo-nueva-ejecutiva-podemos-747121",
+              },
+              "children": Array [
+                "el secretario general ",
+              ],
+              "name": "a",
+            },
+            "encabezaría la lista junto a su jefa de gabinete, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Irene Montero",
+              ],
+              "name": "strong",
+            },
+            ", que sería segunda y ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Pablo Echenique",
+              ],
+              "name": "strong",
+            },
+            ", su secretario de Organización, figuraría el tercero. La portavoz en el Ayuntamiento de Madrid y afin a Errejón, ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Rita Maestre",
+              ],
+              "name": "strong",
+            },
+            ", iría la cuarta. Un puesto por delante del hasta el momento secretario político.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "“Las listas se presentaron en cremallera pero los resultados no se corrigen en cremallera”",
+              ],
+              "name": "strong",
+            },
+            ", defienden las fuentes consultadas. El líder de Podemos ha insistido durante estos últimos meses en que “hay que feminizar la política” y, por ello, ahora busca en su lista alternar los distintos puestos entre hombres y mujeres. Lo que afecta al hasta ahora ‘número dos’ de la formación, Errejón, que pasaría a ocupar el quinto puesto y no el tercero como este domingo se anunció en los resultados de la votación, por detrás de Echenique.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Iglesias reconoció en noviembre que para él no es importante este criterio que ahora aplicará. Entonces dijo que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "“la feminización de la política no se logra con más mujeres en cargos de representación,",
+              ],
+              "name": "strong",
+            },
+            " que eso es importante y está bien”, señaló.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Desde prensa del partido señalan que",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " “estos puestos no implican que uno tenga más poder que otro",
+              ],
+              "name": "strong",
+            },
+            " porque no tienen nada que ver con la composición de la Ejecutiva”. ",
+            Object {
+              "attrs": Object {
+                "href": "https://okdiario.com/espana/2017/02/12/iglesias-decidira-dedazo-nueva-ejecutiva-podemos-747121",
+              },
+              "children": Array [
+                "El líder de Podemos ",
+              ],
+              "name": "a",
+            },
+            "salió con más control que antes en el partido de la segunda Asamblea Ciudadana celebrada este fin de semana en Vistalegre.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La verdadera pugna y todavía no sabemos si purga comienza unas horas después cuando tanto Iglesias decida las nuevas caras que conformarán su Ejecutiva. ",
+            Object {
+              "attrs": Object {
+                "href": "https://okdiario.com/espana/2017/02/12/iglesias-decidira-dedazo-nueva-ejecutiva-podemos-747121",
+              },
+              "children": Array [
+                "Tal y como publicó OKDIARIO",
+              ],
+              "name": "a",
+            },
+            ", el secretario general presentará una lista con nombres elegidos ‘a dedazo’ para conformar la nueva Ejecutiva. Será el Consejo Ciudadano, formado por una mayoría de ‘pablistas’, quien autorice la composición.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "La trampa se encuentra en que se apruebe sin proporción y por mayoría simple, como indica el sistema de Iglesias. Los documentos de Errejón, que salieron derrotados de Vistalegre II, corrigen este blindaje añadiendo que la votación debería de ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "“contar para su aprobación con una mayoría cualificada de dos tercios del órgano”",
+              ],
+              "name": "strong",
+            },
+            " y que, “en caso de que no se aprobara por este procedimiento, el propio Consejo Ciudadano Estatal tendrá capacidad de propuesta para la composición del Consejo de Coordinación”.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Es decir, que sea este consejo quien proponga los nombres que deberían figurar en la Ejecutiva y no solo los que diga Iglesias. Sin embargo, los documentos de Iglesias salieron victoriosos del cónclave de la formación y la figura de Errejón sigue siendo la principal clave para conocer si de verdad va a haber integración en la formación morada.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Iglesias dejó la portavocía de Errejón en la cuerda floja reivindicando este lunes que ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "“eso lo tiene que decidir la dirección",
+              ],
+              "name": "strong",
+            },
+            ", pero creo que tenemos que ir hacia un modelo más coral, hacia un modelo más feminizado en las portavocías. Faltan mujeres en las portavocías”, zanjó.",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "https://okdiario.com/img/2016/10/14/inigo-errejon.jpg",
+    "publishedDate": 2017-02-13T13:57:19.000Z,
+    "source": Object {
+      "author": "S. Fernández / N. Val",
+    },
+    "title": "Iglesias aplica la lista cremallera y relega a Errejón al 5º puesto del Consejo Ciudadano",
+  },
+}
+`;
+
+exports[`The parser parses an publico article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><p>Íñigo Errejón. El futuro del ex número dos de Podemos <a href=\\"http://www.publico.es/politica/futuro-inigo-errejon-incognita-despejar.html\\">es el gran debate</a> que la formación morada debe afrontar tras Vistalegre II. El reelegido secretario general, Pablo Iglesias, ya defendió este domingo que Errejón debería mantener un papel \\"relevante\\", pero este lunes, en su primera entrevista tras la Asamblea Ciudadana, ha sido más contundente: <b>\\"Íñigo debe estar en primera línea, cuento con él\\".</b></p><p>En una conversación con Fernando Berlín en <a href=\\"http://www.publico.es/pages/cafetera-radiocable-publico-presentado-fernando-1.html\\">La Cafetera de Radiocable</a>, Iglesias ha alabado al portavoz en funciones de Podemos en el Congreso ─\\"es uno de los políticos más brillantes de este país\\"─, pero no se ha querido mojar a la hora de definir el papel concreto que deberá asumir a partir de ahora. Ha defendido que debe ser el Consejo Ciudadano recién elegido,<a href=\\"http://www.publico.es/politica/victoria-aplastante-iglesias-errejon-vistalegre.html\\"> y controlado en su mayoría por el sector </a>el que decida el nuevo puesto de Errejón.</p><p>\\"Hemos hablado varias veces después de Vistalegre. De hecho, no hemos dejado de hablar prácticamente ningún día. <b>Todas las posibilidades están abiertas. </b>A Íñigo se le da bien el Parlamento, le gusta mucho y creo que tiene que tener un papel importante, pero a la hora de configurar los equipos tenemos que debatir con los compañeros y no discutirlo en los medios\\", ha defendido el líder de Podemos. </p><p>Aquí puedes escuchar la entrevista completa:</p><p>Iglesias ha declarado que estos días tendrá que hablar con Errejón, pero, en todo caso, ha remarcado, \\"se debe tener un debate\\" interno, fuera de los focos de los medios de comunicación. En este sentido, ha reconocido que en los últimos meses se han \\"equivocado\\". <b>\\"Está bien ser transparente, pero hemos pecado de ingenuos\\",</b> ha declarado en relación a los últimos enfrentamientos públicos entre los distintos sectores de Podemos.</p><p>\\"Las bases han lanzado un mensaje clarísimo de unidad y humildad\\", ha declarado Iglesias, que, <a href=\\"http://www.publico.es/politica/pablo-iglesias-promete-acatar-mandato.html\\">al igual que hizo en Vistalegre,</a> ha defendido que es \\"obligatorio acatar el grito de unidad\\". Ante ello, ha continuado, Podemos debe tener un \\"liderazgo mucho más coral, no ser un partido de uno o de dos y tener más personas, sobre todo, más mujeres. <b>Es imprescindible contar con todo el mundo\\"</b>. El líder de la formación morada ha incidido en que el partido  \\"es muy diverso y hay que cuidar esa diversidad\\", pero también ha advertido de que tienen que ser que ser \\"una orquesta\\" y eso significa \\"sonar acompasada\\", al contrario de los últimos tiempos,<b> que han sonado \\"demasiado desacompasados\\". </b>\\"La gente nos tiene que ver unidos\\", ha insistido.</p><p>\\"Quizás la mejor manera para resolverlo es ampliar voces. necesitamos que haya muchas caras y muchos estilos que se asemejen con nuestra formación\\", ha respondido al respecto. <b>\\"Tenemos una deuda con Anticapitalistas</b> y creo que es bueno que tengan un papel de mayor protagonismo. Urbán debe tener mayor protagonismo, Errejón debe seguir teniéndolo <b>y las mujeres tienen que aumentar su peso\\" </b>dentro de la formación, ha defendido.</p><p>Preguntado si <a href=\\"http://www.publico.es/politica/vistalegre-ii-iglesias-plantea-dejar.html\\">su anuncio de dimisión</a> era real si perdía en la Asamblea Ciudadana, Iglesias ha respondido de manera rotunda: \\"No lo dudes. En política el sillón no es de nadie, estamos aquí de paso. Si tuviera que dejar de ser el secretario general no tendría ningún problema. La vida es maravillosa, hay muchas cosas que hacer\\". También he negado que, a tenor de los resultados, Errejón presentara su dimisión y, asimismo, ha dejado claro que<b> \\"en ningún caso\\" la habría aceptado.</b></p><p>Iglesias también ha sido cuestionado por su relación con la prensa ─\\"algunas cosas las habremos hecho mal, pero creo que hemos estado sometidos a unos niveles de presión mediática inauditos─ y sobre el PSOE ─\\"seguirá siendo una fuerza política con importancia, pero a mí me gustaría que hiciera más caso a sus militantes\\"─. Por último, el líder de Podemos ha asegurado que la formación \\"en absoluto\\" corre ningún riesgo de ruptura: <b>\\"Todos vamos a ser generosos. Tenemos la obligación de serlo.</b> El mandato de unidad nos está señalando de manera muy clara: no queremos volver a ver lo de los últimos meses\\"</p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Íñigo Errejón. El futuro del ex número dos de Podemos ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.publico.es/politica/futuro-inigo-errejon-incognita-despejar.html",
+              },
+              "children": Array [
+                "es el gran debate",
+              ],
+              "name": "a",
+            },
+            " que la formación morada debe afrontar tras Vistalegre II. El reelegido secretario general, Pablo Iglesias, ya defendió este domingo que Errejón debería mantener un papel \\"relevante\\", pero este lunes, en su primera entrevista tras la Asamblea Ciudadana, ha sido más contundente: ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"Íñigo debe estar en primera línea, cuento con él\\".",
+              ],
+              "name": "b",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "En una conversación con Fernando Berlín en ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.publico.es/pages/cafetera-radiocable-publico-presentado-fernando-1.html",
+              },
+              "children": Array [
+                "La Cafetera de Radiocable",
+              ],
+              "name": "a",
+            },
+            ", Iglesias ha alabado al portavoz en funciones de Podemos en el Congreso ─\\"es uno de los políticos más brillantes de este país\\"─, pero no se ha querido mojar a la hora de definir el papel concreto que deberá asumir a partir de ahora. Ha defendido que debe ser el Consejo Ciudadano recién elegido,",
+            Object {
+              "attrs": Object {
+                "href": "http://www.publico.es/politica/victoria-aplastante-iglesias-errejon-vistalegre.html",
+              },
+              "children": Array [
+                " y controlado en su mayoría por el sector ",
+              ],
+              "name": "a",
+            },
+            "el que decida el nuevo puesto de Errejón.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"Hemos hablado varias veces después de Vistalegre. De hecho, no hemos dejado de hablar prácticamente ningún día. ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Todas las posibilidades están abiertas. ",
+              ],
+              "name": "b",
+            },
+            "A Íñigo se le da bien el Parlamento, le gusta mucho y creo que tiene que tener un papel importante, pero a la hora de configurar los equipos tenemos que debatir con los compañeros y no discutirlo en los medios\\", ha defendido el líder de Podemos. ",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Aquí puedes escuchar la entrevista completa:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Iglesias ha declarado que estos días tendrá que hablar con Errejón, pero, en todo caso, ha remarcado, \\"se debe tener un debate\\" interno, fuera de los focos de los medios de comunicación. En este sentido, ha reconocido que en los últimos meses se han \\"equivocado\\". ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"Está bien ser transparente, pero hemos pecado de ingenuos\\",",
+              ],
+              "name": "b",
+            },
+            " ha declarado en relación a los últimos enfrentamientos públicos entre los distintos sectores de Podemos.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"Las bases han lanzado un mensaje clarísimo de unidad y humildad\\", ha declarado Iglesias, que, ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.publico.es/politica/pablo-iglesias-promete-acatar-mandato.html",
+              },
+              "children": Array [
+                "al igual que hizo en Vistalegre,",
+              ],
+              "name": "a",
+            },
+            " ha defendido que es \\"obligatorio acatar el grito de unidad\\". Ante ello, ha continuado, Podemos debe tener un \\"liderazgo mucho más coral, no ser un partido de uno o de dos y tener más personas, sobre todo, más mujeres. ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Es imprescindible contar con todo el mundo\\"",
+              ],
+              "name": "b",
+            },
+            ". El líder de la formación morada ha incidido en que el partido  \\"es muy diverso y hay que cuidar esa diversidad\\", pero también ha advertido de que tienen que ser que ser \\"una orquesta\\" y eso significa \\"sonar acompasada\\", al contrario de los últimos tiempos,",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " que han sonado \\"demasiado desacompasados\\". ",
+              ],
+              "name": "b",
+            },
+            "\\"La gente nos tiene que ver unidos\\", ha insistido.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "\\"Quizás la mejor manera para resolverlo es ampliar voces. necesitamos que haya muchas caras y muchos estilos que se asemejen con nuestra formación\\", ha respondido al respecto. ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"Tenemos una deuda con Anticapitalistas",
+              ],
+              "name": "b",
+            },
+            " y creo que es bueno que tengan un papel de mayor protagonismo. Urbán debe tener mayor protagonismo, Errejón debe seguir teniéndolo ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "y las mujeres tienen que aumentar su peso\\" ",
+              ],
+              "name": "b",
+            },
+            "dentro de la formación, ha defendido.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Preguntado si ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.publico.es/politica/vistalegre-ii-iglesias-plantea-dejar.html",
+              },
+              "children": Array [
+                "su anuncio de dimisión",
+              ],
+              "name": "a",
+            },
+            " era real si perdía en la Asamblea Ciudadana, Iglesias ha respondido de manera rotunda: \\"No lo dudes. En política el sillón no es de nadie, estamos aquí de paso. Si tuviera que dejar de ser el secretario general no tendría ningún problema. La vida es maravillosa, hay muchas cosas que hacer\\". También he negado que, a tenor de los resultados, Errejón presentara su dimisión y, asimismo, ha dejado claro que",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " \\"en ningún caso\\" la habría aceptado.",
+              ],
+              "name": "b",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Iglesias también ha sido cuestionado por su relación con la prensa ─\\"algunas cosas las habremos hecho mal, pero creo que hemos estado sometidos a unos niveles de presión mediática inauditos─ y sobre el PSOE ─\\"seguirá siendo una fuerza política con importancia, pero a mí me gustaría que hiciera más caso a sus militantes\\"─. Por último, el líder de Podemos ha asegurado que la formación \\"en absoluto\\" corre ningún riesgo de ruptura: ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "\\"Todos vamos a ser generosos. Tenemos la obligación de serlo.",
+              ],
+              "name": "b",
+            },
+            " El mandato de unidad nos está señalando de manera muy clara: no queremos volver a ver lo de los últimos meses\\"",
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "http://www.publico.es/uploads/2017/02/12/58a05437ea2ab.jpg",
+    "publishedDate": 0,
+    "source": Object {
+      "author": "PÚBLICO",
+    },
+    "title": "Pablo Iglesias: 'Errejón debe estar en primera línea, cuento con él'",
+  },
+}
+`;
