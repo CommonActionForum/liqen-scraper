@@ -39,7 +39,9 @@ function getMetadata ($) {
                    $('.news-body-date time').attr('datetime') ||
                    '').replace(' ', '')
 
-  const publishedDate = new Date(dateStr)
+  const ms = Date.parse(dateStr)
+
+  const publishedDate = isNaN(ms) ? 0 : new Date(ms)
 
   const author = ($('meta[name=author]').attr('content') ||
                   $('[itemprop=articleBody] .data [itemprop=author] [itemprop=name]').text().trim() ||
