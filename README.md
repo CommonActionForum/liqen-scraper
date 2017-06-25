@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/CommonActionForum/liqen-scraper.svg?branch=master)](https://travis-ci.org/CommonActionForum/liqen-scraper)
+[![Coverage Status](https://coveralls.io/repos/github/CommonActionForum/liqen-scraper/badge.svg?branch=master)](https://coveralls.io/github/CommonActionForum/liqen-scraper?branch=master)
+
 # Liqen Scrapper 2
 
 Find news and get the relevant information of them.
