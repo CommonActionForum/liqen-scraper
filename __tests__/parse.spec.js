@@ -31,7 +31,8 @@ describe('The parser', () => {
     'libertaddigital',
     'naciodigital',
     'okdiario',
-    'publico'
+    'publico',
+    'medium'
   ]
 
   medias.forEach(media => {

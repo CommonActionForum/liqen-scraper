@@ -565,7 +565,7 @@ Object {
   },
   "metadata": Object {
     "image": "http://6www.ecestaticos.com/imagestatic/clipping/62c/56d/62c56df1e493ec1f79938915092d2733/listos-para-el-vistalegricidio-la-batalla-final-de-podemos-en-la-que-solo-puede-quedar-uno.jpg?mtime=1486588671",
-    "publishedDate": 2017-02-09T05:00:00.000Z,
+    "publishedDate": 2017-02-09T04:00:00.000Z,
     "source": Object {
       "author": "Iván Gil",
     },
@@ -577,7 +577,7 @@ Object {
 exports[`The parser parses an eldiario article 1`] = `
 Object {
   "body": Object {
-    "html": "<div><p> Los desmanes de los mandos que el PP eligió para dirigir la Policía en la primera legislatura de Mariano Rajoy desbordan Cataluña. La segunda entrega de la entrevista en El Mundo al director adjunto operativo de la Policía hasta el pasado junio desvela que Eugenio Pino dio una orden que se alinea con las teorías revisionistas de una parte del Partido Popular, <a href=\\"http://www.eldiario.es/escolar/Esperanza-Aguirre-encuentren-mentira-politica_6_499810042.html\\"> capitaneado por Esperanza Aguirre</a>, sobre el 11-M, el mayor atentado terrorista de la historia de España. Las conclusiones del documento policial ponen en cuestión \\"algunas cosas\\" de las sentencias judiciales de la Audiencia Nacional y el Tribual Supremo, afirma Pino. </p><p> \\"No contradice la resolución judicial -dice el comisario sobre el informe-, pero da por sentado, según tengo entendido, porque no lo he leído, algunas cosas que fueron determinantes para argumentar una serie de teorías que verdaderamente se diluyen. Se aclaran algunas cosas que están en una nebulosa\\", afirma el exdirector adjunto operativo de la Policía.</p><p> Eugenio Pino pide a los actuales responsables del Ministerio del Interior que desclasifiquen este informe -\\"he leído estos días que la CIA ha desclasificado un montón de informes\\"- y otros dos que encargó a una brigada de la Unidad de Asuntos Internos que se creó con el argumento de estudiar casos en los que la actuación de la propia Policía había sido cuestionable. Los otros dos informes afectan al caso Faisán y al asesinato de Marta del Castillo. </p><p> En cuanto al caso Faisán se trata de uno de los puntales de la oposición del PP a la política antiterrorista del Gobierno de José Luis Rodríguez Zapatero, el chivatazo a una red de extorsión de ETA en pleno proceso de paz por parte de un mando policial y un subordinado, <a href=\\"http://www.eldiario.es/politica/Supremo-condenas-implicados-Caso-Faisan_0_467553749.html\\"> condenados por el Tribunal Supremo</a>. En la causa llegó a estar imputado el director general de la Policía de la época, Víctor García Hidalgo, dirigente de los socialistas vascos, pero la causa quedó archivada para éste último. </p><p> En cuanto al Faisán, dice Pino, \\"se aclaran algunas responsabilidades\\". \\"Se ha hecho un trabajo magnífico, yo me he quedado alucinado. Viendo las redes, las conexiones, con un programa que es maravilloso\\", añade. Del caso Marta del Castillo asegura que no hay novedades respecto a la investigación oficial y por eso apuesta porque se utilicen otros métodos, como el detector de mentiras. </p><p> En otro punto de la entrevista, Pino habla sin tapujos de la investigación a un partido político, Podemos, a pesar de que en la primera entrega negó la existencia de una \\"brigada política\\". Asegura el anterior jefe de la Policía que no puede demostrar que la formación se haya financiado irregularmente con con fondos procedentes de Irán y Venezuela, aunque tiene el convencimiento de ello. \\"Yo, a título particular, creo que sí, pero no lo puedo demostrar\\", dice. </p><p> La 'policía política' de Pino elaboró<a href=\\"http://www.eldiario.es/politica/Ministerio-Interior-financiacion-irregular-Podemos_0_494501418.html\\">  el informe PISA </a>sobre la presunta financiación irregular que despreció el Supremo. El Alto Tribunal solo pudo pronunciarse sobre él porque Manos Limpias lo incorporó a una de sus querellas contra Podemos, ya que, como otros informes sobre el proceso separatista en Cataluña, el informe no pasó de las portadas de los medios de comunicación habituales en estos casos. </p><p> A la pregunta de si Pablo Iglesias tiene dinero en paraísos fiscales, Eugenio Pino deja la puerta abierta a que el líder de Podemos siga a día de hoy siendo investigado: \\"Hay una información que nos viene de Venezuela en ese sentido y nosotros evidentemente la metemos en la unidad de investigación. Luego no se continúa o está en proceso de investigación. Ya se verá, Pero nuestros informes no deberían ser muy falsos cuando nuestros confidentes están recibiendo amenazas\\".</p><p> Añade que la información de Venezuela llega a la Policía española \\"a chorros\\". \\"No se puede comprobar porque hay que ir para allá, pero hay ministros, incluso algún testigo protegido. Mucha gente ha venido a contarnos cosas y nos ha dado fotos de todo lo que está ocurriendo en Venezuela\\", apostilla. </p><p> </p><p> </p></div>",
+    "html": "<div><p> Los desmanes de los mandos que el PP eligió para dirigir la Policía en la primera legislatura de Mariano Rajoy desbordan Cataluña. La segunda entrega de la entrevista en El Mundo al director adjunto operativo de la Policía hasta el pasado junio desvela que Eugenio Pino dio una orden que se alinea con las teorías revisionistas de una parte del Partido Popular, <a href=\\"http://www.eldiario.es/escolar/Esperanza-Aguirre-encuentren-mentira-politica_6_499810042.html\\"> capitaneado por Esperanza Aguirre</a>, sobre el 11-M, el mayor atentado terrorista de la historia de España. Las conclusiones del documento policial ponen en cuestión \\"algunas cosas\\" de las sentencias judiciales de la Audiencia Nacional y el Tribual Supremo, afirma Pino. </p><p> \\"No contradice la resolución judicial -dice el comisario sobre el informe-, pero da por sentado, según tengo entendido, porque no lo he leído, algunas cosas que fueron determinantes para argumentar una serie de teorías que verdaderamente se diluyen. Se aclaran algunas cosas que están en una nebulosa\\", afirma el exdirector adjunto operativo de la Policía.</p><p> Eugenio Pino pide a los actuales responsables del Ministerio del Interior que desclasifiquen este informe -\\"he leído estos días que la CIA ha desclasificado un montón de informes\\"- y otros dos que encargó a una brigada de la Unidad de Asuntos Internos que se creó con el argumento de estudiar casos en los que la actuación de la propia Policía había sido cuestionable. Los otros dos informes afectan al caso Faisán y al asesinato de Marta del Castillo. </p><p> En cuanto al caso Faisán se trata de uno de los puntales de la oposición del PP a la política antiterrorista del Gobierno de José Luis Rodríguez Zapatero, el chivatazo a una red de extorsión de ETA en pleno proceso de paz por parte de un mando policial y un subordinado, <a href=\\"http://www.eldiario.es/politica/Supremo-condenas-implicados-Caso-Faisan_0_467553749.html\\"> condenados por el Tribunal Supremo</a>. En la causa llegó a estar imputado el director general de la Policía de la época, Víctor García Hidalgo, dirigente de los socialistas vascos, pero la causa quedó archivada para éste último. </p><p> En cuanto al Faisán, dice Pino, \\"se aclaran algunas responsabilidades\\". \\"Se ha hecho un trabajo magnífico, yo me he quedado alucinado. Viendo las redes, las conexiones, con un programa que es maravilloso\\", añade. Del caso Marta del Castillo asegura que no hay novedades respecto a la investigación oficial y por eso apuesta porque se utilicen otros métodos, como el detector de mentiras. </p><h3>Investigación a Podemos</h3><p> En otro punto de la entrevista, Pino habla sin tapujos de la investigación a un partido político, Podemos, a pesar de que en la primera entrega negó la existencia de una \\"brigada política\\". Asegura el anterior jefe de la Policía que no puede demostrar que la formación se haya financiado irregularmente con con fondos procedentes de Irán y Venezuela, aunque tiene el convencimiento de ello. \\"Yo, a título particular, creo que sí, pero no lo puedo demostrar\\", dice. </p><p> La 'policía política' de Pino elaboró<a href=\\"http://www.eldiario.es/politica/Ministerio-Interior-financiacion-irregular-Podemos_0_494501418.html\\">  el informe PISA </a>sobre la presunta financiación irregular que despreció el Supremo. El Alto Tribunal solo pudo pronunciarse sobre él porque Manos Limpias lo incorporó a una de sus querellas contra Podemos, ya que, como otros informes sobre el proceso separatista en Cataluña, el informe no pasó de las portadas de los medios de comunicación habituales en estos casos. </p><p> A la pregunta de si Pablo Iglesias tiene dinero en paraísos fiscales, Eugenio Pino deja la puerta abierta a que el líder de Podemos siga a día de hoy siendo investigado: \\"Hay una información que nos viene de Venezuela en ese sentido y nosotros evidentemente la metemos en la unidad de investigación. Luego no se continúa o está en proceso de investigación. Ya se verá, Pero nuestros informes no deberían ser muy falsos cuando nuestros confidentes están recibiendo amenazas\\".</p><p> Añade que la información de Venezuela llega a la Policía española \\"a chorros\\". \\"No se puede comprobar porque hay que ir para allá, pero hay ministros, incluso algún testigo protegido. Mucha gente ha venido a contarnos cosas y nos ha dado fotos de todo lo que está ocurriendo en Venezuela\\", apostilla. </p><p> </p><p> </p></div>",
     "object": Object {
       "attrs": Object {},
       "children": Array [
@@ -635,6 +635,13 @@ Object {
             " En cuanto al Faisán, dice Pino, \\"se aclaran algunas responsabilidades\\". \\"Se ha hecho un trabajo magnífico, yo me he quedado alucinado. Viendo las redes, las conexiones, con un programa que es maravilloso\\", añade. Del caso Marta del Castillo asegura que no hay novedades respecto a la investigación oficial y por eso apuesta porque se utilicen otros métodos, como el detector de mentiras. ",
           ],
           "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Investigación a Podemos",
+          ],
+          "name": "h3",
         },
         Object {
           "attrs": Object {},
@@ -706,7 +713,7 @@ Object {
 exports[`The parser parses an elmundo article 1`] = `
 Object {
   "body": Object {
-    "html": "<div><p>No fue una visita f�cil la que el presidente de la Generalitat, Carles Puigdemont, realiz� este viernes por la noche a la fiesta mayor del barrio de Llefi� de Badalona, uno de los m�s poblados de la ciudad. <strong>Su discurso fue interrumpido ante los abucheos y gritos de de \\"fuera, fuera\\" </strong>de buena parte del p�blico que incluso lleg� a clamar \\"Espa�a, Espa�a\\" en varias ocasiones. Puigdemont lleg� a preguntar \\"�me dejar�is hablar?\\" antes de iniciar su intervenci�n e incluso afirm� que \\"si no os gusta silbar despu�s, pero dejadme hablar\\". </p><p>En el escenario se encontraba la alcaldesa de Badalona, Dolors Sabater, de Guanyem Badalona en Com�, que intent� animar al presidente con aplausos, as� como el presidente de la asociaci�n de vecinos Sant Joan de Llefi�-Gran Sol quien hizo <strong>un amago de intervenir para calmar los �nimos aunque Puigdemont lo rechaz� con un gesto</strong>. Finalmente el presidente inici� su discurso sobre la importancia de la fiesta mayor en cada localidad como espacio de reuni�n de un pueblo, pero tuvo que ir interrumpi�ndose ante los abucheos. Tambi�n hab�a quien le aplaud�a cuando la pitada era m�s fuerte.</p><p>En su primer acto tras la pitada en Llefi�, Puigdemont asegur� que \\"Catalu�a siempre sobrevive, aunque muchos la quieran hundir\\" y respecto al debate soberanista remarc� que \\"frente a un mar alterado y en el que nos quieren hundir antes de tiempo, siempre acabamos flotando\\". El presidente particip� en la Fira del Tap de Cass� de la Selva (Girona), que gira alrededor de la industria del corcho.</p><p>\\"En un momento de cambio clim�tico, oportunidad econ�mica y prestigio gastron�mico en la zona, los oficios del �mbito del corcho presentan m�s futuro que nunca\\", reivindic� Puigdemont quien visit� la feria y pudo ver el proceso de producci�n del corcho o participar en una demostraci�n sobre la pela de un alcornoque.</p></div>",
+    "html": "<div><p>No fue una visita f�cil la que el presidente de la Generalitat, Carles Puigdemont, realiz� este viernes por la noche a la fiesta mayor del barrio de Llefi� de Badalona, uno de los m�s poblados de la ciudad. <strong>Su discurso fue interrumpido ante los abucheos y gritos de de \\"fuera, fuera\\" </strong>de buena parte del p�blico que incluso lleg� a clamar \\"Espa�a, Espa�a\\" en varias ocasiones. Puigdemont lleg� a preguntar \\"�me dejar�is hablar?\\" antes de iniciar su intervenci�n e incluso afirm� que \\"si no os gusta silbar despu�s, pero dejadme hablar\\". </p><p>En el escenario se encontraba la alcaldesa de Badalona, Dolors Sabater, de Guanyem Badalona en Com�, que intent� animar al presidente con aplausos, as� como el presidente de la asociaci�n de vecinos Sant Joan de Llefi�-Gran Sol quien hizo <strong>un amago de intervenir para calmar los �nimos aunque Puigdemont lo rechaz� con un gesto</strong>. Finalmente el presidente inici� su discurso sobre la importancia de la fiesta mayor en cada localidad como espacio de reuni�n de un pueblo, pero tuvo que ir interrumpi�ndose ante los abucheos. Tambi�n hab�a quien le aplaud�a cuando la pitada era m�s fuerte.</p><h3>El corcho como alegor�a</h3><p>En su primer acto tras la pitada en Llefi�, Puigdemont asegur� que \\"Catalu�a siempre sobrevive, aunque muchos la quieran hundir\\" y respecto al debate soberanista remarc� que \\"frente a un mar alterado y en el que nos quieren hundir antes de tiempo, siempre acabamos flotando\\". El presidente particip� en la Fira del Tap de Cass� de la Selva (Girona), que gira alrededor de la industria del corcho.</p><p>\\"En un momento de cambio clim�tico, oportunidad econ�mica y prestigio gastron�mico en la zona, los oficios del �mbito del corcho presentan m�s futuro que nunca\\", reivindic� Puigdemont quien visit� la feria y pudo ver el proceso de producci�n del corcho o participar en una demostraci�n sobre la pela de un alcornoque.</p></div>",
     "object": Object {
       "attrs": Object {},
       "children": Array [
@@ -739,6 +746,13 @@ Object {
             ". Finalmente el presidente inici� su discurso sobre la importancia de la fiesta mayor en cada localidad como espacio de reuni�n de un pueblo, pero tuvo que ir interrumpi�ndose ante los abucheos. Tambi�n hab�a quien le aplaud�a cuando la pitada era m�s fuerte.",
           ],
           "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "El corcho como alegor�a",
+          ],
+          "name": "h3",
         },
         Object {
           "attrs": Object {},
@@ -1059,7 +1073,9 @@ Object {
 exports[`The parser parses an esdiario article 1`] = `
 Object {
   "body": Object {
-    "html": "<div><p>Coincidiendo con el <a href=\\"https://twitter.com/hashtag/D%C3%ADaMundialDeLaRadio?src=hash\\"><strong>DíaMundialDeLaRadio</strong></a><strong> Carlos Herrera</strong> logró un hito histórico este lunes en los micrófonos de <strong>COPE</strong> al reunir, por primera vez en un programa, a tres leyendas radiofónicas vivientes como <strong>José María García, Iñaki Gabilondo</strong> y <strong>Luis del Olmo:</strong> \\"Tres jóvenes promesas de la historia de la radio que han tenido la amabilidad de cederme parte de su tiempo esta semana\\".</p><p>La expectación era máxima, ya lo dijo <strong>Herrera</strong> antes de empezar: \\"Estamos en el estudio Antonio Herrero, un estudio grande en el que caben muchas personas, pero nunca había visto esta concentración de seres humanos\\". </p>---<p>Precisamente<strong> José María García </strong>quiso romper el hielo entre emotivo y divertido: ''Quería tener con vosotros un emotivo y cordial saludo para Antonio Herrero'', dijo serio para luego bromear con un \\"aunque este no era exactamente su estudio, esto es lo más parecido a Marina D'Or\\".</p><p>Y es que <strong>García,</strong> genio y figura, fue el que más risas arrancó este lunes en la mítica cita, contando anécdotas, indignándose, enfadándose para luego bromear y arrancando aplausos dentro y fuera de la mesa. Y eso que había prometido \\"ser bueno\\".</p><p>Claro que no menos sincero se mostró<strong> Luis del Olmo</strong> cuando relató el comienzo del fenómeno Iñaki Gabilondo en el panorama radiofónico: \\"Cuando irrumpió Protagonistas, la SER se preocupó mucho; fue cuando apareció Gabilondo. El <em>cabroncete</em> este, yo reinaba feliz en solitario, en RNE, la SER sólo se dirigía a las amas de casa, cuando apareció este <em>cabrón...</em> (perdón) y entonces comenzamos a repartinos el pastel”.</p><p><strong>Gabilondo</strong> también su momentazo cuando reflexionó a la cara de <strong>García</strong> que \\"dislocó mucho con su lenguaje, se comentaba mucho el estilo de <strong>José María</strong>'' y no tanto todo el trabajo y el esfuerzo que había detrás. </p><p>Coincidieron todos en que, tal como dijo <strong>Del Olmo</strong>, \\"ahora se difunde una radio muy similar a la que hacíamos <strong>Gabilondo, García</strong> y yo'' y le dio la razón <strong>Carlos Herrera</strong>: \\"El modelo de <strong>Iñaki</strong> sigue haciéndose en la <strong>SER,</strong> yo sigo haciendo el tuyo y si tu pones la radio por la noche el esquema, con sus matices y su personalidad, es el esquema de <strong>García\\".</strong></p><p>Y ahí el exlocutor deportivo aprovechó para lanzar algún recadito envenenado a viejos enemigos: \\"Es el mismo esquema, pero no se parece en nada a mi programa, porque en el mío había denuncia, investigación y credibilidad. En el periodismo deportivo de hoy, no lo hay\\". </p><p>Eso sí, sin dar nombres, porque \\"le he prometido a la abuela de tu amiga Montserrat que iba a ser bueno y lo voy a ser...\\". Claro que en más de una ocasión durante la tertulia estuvo bordeando incumplir su promesa. Como cuando sacó a relucir \\"la faena del EGM\\" (\\"aquí <strong>Luis del Olmo</strong> ha sido mucho más elegante que yo, pero menuda faena con el EGM\\") o cuando salió a relucir la política actual: \\"a Don Mariano tenía que darle un repaso pero no se lo voy a dar porque lo he prometido... pero a los políticos hay que recordarles que son nuestros empleados, no nuestros jefes, son porquería, tenemos políticos de tercera división\\".</p><p>Con razón los oyentes escribían mensajes a Herrera como \\"sí, hombre, a <strong>García</strong> jaleale encima...\\".</p><p>Por lo demás muchas anécdotas curiosas y divertidas, la mayoría interpretadas con el gracejo propio de <strong>García</strong> ante las carcajadas del respetable y sin cortarse un pelo con <strong>Herrera</strong> que le seguía el juego: que si \\"mucho hablar de los cabreos de <strong>Encarna</strong> y de <strong>Luis</strong> pero ¿por qué no hablas de los tuyos?\\" que si \\"en mi vida he conocido a dos genios, los tipos más vagos: <strong>Carlos Herrera</strong> y <strong>Luis Herrero</strong>\\", que si \\"tengo un récord, no hay programa de la radio por el que hayan pasado más directores que el mío\\"...</p><p>Claro que <strong>Herrera</strong> tampoco se quedó corto: \\"¿Cuántas veces te han querido pegar tras un partido de fútbol?\\", le dijo, a lo que <strong>García</strong> respondió: \\"Pocas, porque iba muy protegido\\" y el presentador de <strong>Herrera</strong> en <strong>COPE</strong> le espetó divertido: \\"¿Llevabas a <strong>Roberto Gómez</strong>?\\".</p><p>Todavía se la devolvió <strong>García</strong> antes de irse: \\"Tengo que reconocer que me he equivocado seriamente y me alegro de ello... Tenía serias dudas de que tu estuvieras hoy en Madrid, me dije, este cabrón es capaz de hacerlo desde Sevilla y no viene... Le está entrando la sensatez con los años\\".</p><p>Sin duda una reunión de lujo entre cuatro grandes de las ondas en un día muy especial para la radio española y que causó furor no solo dentro del estudio, sino también fuera y en las redes sociales.</p></div>",
+    "html": "<div><p>Coincidiendo con el <a href=\\"https://twitter.com/hashtag/D%C3%ADaMundialDeLaRadio?src=hash\\"><strong>DíaMundialDeLaRadio</strong></a><strong> Carlos Herrera</strong> logró un hito histórico este lunes en los micrófonos de <strong>COPE</strong> al reunir, por primera vez en un programa, a tres leyendas radiofónicas vivientes como <strong>José María García, Iñaki Gabilondo</strong> y <strong>Luis del Olmo:</strong> \\"Tres jóvenes promesas de la historia de la radio que han tenido la amabilidad de cederme parte de su tiempo esta semana\\".</p><p>La expectación era máxima, ya lo dijo <strong>Herrera</strong> antes de empezar: \\"Estamos en el estudio Antonio Herrero, un estudio grande en el que caben muchas personas, pero nunca había visto esta concentración de seres humanos\\". </p><blockquote>
+<p>Máxima expectación ante la reunión de los <a href=\\"https://twitter.com/hashtag/Los4deCOPE?src=hash\\">#Los4deCOPE</a> en <a href=\\"https://twitter.com/HerreraenCOPE\\">@HerreraenCOPE</a> <a href=\\"https://twitter.com/hashtag/D%C3%ADaMundialDeLaRadio?src=hash\\">#DíaMundialDeLaRadio</a> <a href=\\"https://t.co/PiiGHKDbvW\\">pic.twitter.com/PiiGHKDbvW</a></p>
+— cope.es (@cope_es) <a href=\\"https://twitter.com/cope_es/status/831061258413735936\\">13 de febrero de 2017</a></blockquote>---<p>Precisamente<strong> José María García </strong>quiso romper el hielo entre emotivo y divertido: ''Quería tener con vosotros un emotivo y cordial saludo para Antonio Herrero'', dijo serio para luego bromear con un \\"aunque este no era exactamente su estudio, esto es lo más parecido a Marina D'Or\\".</p><p>Y es que <strong>García,</strong> genio y figura, fue el que más risas arrancó este lunes en la mítica cita, contando anécdotas, indignándose, enfadándose para luego bromear y arrancando aplausos dentro y fuera de la mesa. Y eso que había prometido \\"ser bueno\\".</p><p>Claro que no menos sincero se mostró<strong> Luis del Olmo</strong> cuando relató el comienzo del fenómeno Iñaki Gabilondo en el panorama radiofónico: \\"Cuando irrumpió Protagonistas, la SER se preocupó mucho; fue cuando apareció Gabilondo. El <em>cabroncete</em> este, yo reinaba feliz en solitario, en RNE, la SER sólo se dirigía a las amas de casa, cuando apareció este <em>cabrón...</em> (perdón) y entonces comenzamos a repartinos el pastel”.</p><p><strong>Gabilondo</strong> también su momentazo cuando reflexionó a la cara de <strong>García</strong> que \\"dislocó mucho con su lenguaje, se comentaba mucho el estilo de <strong>José María</strong>'' y no tanto todo el trabajo y el esfuerzo que había detrás. </p><p>Coincidieron todos en que, tal como dijo <strong>Del Olmo</strong>, \\"ahora se difunde una radio muy similar a la que hacíamos <strong>Gabilondo, García</strong> y yo'' y le dio la razón <strong>Carlos Herrera</strong>: \\"El modelo de <strong>Iñaki</strong> sigue haciéndose en la <strong>SER,</strong> yo sigo haciendo el tuyo y si tu pones la radio por la noche el esquema, con sus matices y su personalidad, es el esquema de <strong>García\\".</strong></p><p>Y ahí el exlocutor deportivo aprovechó para lanzar algún recadito envenenado a viejos enemigos: \\"Es el mismo esquema, pero no se parece en nada a mi programa, porque en el mío había denuncia, investigación y credibilidad. En el periodismo deportivo de hoy, no lo hay\\". </p><p>Eso sí, sin dar nombres, porque \\"le he prometido a la abuela de tu amiga Montserrat que iba a ser bueno y lo voy a ser...\\". Claro que en más de una ocasión durante la tertulia estuvo bordeando incumplir su promesa. Como cuando sacó a relucir \\"la faena del EGM\\" (\\"aquí <strong>Luis del Olmo</strong> ha sido mucho más elegante que yo, pero menuda faena con el EGM\\") o cuando salió a relucir la política actual: \\"a Don Mariano tenía que darle un repaso pero no se lo voy a dar porque lo he prometido... pero a los políticos hay que recordarles que son nuestros empleados, no nuestros jefes, son porquería, tenemos políticos de tercera división\\".</p><p>Con razón los oyentes escribían mensajes a Herrera como \\"sí, hombre, a <strong>García</strong> jaleale encima...\\".</p><p>Por lo demás muchas anécdotas curiosas y divertidas, la mayoría interpretadas con el gracejo propio de <strong>García</strong> ante las carcajadas del respetable y sin cortarse un pelo con <strong>Herrera</strong> que le seguía el juego: que si \\"mucho hablar de los cabreos de <strong>Encarna</strong> y de <strong>Luis</strong> pero ¿por qué no hablas de los tuyos?\\" que si \\"en mi vida he conocido a dos genios, los tipos más vagos: <strong>Carlos Herrera</strong> y <strong>Luis Herrero</strong>\\", que si \\"tengo un récord, no hay programa de la radio por el que hayan pasado más directores que el mío\\"...</p><p>Claro que <strong>Herrera</strong> tampoco se quedó corto: \\"¿Cuántas veces te han querido pegar tras un partido de fútbol?\\", le dijo, a lo que <strong>García</strong> respondió: \\"Pocas, porque iba muy protegido\\" y el presentador de <strong>Herrera</strong> en <strong>COPE</strong> le espetó divertido: \\"¿Llevabas a <strong>Roberto Gómez</strong>?\\".</p><p>Todavía se la devolvió <strong>García</strong> antes de irse: \\"Tengo que reconocer que me he equivocado seriamente y me alegro de ello... Tenía serias dudas de que tu estuvieras hoy en Madrid, me dije, este cabrón es capaz de hacerlo desde Sevilla y no viene... Le está entrando la sensatez con los años\\".</p><p>Sin duda una reunión de lujo entre cuatro grandes de las ondas en un día muy especial para la radio española y que causó furor no solo dentro del estudio, sino también fuera y en las redes sociales.</p></div>",
     "object": Object {
       "attrs": Object {},
       "children": Array [
@@ -1131,6 +1147,71 @@ Object {
             " antes de empezar: \\"Estamos en el estudio Antonio Herrero, un estudio grande en el que caben muchas personas, pero nunca había visto esta concentración de seres humanos\\". ",
           ],
           "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "
+",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Máxima expectación ante la reunión de los ",
+                Object {
+                  "attrs": Object {
+                    "href": "https://twitter.com/hashtag/Los4deCOPE?src=hash",
+                  },
+                  "children": Array [
+                    "#Los4deCOPE",
+                  ],
+                  "name": "a",
+                },
+                " en ",
+                Object {
+                  "attrs": Object {
+                    "href": "https://twitter.com/HerreraenCOPE",
+                  },
+                  "children": Array [
+                    "@HerreraenCOPE",
+                  ],
+                  "name": "a",
+                },
+                " ",
+                Object {
+                  "attrs": Object {
+                    "href": "https://twitter.com/hashtag/D%C3%ADaMundialDeLaRadio?src=hash",
+                  },
+                  "children": Array [
+                    "#DíaMundialDeLaRadio",
+                  ],
+                  "name": "a",
+                },
+                " ",
+                Object {
+                  "attrs": Object {
+                    "href": "https://t.co/PiiGHKDbvW",
+                  },
+                  "children": Array [
+                    "pic.twitter.com/PiiGHKDbvW",
+                  ],
+                  "name": "a",
+                },
+              ],
+              "name": "p",
+            },
+            "
+— cope.es (@cope_es) ",
+            Object {
+              "attrs": Object {
+                "href": "https://twitter.com/cope_es/status/831061258413735936",
+              },
+              "children": Array [
+                "13 de febrero de 2017",
+              ],
+              "name": "a",
+            },
+          ],
+          "name": "blockquote",
         },
         "---",
         Object {
@@ -2090,7 +2171,7 @@ Object {
 exports[`The parser parses an libertaddigital article 1`] = `
 Object {
   "body": Object {
-    "html": "<div><p><a href=\\"http://www.libertaddigital.com/personajes/mariano-rajoy/\\"><strong>Mariano Rajoy</strong> c</a>onsidera \\"absurdo\\" que en su día, en pleno periodo de incertidumbre política, le pidieran que diera un paso atrás. \\"El PP nunca me pidió que me fuera\\", recordó este lunes en<em> TVE</em>, pese a que sí que existieron movimientos internos en su contra. Sea como fuere, un día después de l<a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-12/rajoy-sobre-cataluna-tenemos-claro-lo-que-no-vamos-a-permitir-1276592549/\\">a clausura del congreso de su partido</a>, hinchado de poder y sin contestación interna, se declaró \\"estupendamente\\" y rechazó hablar, hoy por hoy, de la limitación de mandatos.</p><p>El presidente resumió de la siguiente forma lo ocurrido en el cónclave del PP: \\"Mariano Rajoy ha hecho de Mariano Rajoy. Lo sorprendente es que hiciera de Pablo Iglesias o de cualquier otro que haya por ahí\\", afirmó. <strong>Sergio Martín</strong>, el conductor de<em> Los Desayunos,</em> le preguntó en un momento dado por los equilibrios que hizo en la elección de la nueva Ejecutiva, y él mismo sacó a colación <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/\\">los nombres de <strong>María Dolores de Cospedal</strong> y <strong>Soraya Sáenz de Santamaría</strong></a>. \\"Son dos personas que están ahí, que continúan ahí y que lo han hecho muy bien\\", contestó. \\"¿Por qué tengo que cambiarlas? (...) Lo que funciona bien no se cambia\\", destacó, rechazando que haya buscado la armonía entre las dos dirigentes políticas.</p><p>En clave interna, Rajoy confirmó que <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/\\"><strong>Fernando Martínez-Maillo </strong>se encargará del \\"día a día\\" de la formación</a>. Esto es, será oficialmente el nuevo hombre fuerte de Génova, cosa que en la práctica ya era desde hace meses. \\"<strong>Cospedal pierde las mismas competencias que pierdo yo</strong>. Ninguno de los dos vamos a estar allí\\", explicó, \\"salvo los fines de semana y el lunes\\". Según dijo, la número dos se encargará de \\"asuntos concretos\\" del PP pero su principal cometido será el ministerio de Defensa. \\"Su prioridad tiene que ser el Gobierno\\", se reafirmó.</p><p>En este sentido, defendió la compatibilidad de cargos de Cospedal y restó importancia a la tensión vivida en la votación de la enmienda contra esa acumulación de responsabilidades. \\"Se han mantenido <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/congreso-pp-2017-que-ocurrio-en-la-votacion-de-la-enmienda-anti-cospedal-dimisiones-y-acusaciones-de-tongo-1276592522/\\">posiciones muy exageradas, no era una enmienda contra nadie</a>\\", afirmó. También le preguntaron por la gestación subrogada y el enfado de los cargos provida, y el presidente se puso de perfil y comentó que la solución acordada es que primero escucharán a los expertos sobre el tema.</p><p>En la entrevista, una vez más, Rajoy miró a Alemania o Reino Unido para argumentar que la limitación de mandatos no está en la agenda de ningún país de la Unión Europea, aunque reconoció el texo suscrito por Ciudadanos y <strong>\\"estoy dispuesto a verlo y a hablarlo con todos\\"</strong>, según recalcó. Además, de sus palabras se desprende que no le preocupa la presunta corrupción en su partido: \\"¿Podemos hacer algo más? Por supuesto\\", aseveró, aunque se declaró \\"muy tranquilo\\" y se ofreció a pactar nuevas medidas contra dicha lacra.</p><p>Por lo demás, insistió en que no sopesa un adelanto electoral -sería \\"un disparate\\"- y reiteró que <strong>quiere presentar los Presupuestos Generales del Estado</strong>, aunque no quiso dar una fecha. Corroboró sus buenas relaciones con <strong>Javier Fernández</strong>, el responsable de la gestora del PSOE, así como con <strong>Pablo Iglesias</strong>, aunque en el plano personal y no político. \\"Al final, en la vida somos personas y las relaciones personales son muy importantes. Lo personal hay que preservarlo siempre y yo lo intento\\", razonó.</p><p>En paralelo, Cospedal protagonizó este lunes una batería de entrevistas para proclamar que está contenta con la designación de Maillo -aunque su entorno admite malestar por la gestión del congreso- y confirmar que<a href=\\"http://www.libertaddigital.com/espana/politica/2016-11-05/asi-fue-la-confeccion-del-gobierno-llamadas-a-ultima-hora-y-pactos-con-santamaria-y-cospedal-1276586036/\\"> lo había pactado todo con Rajoy hace meses, cuando confeccionó su actual Ejecutivo</a>. \\"Es lo que me parece que había que hacer\\" y \\"da la casualidad que el presidente ha considerado que era la mejor opción\\", destacó en <em>Onda Cero</em>. Después, en<em> La Sexta</em>, rechazó aclarar si se presentará al congreso del PP de Castilla-La Mancha, aunque los suyos allí albergan pocas dudas.<strong> Carmen Riolobos</strong>, la portavoz del partido, destacó el \\"liderazgo indiscutible\\" de Cospedal en la región.</p><p>Precisamente, la número dos del PP anunció que este mismo martes se celebrará la Junta Directiva regional para poner fecha al cónclave, que se celebrará antes de Semana Santa. Una vez convocado, los cargos que lo deseen podrán presentar sus candidaturas aunque, según las fuentes consultadas, la también ministra de Defensa esperará un poco más para desvelar sus planes. En las quinielas,<strong> Rosa Romero</strong>, actualmente en la Mesa del Congreso de los Diputados.  </p></div>",
+    "html": "<div><p><a href=\\"http://www.libertaddigital.com/personajes/mariano-rajoy/\\"><strong>Mariano Rajoy</strong> c</a>onsidera \\"absurdo\\" que en su día, en pleno periodo de incertidumbre política, le pidieran que diera un paso atrás. \\"El PP nunca me pidió que me fuera\\", recordó este lunes en<em> TVE</em>, pese a que sí que existieron movimientos internos en su contra. Sea como fuere, un día después de l<a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-12/rajoy-sobre-cataluna-tenemos-claro-lo-que-no-vamos-a-permitir-1276592549/\\">a clausura del congreso de su partido</a>, hinchado de poder y sin contestación interna, se declaró \\"estupendamente\\" y rechazó hablar, hoy por hoy, de la limitación de mandatos.</p><p>El presidente resumió de la siguiente forma lo ocurrido en el cónclave del PP: \\"Mariano Rajoy ha hecho de Mariano Rajoy. Lo sorprendente es que hiciera de Pablo Iglesias o de cualquier otro que haya por ahí\\", afirmó. <strong>Sergio Martín</strong>, el conductor de<em> Los Desayunos,</em> le preguntó en un momento dado por los equilibrios que hizo en la elección de la nueva Ejecutiva, y él mismo sacó a colación <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/\\">los nombres de <strong>María Dolores de Cospedal</strong> y <strong>Soraya Sáenz de Santamaría</strong></a>. \\"Son dos personas que están ahí, que continúan ahí y que lo han hecho muy bien\\", contestó. \\"¿Por qué tengo que cambiarlas? (...) Lo que funciona bien no se cambia\\", destacó, rechazando que haya buscado la armonía entre las dos dirigentes políticas.</p><p>En clave interna, Rajoy confirmó que <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/rajoy-ratifica-a-cospedal-pese-a-las-presiones-y-nombra-coordinador-general-a-maillo-1276592533/\\"><strong>Fernando Martínez-Maillo </strong>se encargará del \\"día a día\\" de la formación</a>. Esto es, será oficialmente el nuevo hombre fuerte de Génova, cosa que en la práctica ya era desde hace meses. \\"<strong>Cospedal pierde las mismas competencias que pierdo yo</strong>. Ninguno de los dos vamos a estar allí\\", explicó, \\"salvo los fines de semana y el lunes\\". Según dijo, la número dos se encargará de \\"asuntos concretos\\" del PP pero su principal cometido será el ministerio de Defensa. \\"Su prioridad tiene que ser el Gobierno\\", se reafirmó.</p><p>En este sentido, defendió la compatibilidad de cargos de Cospedal y restó importancia a la tensión vivida en la votación de la enmienda contra esa acumulación de responsabilidades. \\"Se han mantenido <a href=\\"http://www.libertaddigital.com/espana/politica/2017-02-11/congreso-pp-2017-que-ocurrio-en-la-votacion-de-la-enmienda-anti-cospedal-dimisiones-y-acusaciones-de-tongo-1276592522/\\">posiciones muy exageradas, no era una enmienda contra nadie</a>\\", afirmó. También le preguntaron por la gestación subrogada y el enfado de los cargos provida, y el presidente se puso de perfil y comentó que la solución acordada es que primero escucharán a los expertos sobre el tema.</p><p>En la entrevista, una vez más, Rajoy miró a Alemania o Reino Unido para argumentar que la limitación de mandatos no está en la agenda de ningún país de la Unión Europea, aunque reconoció el texo suscrito por Ciudadanos y <strong>\\"estoy dispuesto a verlo y a hablarlo con todos\\"</strong>, según recalcó. Además, de sus palabras se desprende que no le preocupa la presunta corrupción en su partido: \\"¿Podemos hacer algo más? Por supuesto\\", aseveró, aunque se declaró \\"muy tranquilo\\" y se ofreció a pactar nuevas medidas contra dicha lacra.</p><p>Por lo demás, insistió en que no sopesa un adelanto electoral -sería \\"un disparate\\"- y reiteró que <strong>quiere presentar los Presupuestos Generales del Estado</strong>, aunque no quiso dar una fecha. Corroboró sus buenas relaciones con <strong>Javier Fernández</strong>, el responsable de la gestora del PSOE, así como con <strong>Pablo Iglesias</strong>, aunque en el plano personal y no político. \\"Al final, en la vida somos personas y las relaciones personales son muy importantes. Lo personal hay que preservarlo siempre y yo lo intento\\", razonó.</p><h3>El PP de C-LM quiere que siga Cospedal</h3><p>En paralelo, Cospedal protagonizó este lunes una batería de entrevistas para proclamar que está contenta con la designación de Maillo -aunque su entorno admite malestar por la gestión del congreso- y confirmar que<a href=\\"http://www.libertaddigital.com/espana/politica/2016-11-05/asi-fue-la-confeccion-del-gobierno-llamadas-a-ultima-hora-y-pactos-con-santamaria-y-cospedal-1276586036/\\"> lo había pactado todo con Rajoy hace meses, cuando confeccionó su actual Ejecutivo</a>. \\"Es lo que me parece que había que hacer\\" y \\"da la casualidad que el presidente ha considerado que era la mejor opción\\", destacó en <em>Onda Cero</em>. Después, en<em> La Sexta</em>, rechazó aclarar si se presentará al congreso del PP de Castilla-La Mancha, aunque los suyos allí albergan pocas dudas.<strong> Carmen Riolobos</strong>, la portavoz del partido, destacó el \\"liderazgo indiscutible\\" de Cospedal en la región.</p><p>Precisamente, la número dos del PP anunció que este mismo martes se celebrará la Junta Directiva regional para poner fecha al cónclave, que se celebrará antes de Semana Santa. Una vez convocado, los cargos que lo deseen podrán presentar sus candidaturas aunque, según las fuentes consultadas, la también ministra de Defensa esperará un poco más para desvelar sus planes. En las quinielas,<strong> Rosa Romero</strong>, actualmente en la Mesa del Congreso de los Diputados.  </p></div>",
     "object": Object {
       "attrs": Object {},
       "children": Array [
@@ -2281,6 +2362,13 @@ Object {
         Object {
           "attrs": Object {},
           "children": Array [
+            "El PP de C-LM quiere que siga Cospedal",
+          ],
+          "name": "h3",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
             "En paralelo, Cospedal protagonizó este lunes una batería de entrevistas para proclamar que está contenta con la designación de Maillo -aunque su entorno admite malestar por la gestión del congreso- y confirmar que",
             Object {
               "attrs": Object {
@@ -2345,6 +2433,1124 @@ Object {
       "author": "Pablo Montesinos",
     },
     "title": "Rajoy, sobre la tensi�n entre Cospedal y Santamar�a: \\"�Por qu� tengo que cambiarlas?\\"",
+  },
+}
+`;
+
+exports[`The parser parses an medium article 1`] = `
+Object {
+  "body": Object {
+    "html": "<div><blockquote>Note: This is the introduction to the “Composing Software” series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up. Stay tuned. There’s a lot more of this to come!</blockquote><blockquote>Composition: “The act of combining parts or elements to form a whole.” ~ Dictionary.com</blockquote><p>In my first high school programming class, I was told that software development is “the act of breaking a complex problem down into smaller problems, and composing simple solutions to form a complete solution to the complex problem.”</p><p>One of my biggest regrets in life is that I failed to understand the significance of that lesson early on. I learned the essence of software design far too late in life.</p><p>I have interviewed hundreds of developers. What I’ve learned from those sessions is that I’m not alone. Very few working software developers have a good grasp on the essence of software development. They aren’t aware of the most important tools we have at our disposal, or how to put them to good use. 100% have struggled to answer one or both of the most important questions in the field of software development:</p><p>The problem is that you can’t avoid composition just because you’re not aware of it. You still do it — but you do it badly. You write code with more bugs, and make it harder for other developers to understand. This is a big problem. The effects are very costly. We spend more time maintaining software than we do creating it from scratch, and our bugs impact billions of people all over the world.</p><p>The entire world runs on software today. Every new car is a mini super-computer on wheels, and problems with software design cause real accidents and cost real human lives. In 2013, a jury found Toyota’s software development team <a href=\\"http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code\\">guilty of “reckless disregard”</a> after an accident investigation revealed spaghetti code with 10,000 global variables.</p><p><a href=\\"https://www.technologyreview.com/s/607875/should-the-government-keep-stockpiling-software-bugs/\\">Hackers and governments stockpile bugs</a> in order to spy on people, steal credit cards, harness computing resources to launch Distributed Denial of Service (DDoS) attacks, crack passwords, and even <a href=\\"https://www.technologyreview.com/s/604138/the-fbi-shut-down-a-huge-botnet-but-there-are-plenty-more-left/\\">manipulate elections</a>.</p><p>We must do better.</p><h3>You Compose Software Every Day</h3><p>If you’re a software developer, you compose functions and data structures every day, whether you know it or not. You can do it consciously (and better), or you can do it accidentally, with duct-tape and crazy glue.</p><p>The process of software development is breaking down large problems into smaller problems, building components that solve those smaller problems, then composing those components together to form a complete application.</p><h3>Composing Functions</h3><p>Function composition is the process of applying a function to the output of another function. In algebra, given two functions, and , . The circle is the composition operator. It's commonly pronounced \\"composed with\\" or \\"after\\". You can say that out-loud as \\" <em>composed with</em>  equals  of  of \\", or \\" <em>after</em>  equals  of  of \\". We say  <em>after</em>  because  is evaluated first, then its output is passed as an argument to .</p><p>Every time you write code like this, you’re composing functions:</p><pre>const g = n => n + 1;const f = n => n * 2;</pre><pre>const doStuff = x => {  const afterG = g(x);  const afterF = f(afterG);  return afterF;};</pre><pre>doStuff(20); // 42</pre><p>Every time you write a promise chain, you’re composing functions:</p><pre>const g = n => n + 1;const f = n => n * 2;</pre><pre>const wait = time => new Promise(  (resolve, reject) => setTimeout(    resolve,    time  ));</pre><pre>wait(300)  .then(() => 20)  .then(g)  .then(f)  .then(value => console.log(value)) // 42;</pre><p>Likewise, every time you chain array method calls, lodash methods, observables (RxJS, etc…) you’re composing functions. If you’re chaining, you’re composing. If you’re passing return values into other functions, you’re composing. If you call two methods in a sequence, you’re composing using  as input data.</p><blockquote>If you’re chaining, you’re composing.</blockquote><p>When you compose functions intentionally, you’ll do it better.</p><p>Composing functions intentionally, we can improve our  function to a simple one-liner:</p><pre>const g = n => n + 1;const f = n => n * 2;</pre><pre>const doStuffBetter = x => f(g(x));</pre><pre>doStuffBetter(20); // 42</pre><p>A common objection to this form is that it’s harder to debug. For example, how would we write this using function composition?</p><pre>const doStuff = x => {  const afterG = g(x);  console.log(\`after g: \${ afterG }\`);  const afterF = f(afterG);  console.log(\`after f: \${ afterF }\`);  return afterF;};</pre><pre>doStuff(20); // =>/*\\"after g: 21\\"\\"after f: 42\\"*/</pre><p>First, let’s abstract that “after f”, “after g” logging into a little utility called :</p><pre>const trace = label => value => {  console.log(\`\${ label }: \${ value }\`);  return value;};</pre><p>Now we can use it like this:</p><pre>const doStuff = x => {  const afterG = g(x);  trace('after g')(afterG);  const afterF = f(afterG);  trace('after f')(afterF);  return afterF;};</pre><pre>doStuff(20); // =>/*\\"after g: 21\\"\\"after f: 42\\"*/</pre><p>Popular functional programming libraries like Lodash and Ramda include utilities to make function composition easier. You can rewrite the above function like this:</p><pre>import pipe from 'lodash/fp/flow';</pre><pre>const doStuffBetter = pipe(  g,  trace('after g'),  f,  trace('after f'));</pre><pre>doStuffBetter(20); // =>/*\\"after g: 21\\"\\"after f: 42\\"*/</pre><p>If you want to try this code without importing something, you can define pipe like this:</p><pre>// pipe(...fns: [...Function]) => x => yconst pipe = (...fns) => x => fns.reduce((y, f) => f(y), x);</pre><p>Don’t worry if you’re not following how that works, yet. Later on we’ll explore function composition in a lot more detail. In fact, it’s so essential, you’ll see it defined and demonstrated many times throughout this text. The point is to help you become so familiar with it that its definition and usage becomes automatic. Be one with the composition.</p><p> creates a pipeline of functions, passing the output of one function to the input of another. When you use  (and its twin, ) You don't need intermediary variables. Writing functions without mention of the arguments is called <strong>point-free style.</strong> To do it, you'll call a function that returns the new function, rather than declaring the function explicitly. That means you won't need the  keyword or the arrow syntax ().</p><p>Point-free style can be taken too far, but a little bit here and there is great because those intermediary variables add unnecessary complexity to your functions.</p><p>There are several benefits to reduced complexity:</p><p>The average human brain has only a few shared resources for discrete quanta in <a href=\\"http://www.nature.com/neuro/journal/v17/n3/fig_tab/nn.3655_F2.html\\">working memory</a>, and each variable potentially consumes one of those quanta. As you add more variables, our ability to accurately recall the meaning of each variable is diminished. Working memory models typically involve 4–7 discrete quanta. Above those numbers, error rates dramatically increase.</p><p>Using the pipe form, we eliminated 3 variables — freeing up almost half of our available working memory for other things. That reduces our cognitive load significantly. Software developers tend to be better at chunking data into working memory than the average person, but not so much more as to weaken the importance of conservation.</p><p>Concise code also improves the signal-to-noise ratio of your code. It’s like listening to a radio — when the radio is not tuned properly to the station, you get a lot of interfering noise, and it’s harder to hear the music. When you tune it to the correct station, the noise goes away, and you get a stronger musical signal.</p><p>Code is the same way. More concise code expression leads to enhanced comprehension. Some code gives us useful information, and some code just takes up space. If you can reduce the amount of code you use without reducing the meaning that gets transmitted, you’ll make the code easier to parse and understand for other people who need to read it.</p><p>Take a look at the before and after functions. It looks like the function went on a diet and lost a ton of weight. That’s important because extra code means extra surface area for bugs to hide in, which means more bugs will hide in it.</p><blockquote><em>Less code = less surface area for bugs = fewer bugs.</em></blockquote><h3>Composing Objects</h3><blockquote>“Favor object composition over class inheritance” the Gang of Four, <a href=\\"https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&qid=1494993475&sr=8-1&keywords=design+patterns&linkCode=ll1&tag=eejs-20&linkId=6c553f16325f3939e5abadd4ee04e8b4\\">“Design Patterns: Elements of Reusable Object Oriented Software”</a></blockquote><blockquote>“In computer science, a composite data type or compound data type is any data type which can be constructed in a program using the programming language’s primitive data types and other composite types. […] The act of constructing a composite type is known as composition.” ~ Wikipedia</blockquote><p>These are primitives:</p><pre>const firstName = 'Claude';const lastName = 'Debussy';</pre><p>And this is a composite:</p><pre>const fullName = {  firstName,  lastName};</pre><p>Likewise, all Arrays, Sets, Maps, WeakMaps, TypedArrays, etc… are composite datatypes. Any time you build any non-primitive data structure, you’re performing some kind of object composition.</p><p>Note that the Gang of Four defines a pattern called the <em>composite pattern</em> which is a type of composite such that each component becomes a self-contained property of a container component. Some developers get confused, thinking that the composite pattern is the only form of object composition. Don’t get confused.</p><p>Class inheritance can be used to construct composite objects, but it’s a restrictive and brittle way to do it. When the Gang of Four says “favor object composition over class inheritance”, they’re advising you to use flexible approaches to composite object building, rather than the rigid, tightly-coupled approach of class inheritance.</p><p>The Gang of Four also defines other composite design patterns, including the flyweight pattern, the delegate pattern, the aggregate pattern, and so on.</p><p>We’ll use a more general definition of object composition from <a href=\\"https://www.amazon.com/Categorical-Methods-Computer-Science-Topology/dp/0387517227/ref=as_li_ss_tl?ie=UTF8&qid=1495077930&sr=8-3&keywords=Categorical+Methods+in+Computer+Science:+With+Aspects+from+Topology&linkCode=ll1&tag=eejs-20&linkId=095afed5272832b74357f63b41410cb7\\">“Categorical Methods in Computer Science: With Aspects from Topology”</a> (1989):</p><blockquote>“Composite objects are formed by putting objects together such that each of the latter is ‘part of’ the former.”</blockquote><p>Another good reference is “Reliable Software Through Composite Design”, Glenford J Myers, 1975. Both books are long out of print, but you can still find sellers on Amazon or eBay if you’d like to explore the subject of object composition in more technical depth.</p><p><em>Class inheritance is just one kind of composite object construction.</em> All classes produce composite objects, but not all composite objects are produced by classes or class inheritance. “Favor object composition over class inheritance” means that you should form composite objects from small component parts, rather than inheriting all properties from an ancestor in a class hierarchy. The latter causes a large variety of well-known problems in object oriented design:</p><p>The most common form of object composition is known as mixin composition. It works like ice-cream. You start with an object (like vanilla ice-cream), and then mix in the features you want. Add some nuts, caramel, chocolate swirl, and you wind up with nutty caramel chocolate swirl ice cream.</p><p>Building composites with class inheritance:</p><pre>class Foo {  constructor () {    this.a = 'a'  }}</pre><pre>class Bar extends Foo {  constructor (options) {    super(options);    this.b = 'b'  }}</pre><pre>const myBar = new Bar(); // {a: 'a', b: 'b'}</pre><p>Building composites with mixin composition:</p><pre>const a = {  a: 'a'};</pre><pre>const b = {  b: 'b'};</pre><pre>const c = {...a, ...b}; // {a: 'a', b: 'b'}</pre><p>We’ll explore other styles of object composition in more depth later. For now, your understanding should be:</p><h3>Conclusion</h3><p>This isn’t about functional programming (FP) vs object-oriented programming (OOP), or one language vs another. Components can take the form of functions, data structures, classes, etc… Different programming languages tend to afford different atomic elements for components. Java affords classes, Haskell affords functions, etc… But no matter what language and what paradigm you favor, you can’t get away from composing functions and data structures. In the end, that’s what it all boils down to.</p><p>We’ll talk a lot about functional programming, because functions are the simplest things to compose in JavaScript, and the functional programming community has invested a lot of time and effort formalizing function composition techniques.</p><p>What we won’t do is say that functional programming is better than object-oriented programming, or that you must choose one over the other. OOP vs FP is a false dichotomy. Every real Javascript application I’ve seen in recent years mixes FP and OOP extensively.</p><p>We’ll use object composition to produce datatypes for functional programming, and functional programming to produce objects for OOP.</p><p><em>No matter how you write software, you should compose it well.</em></p><blockquote>The essence of software development is composition.</blockquote><p>A software developer who doesn’t understand composition is like a home builder who doesn’t know about bolts or nails. Building software without awareness of composition is like a home builder putting walls together with duct tape and crazy glue.</p><p>It’s time to simplify, and the best way to simplify is to get to the essence. The trouble is, almost nobody in the industry has a good handle on the essentials. We as an industry have failed you, the software developer. It’s our responsibility as an industry to train developers better. We must improve. We need to take responsibility. Everything runs on software today, from the economy to medical equipment. There is literally no corner of human life on this planet that is not impacted by the quality of our software. We need to know what we’re doing.</p><p>It’s time to learn how to compose software.</p><p><a href=\\"https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c\\">Continued in “The Rise and Fall and Rise of Functional Programming”</a></p><h3>Level Up Your Skills with Live 1:1 Mentorship</h3><p>DevAnywhere is the fastest way to level up to advanced JavaScript skills:</p><p><strong><em>Eric Elliott</em></strong><em> is the author of </em><a href=\\"http://pjabook.com\\"><em>“Programming JavaScript Applications”</em></a><em> (O’Reilly), and cofounder of </em><a href=\\"https://devanywhere.io/\\"><em>DevAnywhere.io</em></a><em>. He has contributed to software experiences for </em><strong><em>Adobe Systems</em></strong><em>, </em><strong><em>Zumba Fitness</em></strong><em>, </em><strong><em>The Wall Street Journal</em></strong><em>, </em><strong><em>ESPN</em></strong><em>, </em><strong><em>BBC</em></strong><em>, and top recording artists including </em><strong><em>Usher</em></strong><em>, </em><strong><em>Frank Ocean</em></strong><em>, </em><strong><em>Metallica</em></strong><em>, and many more.</em></p><p><em>He works anywhere he wants with the most beautiful woman in the world.</em></p></div>",
+    "object": Object {
+      "attrs": Object {},
+      "children": Array [
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Note: This is the introduction to the “Composing Software” series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up. Stay tuned. There’s a lot more of this to come!",
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Composition: “The act of combining parts or elements to form a whole.” ~ Dictionary.com",
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "In my first high school programming class, I was told that software development is “the act of breaking a complex problem down into smaller problems, and composing simple solutions to form a complete solution to the complex problem.”",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "One of my biggest regrets in life is that I failed to understand the significance of that lesson early on. I learned the essence of software design far too late in life.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "I have interviewed hundreds of developers. What I’ve learned from those sessions is that I’m not alone. Very few working software developers have a good grasp on the essence of software development. They aren’t aware of the most important tools we have at our disposal, or how to put them to good use. 100% have struggled to answer one or both of the most important questions in the field of software development:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The problem is that you can’t avoid composition just because you’re not aware of it. You still do it — but you do it badly. You write code with more bugs, and make it harder for other developers to understand. This is a big problem. The effects are very costly. We spend more time maintaining software than we do creating it from scratch, and our bugs impact billions of people all over the world.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The entire world runs on software today. Every new car is a mini super-computer on wheels, and problems with software design cause real accidents and cost real human lives. In 2013, a jury found Toyota’s software development team ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code",
+              },
+              "children": Array [
+                "guilty of “reckless disregard”",
+              ],
+              "name": "a",
+            },
+            " after an accident investigation revealed spaghetti code with 10,000 global variables.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {
+                "href": "https://www.technologyreview.com/s/607875/should-the-government-keep-stockpiling-software-bugs/",
+              },
+              "children": Array [
+                "Hackers and governments stockpile bugs",
+              ],
+              "name": "a",
+            },
+            " in order to spy on people, steal credit cards, harness computing resources to launch Distributed Denial of Service (DDoS) attacks, crack passwords, and even ",
+            Object {
+              "attrs": Object {
+                "href": "https://www.technologyreview.com/s/604138/the-fbi-shut-down-a-huge-botnet-but-there-are-plenty-more-left/",
+              },
+              "children": Array [
+                "manipulate elections",
+              ],
+              "name": "a",
+            },
+            ".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "We must do better.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "You Compose Software Every Day",
+          ],
+          "name": "h3",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "If you’re a software developer, you compose functions and data structures every day, whether you know it or not. You can do it consciously (and better), or you can do it accidentally, with duct-tape and crazy glue.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The process of software development is breaking down large problems into smaller problems, building components that solve those smaller problems, then composing those components together to form a complete application.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Composing Functions",
+          ],
+          "name": "h3",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Function composition is the process of applying a function to the output of another function. In algebra, given two functions, ",
+            "and ",
+            ", ",
+            ". The circle is the composition operator. It's commonly pronounced \\"composed with\\" or \\"after\\". You can say that out-loud as \\"",
+            " ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "composed with",
+              ],
+              "name": "em",
+            },
+            " ",
+            " equals ",
+            " of ",
+            " of ",
+            "\\", or \\"",
+            " ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "after",
+              ],
+              "name": "em",
+            },
+            " ",
+            " equals ",
+            " of ",
+            " of ",
+            "\\". We say ",
+            " ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "after",
+              ],
+              "name": "em",
+            },
+            " ",
+            " because ",
+            " is evaluated first, then its output is passed as an argument to ",
+            ".",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Every time you write code like this, you’re composing functions:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const g = n => n + 1;",
+            "const f = n => n * 2;",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const doStuff = x => {",
+            "  const afterG = g(x);",
+            "  const afterF = f(afterG);",
+            "  return afterF;",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "doStuff(20); // 42",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Every time you write a promise chain, you’re composing functions:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const g = n => n + 1;",
+            "const f = n => n * 2;",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const wait = time => new Promise(",
+            "  (resolve, reject) => setTimeout(",
+            "    resolve,",
+            "    time",
+            "  )",
+            ");",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "wait(300)",
+            "  .then(() => 20)",
+            "  .then(g)",
+            "  .then(f)",
+            "  .then(value => console.log(value)) // 42",
+            ";",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Likewise, every time you chain array method calls, lodash methods, observables (RxJS, etc…) you’re composing functions. If you’re chaining, you’re composing. If you’re passing return values into other functions, you’re composing. If you call two methods in a sequence, you’re composing using ",
+            " as input data.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "If you’re chaining, you’re composing.",
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "When you compose functions intentionally, you’ll do it better.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Composing functions intentionally, we can improve our ",
+            " function to a simple one-liner:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const g = n => n + 1;",
+            "const f = n => n * 2;",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const doStuffBetter = x => f(g(x));",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "doStuffBetter(20); // 42",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "A common objection to this form is that it’s harder to debug. For example, how would we write this using function composition?",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const doStuff = x => {",
+            "  const afterG = g(x);",
+            "  console.log(\`after g: \${ afterG }\`);",
+            "  const afterF = f(afterG);",
+            "  console.log(\`after f: \${ afterF }\`);",
+            "  return afterF;",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "doStuff(20); // =>",
+            "/*",
+            "\\"after g: 21\\"",
+            "\\"after f: 42\\"",
+            "*/",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "First, let’s abstract that “after f”, “after g” logging into a little utility called ",
+            ":",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const trace = label => value => {",
+            "  console.log(\`\${ label }: \${ value }\`);",
+            "  return value;",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Now we can use it like this:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const doStuff = x => {",
+            "  const afterG = g(x);",
+            "  trace('after g')(afterG);",
+            "  const afterF = f(afterG);",
+            "  trace('after f')(afterF);",
+            "  return afterF;",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "doStuff(20); // =>",
+            "/*",
+            "\\"after g: 21\\"",
+            "\\"after f: 42\\"",
+            "*/",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Popular functional programming libraries like Lodash and Ramda include utilities to make function composition easier. You can rewrite the above function like this:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "import pipe from 'lodash/fp/flow';",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const doStuffBetter = pipe(",
+            "  g,",
+            "  trace('after g'),",
+            "  f,",
+            "  trace('after f')",
+            ");",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "doStuffBetter(20); // =>",
+            "/*",
+            "\\"after g: 21\\"",
+            "\\"after f: 42\\"",
+            "*/",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "If you want to try this code without importing something, you can define pipe like this:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "// pipe(...fns: [...Function]) => x => y",
+            "const pipe = (...fns) => x => fns.reduce((y, f) => f(y), x);",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Don’t worry if you’re not following how that works, yet. Later on we’ll explore function composition in a lot more detail. In fact, it’s so essential, you’ll see it defined and demonstrated many times throughout this text. The point is to help you become so familiar with it that its definition and usage becomes automatic. Be one with the composition.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            " creates a pipeline of functions, passing the output of one function to the input of another. When you use ",
+            " (and its twin, ",
+            ") You don't need intermediary variables. Writing functions without mention of the arguments is called ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "point-free style.",
+              ],
+              "name": "strong",
+            },
+            " To do it, you'll call a function that returns the new function, rather than declaring the function explicitly. That means you won't need the ",
+            " keyword or the arrow syntax (",
+            ").",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Point-free style can be taken too far, but a little bit here and there is great because those intermediary variables add unnecessary complexity to your functions.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "There are several benefits to reduced complexity:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The average human brain has only a few shared resources for discrete quanta in ",
+            Object {
+              "attrs": Object {
+                "href": "http://www.nature.com/neuro/journal/v17/n3/fig_tab/nn.3655_F2.html",
+              },
+              "children": Array [
+                "working memory",
+              ],
+              "name": "a",
+            },
+            ", and each variable potentially consumes one of those quanta. As you add more variables, our ability to accurately recall the meaning of each variable is diminished. Working memory models typically involve 4–7 discrete quanta. Above those numbers, error rates dramatically increase.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Using the pipe form, we eliminated 3 variables — freeing up almost half of our available working memory for other things. That reduces our cognitive load significantly. Software developers tend to be better at chunking data into working memory than the average person, but not so much more as to weaken the importance of conservation.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Concise code also improves the signal-to-noise ratio of your code. It’s like listening to a radio — when the radio is not tuned properly to the station, you get a lot of interfering noise, and it’s harder to hear the music. When you tune it to the correct station, the noise goes away, and you get a stronger musical signal.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Code is the same way. More concise code expression leads to enhanced comprehension. Some code gives us useful information, and some code just takes up space. If you can reduce the amount of code you use without reducing the meaning that gets transmitted, you’ll make the code easier to parse and understand for other people who need to read it.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Take a look at the before and after functions. It looks like the function went on a diet and lost a ton of weight. That’s important because extra code means extra surface area for bugs to hide in, which means more bugs will hide in it.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Less code = less surface area for bugs = fewer bugs.",
+              ],
+              "name": "em",
+            },
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Composing Objects",
+          ],
+          "name": "h3",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "“Favor object composition over class inheritance” the Gang of Four, ",
+            Object {
+              "attrs": Object {
+                "href": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&qid=1494993475&sr=8-1&keywords=design+patterns&linkCode=ll1&tag=eejs-20&linkId=6c553f16325f3939e5abadd4ee04e8b4",
+              },
+              "children": Array [
+                "“Design Patterns: Elements of Reusable Object Oriented Software”",
+              ],
+              "name": "a",
+            },
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "“In computer science, a composite data type or compound data type is any data type which can be constructed in a program using the programming language’s primitive data types and other composite types. […] The act of constructing a composite type is known as composition.” ~ Wikipedia",
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "These are primitives:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const firstName = 'Claude';",
+            "const lastName = 'Debussy';",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "And this is a composite:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const fullName = {",
+            "  firstName,",
+            "  lastName",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Likewise, all Arrays, Sets, Maps, WeakMaps, TypedArrays, etc… are composite datatypes. Any time you build any non-primitive data structure, you’re performing some kind of object composition.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Note that the Gang of Four defines a pattern called the ",
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "composite pattern",
+              ],
+              "name": "em",
+            },
+            " which is a type of composite such that each component becomes a self-contained property of a container component. Some developers get confused, thinking that the composite pattern is the only form of object composition. Don’t get confused.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Class inheritance can be used to construct composite objects, but it’s a restrictive and brittle way to do it. When the Gang of Four says “favor object composition over class inheritance”, they’re advising you to use flexible approaches to composite object building, rather than the rigid, tightly-coupled approach of class inheritance.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The Gang of Four also defines other composite design patterns, including the flyweight pattern, the delegate pattern, the aggregate pattern, and so on.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "We’ll use a more general definition of object composition from ",
+            Object {
+              "attrs": Object {
+                "href": "https://www.amazon.com/Categorical-Methods-Computer-Science-Topology/dp/0387517227/ref=as_li_ss_tl?ie=UTF8&qid=1495077930&sr=8-3&keywords=Categorical+Methods+in+Computer+Science:+With+Aspects+from+Topology&linkCode=ll1&tag=eejs-20&linkId=095afed5272832b74357f63b41410cb7",
+              },
+              "children": Array [
+                "“Categorical Methods in Computer Science: With Aspects from Topology”",
+              ],
+              "name": "a",
+            },
+            " (1989):",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "“Composite objects are formed by putting objects together such that each of the latter is ‘part of’ the former.”",
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Another good reference is “Reliable Software Through Composite Design”, Glenford J Myers, 1975. Both books are long out of print, but you can still find sellers on Amazon or eBay if you’d like to explore the subject of object composition in more technical depth.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "Class inheritance is just one kind of composite object construction.",
+              ],
+              "name": "em",
+            },
+            " All classes produce composite objects, but not all composite objects are produced by classes or class inheritance. “Favor object composition over class inheritance” means that you should form composite objects from small component parts, rather than inheriting all properties from an ancestor in a class hierarchy. The latter causes a large variety of well-known problems in object oriented design:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The most common form of object composition is known as mixin composition. It works like ice-cream. You start with an object (like vanilla ice-cream), and then mix in the features you want. Add some nuts, caramel, chocolate swirl, and you wind up with nutty caramel chocolate swirl ice cream.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Building composites with class inheritance:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "class Foo {",
+            "  constructor () {",
+            "    this.a = 'a'",
+            "  }",
+            "}",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "class Bar extends Foo {",
+            "  constructor (options) {",
+            "    super(options);",
+            "    this.b = 'b'",
+            "  }",
+            "}",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const myBar = new Bar(); // {a: 'a', b: 'b'}",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Building composites with mixin composition:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const a = {",
+            "  a: 'a'",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const b = {",
+            "  b: 'b'",
+            "};",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "const c = {...a, ...b}; // {a: 'a', b: 'b'}",
+          ],
+          "name": "pre",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "We’ll explore other styles of object composition in more depth later. For now, your understanding should be:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Conclusion",
+          ],
+          "name": "h3",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "This isn’t about functional programming (FP) vs object-oriented programming (OOP), or one language vs another. Components can take the form of functions, data structures, classes, etc… Different programming languages tend to afford different atomic elements for components. Java affords classes, Haskell affords functions, etc… But no matter what language and what paradigm you favor, you can’t get away from composing functions and data structures. In the end, that’s what it all boils down to.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "We’ll talk a lot about functional programming, because functions are the simplest things to compose in JavaScript, and the functional programming community has invested a lot of time and effort formalizing function composition techniques.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "What we won’t do is say that functional programming is better than object-oriented programming, or that you must choose one over the other. OOP vs FP is a false dichotomy. Every real Javascript application I’ve seen in recent years mixes FP and OOP extensively.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "We’ll use object composition to produce datatypes for functional programming, and functional programming to produce objects for OOP.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "No matter how you write software, you should compose it well.",
+              ],
+              "name": "em",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "The essence of software development is composition.",
+          ],
+          "name": "blockquote",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "A software developer who doesn’t understand composition is like a home builder who doesn’t know about bolts or nails. Building software without awareness of composition is like a home builder putting walls together with duct tape and crazy glue.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "It’s time to simplify, and the best way to simplify is to get to the essence. The trouble is, almost nobody in the industry has a good handle on the essentials. We as an industry have failed you, the software developer. It’s our responsibility as an industry to train developers better. We must improve. We need to take responsibility. Everything runs on software today, from the economy to medical equipment. There is literally no corner of human life on this planet that is not impacted by the quality of our software. We need to know what we’re doing.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "It’s time to learn how to compose software.",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {
+                "href": "https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c",
+              },
+              "children": Array [
+                "Continued in “The Rise and Fall and Rise of Functional Programming”",
+              ],
+              "name": "a",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "Level Up Your Skills with Live 1:1 Mentorship",
+          ],
+          "name": "h3",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            "DevAnywhere is the fastest way to level up to advanced JavaScript skills:",
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Eric Elliott",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " is the author of ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {
+                "href": "http://pjabook.com",
+              },
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "“Programming JavaScript Applications”",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "a",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                " (O’Reilly), and cofounder of ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {
+                "href": "https://devanywhere.io/",
+              },
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "DevAnywhere.io",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "a",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ". He has contributed to software experiences for ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Adobe Systems",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Zumba Fitness",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "The Wall Street Journal",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "ESPN",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "BBC",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", and top recording artists including ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Usher",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Frank Ocean",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", ",
+              ],
+              "name": "em",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                Object {
+                  "attrs": Object {},
+                  "children": Array [
+                    "Metallica",
+                  ],
+                  "name": "em",
+                },
+              ],
+              "name": "strong",
+            },
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                ", and many more.",
+              ],
+              "name": "em",
+            },
+          ],
+          "name": "p",
+        },
+        Object {
+          "attrs": Object {},
+          "children": Array [
+            Object {
+              "attrs": Object {},
+              "children": Array [
+                "He works anywhere he wants with the most beautiful woman in the world.",
+              ],
+              "name": "em",
+            },
+          ],
+          "name": "p",
+        },
+      ],
+      "name": "div",
+    },
+  },
+  "metadata": Object {
+    "image": "https://cdn-images-1.medium.com/max/1200/1*uVpU7iruzXafhU2VLeH4lw.jpeg",
+    "publishedDate": 2017-05-18T05:54:56.031Z,
+    "source": Object {
+      "author": "",
+    },
+    "title": "Composing Software: An Introduction – JavaScript Scene – Medium",
   },
 }
 `;
